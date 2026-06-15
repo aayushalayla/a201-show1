@@ -1,0 +1,193 @@
+Title: Range of Projects a Portfolio Can Include
+URL: https://arc.dev/talent-blog/software-engineer-portfolio/
+
+---
+Summary:
+Learn how to build an online portfolio to show off your software engineering skills with expert tips and great examples in this guide.
+
+Unlike more visual vocations like design, architecture, or film, the idea of a personal portfolio isn’t a requirement to get a job in software engineering.
+
+However, between picky employers and a dearth of new bootcamp developers and fresh grads to compete with, it can be a fantastic tool for helping you land that next role.
+
+Before I dive into the ins and outs of how to make a software engineer portfolio and what should go into it, let’s first make sure have a shared understanding of what a software engineer is.
+
+Software Engineer vs Developer vs Programmer
+This is a topic that can light a fire under many an otherwise laid-back developer. I have written on this topic before and enjoyed the comment section immensely!
+
+While I don’t believe any one is better than the other I do think there are different modes of working that fit these names and we all move between them throughout our careers.
+
+Let’s take a look at each in turn so we can get a firm idea of what to put in a software engineer portfolio.
+
+Programming
+This is the act of writing code, the foundation we build our careers on, simply instructing a computer to complete a task. Programming could be a simple shell script or a self-contained Jira ticket as part of a larger feature. Leetcode and interview problems fall into this category nicely. Often this mode is the most fun as we are simply solving the problem in front of us.
+
+Software development
+Here we are thinking about a larger problem space, perhaps linking multiple services together, operating through the full stack (web or native), or building a framework or library. There are external considerations to consider, interfaces to maintain, and API contracts to be mindful of.
+
+Our work likely impacts other parts of the system, and, if on a team, other people as well. The output of our work here is likely the most appreciated by a user and the easiest to show off and point to as “I made that.”
+
+While we’re mostly focused on the difference between programming, software development, and software engineering, I want to add that, with complex, full-stack projects like these, you may want to leverage software development outsourcing services. Outsourced dev teams bring specialized expertise to tackle the intricacies of large-scale development initiatives. By routing work to dedicated outsourced teams, the scope of what organizations can build expands greatly.
+
+Software Engineering
+Software engineering is less about the code that is written and more about the design decisions taken, the technologies chosen, and the overall architecture of a system. When engineering a solution, you need to consider the broadest context that the system operates in, hardware requirements, scalability, design and architecture patterns, developer experience, maintainability, deliverability, and business requirements. You can consider elevating your digital presence with a SAAS design agency that understands the heartbeat of your vision.
+
+Unlike older disciplines such as civil, mechanical, or electrical engineering, software doesn’t have a universally agreed upon definition of its engineering standards, and so much of this is subjective. But ultimately, in my opinion, the engineering in software has little to do with the code you write and more to do with the whys behind the system you build.
+
+Given the above, we can see that a software engineer is a developer, and a developer is also a programmer, but a programmer or developer is not necessarily a software engineer. It all depends on the context and scale of the work being undertaken.
+
+Rather than viewing these definitions as an evaluation of the person undertaking the work, view it more as an evaluation of the work and the mindset required to complete it.
+What is a Software Engineer Portfolio?
+After defining the above terms, how do we now determine what a software engineering portfolio is?
+
+In the simplest terms, a software engineer portfolio is a summary of work you have completed that shows you are a capable software engineer. It is your landing page, your sales page used to score a job interview or find new clients.
+
+With that in mind, we can start to understand what to include in a software engineer portfolio by considering the target audience. When applying for work there are two groups to consider:
+
+Recruiters (both internal and external) – non-technical
+Hiring managers – technical
+In all but the rarest of cases, recruiters are not technical. While they can pattern match requirements to skills with keywords such as Kubernetes or embedded, it’s unlikely they can explain the difference between UIKit and SwiftUI, beyond simply that one is newer than the other.
+
+On the other hand, hiring managers care very deeply about the meaning behind the terms above. They are looking to fill a role with the most qualified and experienced candidate they can within the headcount and budget they have. If they are explicitly looking for software engineers, we can assume that they don’t just care about the “how” of the work you have done but also the “why” behind it.
+
+So a good portfolio of software engineering work should convey all of the above to two different target demographics in an easy-to-understand and concise package that they can absorb in a couple of minutes!
+
+Quite the undertaking.
+The Benefits of a Portfolio for Software Engineering Jobs
+There are a lot of benefits to having a software engineer portfolio but a question I hear a lot is:
+
+If I have a CV or resume, then why do I need a portfolio?
+
+This makes it clear not everyone has bought into the idea of a portfolio, but let’s look at some benefits:
+
+1. Stand out from the crowd
+While demand for software engineers is at an all time high, it is still a challenge to land the most coveted positions that can take your career to the next level. Very few of us are fortunate enough to have FAANG (Facebook, Apple, Amazon, Netflix, and Google) experience or a Stanford, Oxford, or IIT degree on our resumes. So, we need to fill our quiver with as many digital arrows as possible, and a great online engineering portfolio can act as a quiver and arrow at the same time! While facing challenges like an Amazon background check denied, building a robust software engineer portfolio becomes crucial.
+
+2. Single destination
+With the myriad of places you can be online nowadays, from the stalwarts of LinkedIn and Twitter to the designer and engineer specific corners, such as Dribble and Github, it’s difficult to know where that one best place is to send prospective employers or collaborators.
+
+Many will say LinkedIn, but that’s a pretty poor way to show your developer skills. Others will say Github is the one true location for developers, but, referring back to the target audiences of your portfolio, a recruiter isn’t going to get much there. Your software engineer portfolio, ideally at your own domain, is the best place to showcase what makes you a uniquely qualified candidate.
+
+3. Progressive disclosure
+To steal a term from UX, your own portfolio allows you to reveal information about yourself in the order and pace that you think is best. Unlike Github, that shows all your code immediately, or Twitter, which shows your most recent thoughts, you can design your own website to walk a visitor through your career, skills, and achievements in the order you see best.
+
+Perhaps the thing you want to show people first is a significant PR you submitted to a large open source project. Maybe it’s an app you developed in your spare time. Perhaps you are new to the field and your degree or bootcamp is the best starting point. Your portfolio, your choice.
+6 Powerful Elements for a Solid Software Engineer Portfolio
+Now, let’s look at what to put in your software engineer portfolio.
+
+About information
+Your portfolio is about you, so make sure to include an about section or about page that is easy to find. You don’t need to be too personal if you don’t want to, but avoid the typical stilted resume summary section blurb that is all adjectives and no substance.
+
+An overview of the type of work you like, what makes you tick, and what you want from the next few years. Professionally friendly is the ideal tone of voice to use here.
+
+Contact details
+The number one reason to have a portfolio is to encourage people to contact you, so make that very easy for them. An obvious contact form or easy-to-find email is pretty important to a successful portfolio.
+
+Skills and abilities
+People will want to know what skills you have, so remember to highlight the things that you think make you a great software engineer. Are you a TDD wizard, a Design Pattern guru, or a scalability ninja? If so, then those are the kinds of things to make prominent.
+
+Avoid the percentages and bar charts of years gone by, they create visual noise. No one really knows what “75% Angular” means anyway!
+Projects
+This is where the real meat of your portfolio should be, and, depending on the type of work you have done in your career, it could be quite challenging to populate. Many of us spend much of our careers working on proprietary systems that we can’t talk about.
+
+If you’ve spent much of you time developing DevOps systems for a bank or embedded firmware for an appliance manufacturer, you might also be wondering what you can even do to demonstrate your skills. Well, never fear, I have dedicated a whole section below to this problem!
+
+Blog / Podcast
+It’s unlikely you’ve made it this far in your career without developing a few opinions on best practices along the way. In fact, one of the reasons people want to hire you is for those opinions. An unopinionated experienced developer is more concerning than an inexperienced junior developer.
+
+Taking the time to write those opinions down and share them on your portfolio shows that you are experienced and able to effectively communicate your ideas. As we move to more asynchronous remote work, this is a vital skill that companies are going to actively seek out. If you prefer talking to writing, then a solo podcast is a great alternative, although you won’t get as much of an SEO benefit.
+
+Links
+Your software engineer portfolio is your little professional corner of the internet. It acts as a stepping off point for people to see more, so point people to the places you want them to go. This is where you link to your LinkedIn, Github, Dev.to blog, and anywhere else where you have a professional presence that showcases your software engineering credentials.
+Projects for a Software Engineering Portfolio Website
+Perhaps the hardest part of making a portfolio is what to include that showcases your skills.
+
+Here are three approaches, and at least one of them is guaranteed to work for your case. They have been listed from least effort to most effort.
+
+Showcase public work
+If you have worked on user-facing features for a website or app, or your code was used as part of an event that is referenced online, then there is a strong chance that you are able to write about that. Maybe you worked on the recommendation algorithm for Airbnb or the control software for a feature film or a big fireworks display. If so, the output of that is public already.
+
+Include a few screenshots or video, a summary of your contribution, the how and the why behind the process and design that you influenced, and a list of technologies involved. Obviously you need to be cognizant of the types of information you can share — perhaps don’t detail security protocols for Volvo’s keyless unlock system if you worked on that! — but talking about implementing CI/CD best practices and migrating from legacy code to a safer modern language should be fine. When in doubt, speak to management if you can, or simply stick to information that is already public.
+
+
+
+Open source contributions
+If you really can’t talk about the work you have done, then it’s time to turn to open source. Open source projects of any decent size are generally crying out for contributors, and, if your employer is already leveraging open source technologies, you might be able to make some contributions on work time by selling the “giving back to the community” line.
+
+Find an area of a large project that needs improving, and, over the course of a few days or weeks, make an impact worthy of a place on your software engineering portfolio. Don’t take this as an opportunity to learn something new. You have a specific end goal here: to create evidence you are a top-notch software engineer.
+
+Find something in your wheelhouse, perhaps closely related to work you have done before, and engineer a solution that you would be proud to put your name to. Make sure the project actively takes contributions, as some projects let PRs hang for years before pulling in.
+
+Make something from scratch
+If you want to be in control of your own destiny, then it’s best to make a project from scratch. Embark on the exciting journey of game development by learning how to make a clicker game on Scratch. Enhance your coding portfolio and showcase your creative programming skills. Usually I would now tell you my three tenets of an effective portfolio project: small, complete, and functional. However, that advice is targeted at earlier stage developers who simply need to show they can produce functioning code that solves a problem.
+
+Your job is a bit different here. You need to show not only that you can make something, but that you can do it in a way that upholds and adheres to your industry’s best practices. It needs to be open source, so hosting your code on GitHub is a must. Beyond that, though, it really comes down to the expectations and standards of your industry.
+
+Again, the aim isn’t to learn something new or solve some unique problem. You’re not making a startup here, you are demonstrating that you have the skills to deliver value and raise the level of engineer practice in a team or company. If you’ve never worked on the UI aspect of software, then that’s fine, make a library, an API, or an automated deployment pipeline.
+
+One of these three tactics will help you create or find work that you can talk about. Whichever approach or approaches you go with, you need to display the information in an easy to understand and digestible way. Remember the progressive disclosure that we talked about before. Screenshots, videos, or interactive drop-ins help get non-technical people interested. Then, architecture diagrams, Swagger documentation, and a link to GitHub cements that interest with technical visitors.
+
+
+Quick Tips to Make a Great Software Engineering Portfolio
+1. Usual web rules apply
+Unless you happen to be a UI/UX expert, stick to the tried and true.
+
+2. Don’t make it yourself
+Many people spend months making and remaking their portfolio. Oftentimes, they treat their software engineer portfolio website as one of their projects. But, unless you have the design chops to stand out on Dribbble, you are far better off buying a theme from ThemeForest for WordPress or using Squarespace.
+
+Your time is more effectively spent creating evidence you are an amazing software engineer than wrangling CSS. Remember: artists don’t make their own frames!
+
+3. Include your personality
+You don’t need to reveal more than you want, but people like people, and this is your place to give them insight into who you are. If you like bright colors, then make sure your site reflects that. If you like writing, then highlight your blog. And, if you’re into Web 3.0, then showing off your NFTs is obviously the way to go.
+
+
+4. Avoid contentious subjects
+You might not agree with Covid policy or your current government’s stance on the environment, but your software engineer portfolio isn’t the place to express that. No one ever got a job by just stating their political leanings, but plenty have “regretfully not progressed to the next stage” from them. This doesn’t mean you can’t express yourself online, but, as with all things, there is a time and a place.
+
+5. Make contacting you easy
+Don’t make contacting you feel like Mission Impossible. The whole point of your software engineer portfolio is to impress people so they want to hire you or work with you. To do that, they will need to make contact!
+
+6. Be clear with your intentions
+If you want to work in Web 3.0, embedded firmware, or high-availability cloud infrastructure, then make that clear in your summary and the types of thing you emphasize. If you are making a career direction change, address that, and make sure your project write-ups focus on the transferable aspects that will come across with you.
+
+7. Be concise
+When you are passionate about something, it’s easy to write reams of text that, sadly, will never get read. A picture speaks a thousand words, a video speaks thousands per second, and a working demo tells a whole story. Any of these coupled with a short summary paragraph and some key bullet points will keep the reader’s attention and funnel them to that all-important contact form.
+
+
+4 Great Software Engineer Portfolio Examples
+Example Portfolio #1
+lee robinson software engineer portfolio example website
+Lee Robinson, Head of Developer Relations at Vercel
+
+This is just a really nice site. And, while Rob isn’t presenting himself as a software engineer, he is showing a diverse range of skills beyond simply coding. His blog provides insights into his teaching, communications, and technical system design skills. It has a friendly style and shows some of his personality and what’s important to him, including a travel map, his achievements, and his music tastes!
+
+For a travel software development company looking to highlight candidates’ well-roundedness, Rob’s site does a great job showcasing his various talents beyond pure coding proficiency.
+
+Example Portfolio #2
+brittany chiang sample software engineering personal website
+Brittany Chiang, Front-End Software Engineer
+
+Brittany’s site is clear and to the point. Her site simply says that she is a great software engineer with a specific focus. She shares her origin story, walks you through her impressive career history, directs you to a course that she has made, and then she finishes up with an easy way to get in touch. She has her social links, email address, and a PDF version of her resume accessible at all times, which all really reduces the friction required to find out more about her.
+
+Example Portfolio #3
+yevgeniy brikman online portfolio for software engineer job sample
+Yevgeniy Brikman, Cofounder of Gruntwork, Author of Hello, Startup and Terraform: Up & Running
+
+Yevgeniy’s page is simple, straightforward, and makes it easy to see his achievements and what he is currently working on. The way to contact him is immediately obvious, and the about section has a nice touch of personality.
+
+Example Portfolio #4
+bruno simon sample software engineer portfolio
+Bruno Simon, Freelance Web Developer
+
+Sometimes you are talented enough to break all the rules!
+
+Sample Portfolio #5
+Oluwakemi Adeleke software developer portfolio example
+Oluwakemi Adeleke is a UI/UX designer and front-end developer, and her software development portfolio example is simple, clean, and easy on the eyes.
+
+She offers a bit of info on services she offers, some insight into her workflow, and case studies and sample projects she’s worked on in the past.
+
+Well, we hope you found this guide on how to build a software engineer portfolio helpful!
+
+If you have any questions, feedback, or other tips for creating a professional website for software engineering jobs, let us know below in the comments.
+
+Thanks for reading, and good luck on your job hunt!

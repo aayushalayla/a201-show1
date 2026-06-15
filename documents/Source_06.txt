@@ -1,0 +1,302 @@
+Title: What Projects Got You Hired?
+URL: https://www.reddit.com/r/learnprogramming/comments/skov60/what_are_the_projects_that_got_you_hired/
+
+---
+
+So I'm not a very creative person. When I think of projects to build to add to my personal portfolio, all that comes to mind is stuff like a calculator or BMI calculator but that's pretty boring and probably not that impressive.
+
+So for working devs who've landed well paying roles at awesome companies, what are the projects that got you hired?
+
+Thanks!
+
+---
+
+Comment:
+
+I had a discord bot I built over a weekend that ended up in quite a few servers with active members. Got asked about it every single interview.
+
+---
+
+Comment:
+
+WAIT DISCORD BOTS HOLD ACTUAL VALUE? im 15 and have made some decently big discord bots and custom bots that have managed over 200k people in just one server
+
+---
+
+
+
+I got my current programming job because I made a NES emulator. Most of the interview was just me playing games and showing off some cool features.
+
+---
+
+
+That is how a good interview goes. I had a designer come in with a laptop with all of his work and walked through the process to produce it all.
+
+It was easy to see that he understood process and could work with a team.
+
+I trusted him to do his job and he ended up doing it very well.
+
+When I ask someone to draw on a whiteboard, I want to see them go through the design process, whether they have the right ideas or not.
+
+---
+
+
+
+I made it in C++ with SDL. I referenced various 6502 instruction sets while making the CPU and the nesdev wiki for everything else. Once in a while I got stuck and looked at other people's NES emulators on GitHub. I also used Blargg's APU library because I wasn't motivated enough to implement audio myself.
+
+---
+
+
+
+I once got hired for a Go programming job because I'd recently pushed an open-source Go program onto my GitHub account.
+
+A CEO asked their admin assistant to search GitHub for recent projects with a set of parameters and return some candidates, and I was among them.
+
+The actual project itself may not matter, but I'd avoid calculators, blogs, etc. -- anything that "everyone" does when they're learning. If you have something you actually use, or even better, that others actually use, that would be awesome.
+
+Otherwise, you've got to just hope that your project is relevant to the company you're interviewing with.
+
+Or, you could try to create a software product and go into business for yourself.
+
+---
+
+
+
+I read another post on this sub that basically said that instead of creating a closed source software that's filled with bugs, create something useful and make it open source so that multiple people can collab and perfect it. This is much better because it shows you can work with others and have created something that multiple people find useful.
+
+---
+
+
+As a recruiter sourcing for a client where Go is fundamental to the stack, this advice won't translate to Python, Java, or the C family, to say nothing of frontend stuff. Go is in this weird space where if someone needs it, they really need it, and not a ton of people relatively speaking have used it before.
+
+But real talk, I've been able to get interviews for people by saying "Look, they've got a few tiny projects in Go on their GitHub and they've worked in Kubernetes in some capacity at one of their previous gigs."
+
+---
+
+
+
+I did a scientific calculator. I feel like it landed me an internship. Though it did parsing, auto fill, and had extra functions plus error catching.
+
+---
+
+
+I uploaded my HackerRank, LeetCode, Codeforces, etc. solutions to GitHub.
+
+When asked how the repo was organized, they said they divided solutions by platform and put each solution in its own script file. Their naming convention included the platform, problem number, problem name, and algorithm or data structure used. They also used subfolders for language, difficulty, problem number, and unsolved problems when needed.
+
+They later explained that they did not put the repo on their resume. Before a user interview, the interviewer opened their GitHub, found the repo, browsed it, picked three random problems, and asked them to reiterate their thought process to confirm they had solved them. The interviewer barely asked about their projects and only asked them to summarize those projects, possibly because they were generic projects that everyone has made. For that entry-level role, the interviewer cared more about coding skills because the company expected to train them from scratch.
+
+---
+
+
+Out of the things in my GitHub account there were two projects that caught the main interest of interviewers:
+
+1. A full service written for a capillary electrophoresis device from a chemistry lab. The project required studying the data flow from the device, building a desktop application for scientists to receive and display the data stream, saving experiment results to a database, and viewing test results later in a web application. The desktop application was written in Java with JavaFX and Swing. The REST API was built with Java and Spring Boot. The database was PostgreSQL. The project was being used by scientists and lab assistants in a university chemistry building, so people were actually using what was built.
+
+2. A web UI for remotely maintaining a web server. It could control the server over the Internet, get metrics, and send commands. It was built in Java with Spring Boot.
+
+A third project also interested interviewers: a modded router turned into an IoT device. The router was modified to work as a router, web server, and Arduino-like board by extending pins so sensors could connect to it. The IoT project was interesting, but companies focused more on the first two projects when the role did not involve embedded programming.
+
+---
+
+
+
+None of them came with ease. The first project took about 4-5 months. I had to learn new technologies, new theory, and talk with the chemist for feedback. The second project took about two weeks, but not from zero because I had already learned Spring Boot separately. The third project took 1-2 months.
+
+It is only you, your time and willingness to learn and practice more. Some want to limit themselves with simple projects and if a thing takes long, they will get bored. But I want to keep improving myself more. Projects that I did taught me many different things that I'm happy over.
+
+Also this kind of projects give me much more variety in choosing a job. Limiting yourself only with websites lets you work only as a web developer.
+
+---
+
+
+I had made clones of Netflix, Slack, Discord, Amazon, Facebook and Product Hunt with the front end built very closely to the original, mostly in React. The backend was mostly using a backend-as-a-service or Node. The interviewer appreciated that I had put in quite a bit of work, and I got the job as well.
+
+---
+
+
+These projects that I presented to the interviewer were not done in a matter of days. The first project took 4-5 months, the second took two weeks, and the third took 1-2 months. It was worth it because the projects taught me many new things.
+
+What matters is that you know your stuff and can tell the interviewer about it. Some people just copy-paste tutorial projects and present them as theirs. But when the interviewer asks questions or asks for modifications, these people get stuck.
+
+The projects I made were out of my own interest. I did not really try to produce stuff for interviews. Even now, as an employed developer, I still have some projects ongoing because I like to do stuff and learn new things.
+
+---
+
+
+The key is not some awesome project, the key is networking and good soft skills. Projects that landed me my first job were in Java: Tetris in the terminal without any GUI and a tool that could zip files, also without a GUI. The point is to show that you have some programming skills.
+
+What lands you the actual job is setting up a good LinkedIn profile and contacting as many recruiters as you can.
+
+During the job interview, you should leave the impression of a highly motivated person who is willing to learn and is not afraid to ask questions. The company doesn't care what you can do; they know that you will spend a lot of time on the job learning, and they need to know that they can shape you to their tech stack.
+
+---
+
+
+Any project that employs all four pillars of object-oriented programming, can employ multi-threading or multi-processing, reasonably defends against race conditions, livelock, and deadlock, and also interacts with a database or other processes/systems is a fairly well-rounded project.
+
+It is also good to have it available for review on GitHub, well documented, and with thoughtful requirements. It doesn't hurt if the documentation can demonstrate a strong UML understanding either.
+
+Demonstrating that you can write code that works is one thing. Demonstrating that you can write code that works and is readable, maintainable, adaptable, reusable, and extensible by others will put you over the top.
+
+Writing code is easy. Outlining a problem, researching evidence-based solutions, and forming new solutions is what separates a software engineer from a coder.
+
+---
+
+
+Program that pulls data from SQL database. Displays data of SQL database. Allows user to manipulate data in SQL database. Stores data in SQL database.
+
+Bonus: references and uses a few common libraries.
+
+The end.
+
+---
+
+
+BMI calculator sounds pretty cool, it's probably enough to get you hired.
+
+What you make matters significantly less than how you make it. And making something is better than nothing. Does it look cool? Does it serve a useful function? Is it well architected?
+
+I'd just find something that you want to have in your life, and build it. For me, I have a task tracking website. Yes, everyone has done one of those. But this one is mine. I can customize it however I want.
+
+Also, if you have a degree I don't think portfolio matters at all. I honestly don't think most interviewers look at the portfolio, unfortunately. Even without the degree.
+
+Just having and being able to talk intelligently about a project is good enough, even if it is a calculator. How do you tokenize and parse the input? What libraries did you use?
+
+---
+
+
+
+A BMI calculator wouldn't get you hired anywhere. A BMI calculator is far simpler to make than an actual calculator that lets you add, subtract, divide, etc. And a regular calculator isn't very hard to make either, so that's really saying something.
+
+---
+
+
+
+What is the most interesting thing to you personally? Make a bad version of that.
+
+They explained that they made rough versions of things they wanted to understand: modern JavaScript frameworks, video games, and aircraft computer systems. Each project took hundreds of hours and helped them talk about real problem-solving in interviews despite no formal education or career history. Those projects still helped them get interviews and jobs and became useful presentations at work.
+
+---
+
+
+
+A desk job without communication is a huge misconception. Writing software is usually a team effort, and developers also talk to stakeholders about requirements.
+
+---
+
+
+As someone who had a Bachelor's in CS but no internships or experience, I made an Android app that stores words and definitions that the user inputs. I included user authentication, and the words are stored on a containerized backend using Spring Boot and Postgres DB, hosted on an Azure VM.
+
+My advice is, rather than having a super creative idea, take your idea and extend it as much as you can to learn about and show capability with a variety of modern tools that you will likely come across in your career.
+
+Also, write a good design or technical document outlining the project. It doesn't have to be super long, but I think it sets you apart from those who only have code to show. Writing docs like that is a big part of the job as well.
+
+---
+
+
+
+I think two types of projects are beneficial, and I think you need both.
+
+A project that interests you personally shows you actually have an interest in programming beyond a paycheck. It gives you an easy topic in an interview where you can show genuine excitement or enthusiasm.
+
+A project that highlights your skills in a certain technology or area of expertise can be simple and to the point. If you know something like Spring Boot, Firebase, or NoSQL, actually show that. It does not have to be complete or fully fleshed out; just have the basic structure so technical interviews can see what level you're at.
+
+---
+
+
+Traveling salesman problem visualizer in the browser, with source code and a demo.
+
+---
+
+
+
+I had played League of Legends forever, so I decided to build a copy of websites like u.gg or op.gg. I changed the styling and interfaces but the concept was the same. I described it more like a statistical analysis tool than a video game website, and got a lot of credit for understanding and having experience in the pieces that went into it: UI development, frontend, scripting, backend, databases, etc.
+
+By having experience with the big picture, I looked more attractive in any of those individual areas. I now work as a full-time software engineer.
+
+Work on something you're passionate about. It will make the work easier and motivate you to dive in deeper than you would otherwise. Then find a way to make the time spent look valuable. Don't describe it as a worthless pastime, because it isn't.
+
+---
+
+
+An analytics dashboard for runners. The app linked with Strava to gather user data and provide insights about aerobic capacity, training zones, and fatigue. The app also generated a running program based on past activities.
+
+---
+
+
+Not as impressive as some of the others listed here, but I made a React weather app for travel. You enter a bunch of cities in a calendar-like UI and it gives you the weather forecast for that location on those particular days.
+
+---
+
+
+
+Depends on what you want to do. I wanted a full stack job, so I built two strong full CRUD websites. I would focus on two projects that are more in-depth rather than many small ones. You want one project that is fun and one that solves a business problem.
+
+Don't do things like a beer pong game. Make things that HR people can see and instantly imagine how it applies to their business.
+
+---
+
+
+
+None. I stood out because of internship experience and a previous job related to automation and IT. The company happened to be hiring an entry-level automation engineer, and I had experience with Linux and various distributions.
+
+---
+
+
+
+A contractor/client portal that assigned work to subcontractors. Clients could check scheduling, contractors had due dates, locations, and times, and the general contractor could start and manage projects. It had multiple access levels for viewing and editing per project. It showed how to handle admins and users safely. The commenter got hired into a company with a more complex version of the same software.
+
+---
+
+
+I've only had to show work once. I made a brute force Sudoku solver, which was not that big or impressive, but I focused on doing it in a professional way: linters, tests, a README explaining how to run the code and tests, docstrings for every method, type hints, and requirements.txt.
+
+In the end, I think I landed the job because of agile experience, but the code was good enough to show I knew what I was doing.
+
+I still think you're better off making something small but very well done, over a very large project which no one is going to fully read anyway.
+
+---
+
+
+I made a financial portfolio website. I echo other people's suggestion: do something that requires networking, distributed systems, and multi-threading or multi-processing.
+
+---
+
+
+My side projects rarely came up as a major thing in my interviews since professional experience is more important. But the side projects gave me the skills to excel at my jobs and build skills I would not have otherwise had early in my career, like project management and running a business.
+
+One side project that I turned into a business did come up in one interview as putting me over the top, more because it was a ridiculous good idea that had traction and dealt with tons of data.
+
+---
+
+
+
+An LED strip controller with a React app to change light colors and sequences, using MQTT to communicate between Raspberry Pis. I used design patterns, and it was interesting to talk about because I actually use it to control LEDs at my house. I would do something actually useful to you.
+
+---
+
+
+
+I made a few projects, all stuff I thought was fun: snake clone, Tetris clone, Turing machine simulator, algorithm visualizer, and multiplayer skribbl.io clone. All were JavaScript projects. I am a web developer.
+
+---
+
+
+I built a full CRUD movie finder app that fetches movie data from TheMovieDB API. It is a minimalist version of IMDb. The frontend was in React using Bootstrap for styling and responsive design. The backend had a database and custom REST APIs to add favorite movies to a watchlist and rate movies. It implemented user authentication via JWT for extra points.
+
+The point isn't to reinvent the wheel or make something super unique and complex. The point is to demonstrate that you can put together a web application and understand how all the components work together.
+
+---
+
+
+
+I wrote a bunch of World of Warcraft addons. To this day I feel like they are what landed me a job at GitHub.
+
+---
+
+
+
+I didn't have a portfolio of any sort when I got my first dev job. I had plenty of experience as a QA tester, so I was familiar with working as a team and the software development life cycle. I was able to speak about programming competently when interviewed and did a good job on the homework assignment. It has never been a big deal in subsequent jobs.
+
+I hire people now and never expect a portfolio.

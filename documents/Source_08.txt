@@ -1,0 +1,176 @@
+Title: Do Recruiters Look Through GitHub Projects?
+URL: https://www.reddit.com/r/csMajors/comments/ol42hl/do_recruiters_actually_go_through_your_github/
+
+---
+I was talking to a friend and he said he put his projects on his resume, but didn’t even link his GitHub, and he’s had big N interviews. I find this incredibly strange. Do recruiters actually look through your GitHub and launch your projects/programs?
+
+---
+
+
+There are interviews where they ask you about your projects, and they MAY ask you to demo an implementation. It's good to have github links/youtube links of your project handy.
+
+Reply:
+Agree. Almost always they pick some random thing or two on your resume for you to talk about both technically and if possible, how you fit on the team that did it.
+
+That’s also why its always a good rule to only mention the things YOU did on a group project, not what WE did. Sure, we built the app together, but don’t talk about how we built up a backend from scratch on the resume when YOU only worked on the frontend.
+
+Comment:
+I once had an interview where they asked me in depth about the project — I had the git repo open because I was reviewing my own code and showed them that at first, and then they took it further and asked me to run it and we went through a debugging session together.
+
+Comment:
+That’s why interviews depend so heavily on algorithmic questions. From just your resume, how would anyone be able to tell what you really contributed and whether any of those projects are real or as impressive as described?
+
+Comment:
+Most big companies don’t care about your personal projects.
+
+Reply:
+You can lie but these projects do not carry a lot of weight anyway.
+
+Comment:
+I’ve had hiring managers look at my GitHub. Even if it’s to peek to see that your garden is green.
+
+Comment:
+I’m not a recruiter but I do interviews for my company when we’re hiring. I’ll almost always try and find a GitHub or GitLab, but if I can’t find one it doesn’t reflect negatively on candidates. If you’re still a strong candidate, I’ll hire you with or without a public GitHub or GitLab.
+
+Comment:
+Most recruiters don’t know any code. Make sure to include screenshots in the repo or have your application hosted somewhere like Heroku in case they do decide to take a look.
+
+Reply:
+Yup, I have a couple projects running on Heroku at all times. Costs me like a dollar a month.
+
+Comment:
+If you have one they may. A Google recruiter reached out to me and I got an interview there because of my GitHub projects. I ended up getting a job at Microsoft, and during my onsite interview, one of my interviewers had a project from my GitHub up on his computer and was asking me questions about my code.
+
+Could be circumstantial. This was me getting my first job in tech and I don’t have a degree, so my portfolio was pretty much all the proof they had to go on that I could do anything. Now that I do have a couple years experience, I’m sure that my personal projects won’t be as huge a deal and as time goes on, my resume will be able to speak for itself. But in my experience, for someone with little to no experience, recruiters look and it may well also come up in interviews.
+
+Reply:
+The majority of my projects are from doing a tutorial to learn some new tech, but then I take it further and keep finding new things to add to it. As I learn new things, I go back and find ways to implement it in old projects or update them.
+
+My biggest project is one I thought up myself and started when learning React. Then I went back and added Redux. It uses a couple different APIs, SCSS, and a few other things. In the GitHub README, I document all the changes I’ve made along the way, as well as future plans like login, profiles, favorite lists, etc.
+
+I implemented CI/CD in all my projects, and they are all deployed so someone can see them in action. If the project has an admin or user account, someone can either sign up or use the demo user/password.
+
+When I talk about my projects, I start with what it was if I started with a tutorial, then discuss how I kept adding new features and improving it as I learned new tech, plus whatever new thing I’m interested in learning and plan to add.
+
+I’m able to talk with excitement over my projects, talk in depth about what I can do, what issues I had and how I fixed them. There are a ton of things in my projects that interviewers have talked with me about that I can do better, which is useful because I can take that into the next interview and talk about what I learned, how I handle criticism and suggestions, and that I’m still open to learning new things.
+
+Comment:
+I’ve never linked my GitHub and got plenty of interviews as a freshman last year. The people that lie about projects on their resume are going to have a real fun time explaining how they built a project they have no idea works to an engineering manager at a top company.
+
+Reply:
+Honestly, mainly because I beefed my LinkedIn as much as possible right before recruiting season started. I did a data science camp through my college which had a bunch of professional development workshops and access to opportunities. All of the interviews I got essentially came from LinkedIn DMs and opportunities I found through networking.
+
+Comment:
+No, ain’t nobody got time for that.
+
+Reply:
+As someone who regularly interviews and hires devs, absolutely no one has time for that.
+
+Comment:
+It depends. A few of my callback emails, including a few from Top N companies, included references to my specific projects. Also, in later interview stages, I was asked for 3 to 4 GitHub project links beforehand.
+
+Though most people said here that they spend less time on each applicant — which is true — and going through projects is not common, I would suggest having a clean repo. At least the front page, README, and some part of the main code should be properly uploaded.
+
+Reply:
+I’m an AI graduate, so I tried to cover a wide range of projects including standard machine learning, prediction, classification using decision trees and XGBoost, NLP such as sentiment analysis and similarity testing, computer vision applications of semantic and instance segmentation, and a few from multi-robot controls. My courses were based on these topics and had a project in each of them, which are in my repo.
+
+Regarding ideas, I think you should check for the key projects or research areas in your domain. Even if it is a simple project, it is fine to upload. What matters is your work at the very minute scale. In my case, a simple sentiment analysis with decision tree got me a call.
+
+Comment:
+I’m not a dedicated recruiter, but I have spent a good deal of time recruiting over the years. The only time I actually look at projects on a resume is to prepare for the interview.
+
+Having the projects on there is great to get the first screening/interview, but I have 900 resumes to go through after a single day of a career fair — I’m not going to your GitHub, unfortunately.
+
+Having said that, I WILL look before the interview to use for the purpose of questions. So if you embellished or lie about what you’ve done, I will find out and I won’t be happy about it. Expect the hardest questions I feel like tossing out that day and very little leniency. I do not appreciate lying.
+
+Reply:
+I don’t actually pay attention to commits. It’s more a problem if they say “oh I wrote this amazing thing” and I open up the GitHub and it’s literally a bunch of skeleton code that doesn’t work.
+
+The other side is a group project. I expect you to be able to speak to the work you did at depth and have some understanding of the rest.
+
+So when I say “lying” or “embellishing,” I mean don’t put anything on the resume you aren’t ready to speak to with confidence.
+
+Comment:
+An interviewer from NASA asked for my GitHub today. First person ever to do so.
+
+Comment:
+Recruiters unlikely, but the few applications who then end up on my table I definitely check out. But only skim the code if it looks reasonable. I don’t run anything.
+
+Also had people just send over code samples. I don’t care if it’s on GitHub if I somehow get something to look at. I think most of my colleagues don’t have anything up on GitHub or not even an account. I am just skeptical if a dev doesn’t know what GitHub is.
+
+Comment:
+I’m in PM. Whenever I’m speaking with a candidate, I go through their GitHub. I doubt this happens at the recruiter level, but by the time you make a loop interview we’re seeing a lot fewer candidates.
+
+Comment:
+Recruiters? No. But companies that may have taken an interest in your resume? Sometimes yes.
+
+Comment:
+I am interning for a lab currently, and my interviewer at least glanced at all of my projects. Given it’s a smaller applicant pool, he was able to do this, but I doubt a FAANG company would, at least not at the first stages.
+
+Comment:
+Very unlikely. That being said, I had an interviewer who did. I had to tell the truth about how it was a bit unfinished, though I didn’t mention that in my resume, but they liked it anyway and gave me an offer.
+
+Comment:
+The short answer is yes, sometimes. Obviously they don’t look at your GitHub unless you get basically to the end of the interview process. But I have checked people’s GitHub for plagiarism before and I’ve turned people away for having poor code. In short, it does matter.
+
+Comment:
+I’ve used it for borderline folks before, if I’m not sure if they should be hired and I want to check up on things. Usually I’ll just look at the resume though.
+
+Comment:
+Recruiters? No. The tech team that is going to interview you once your resume makes it past the recruiter? Yes.
+
+Comment:
+No, but some of the engineers who interviewed me have looked through them.
+
+Comment:
+I don’t have my GitHub on my resume, but I’m still able to get Big N interviews. I agree with a lot of people in this thread: you shouldn’t lie on your resume because it can come back to haunt you; being able to describe your project in a way that makes recruiters want to give you an interview is better than making space for a GitHub link; recruiters only take a few seconds to review your resume. I don’t keep track of my GitHub; I use it here and there, but it has not been a hindrance on any interviews I’ve had.
+
+Comment:
+Yes. I have been involved in hiring software developers for over 5 years. I have held around 50 interviews in that time. If I get a resume for someone I’m interviewing and they have a GitHub account, I spend about 5 to 10 minutes scrolling around to get an idea of the level and quality of their code.
+
+I also work at a company that has a couple of very specialized code bases. When we need to hire engineers in those spaces, we typically look for developers who have contributed to the open source projects we use.
+
+Comment:
+Recruiters sometimes inquire about your GitHub account, and while you may not be certain if they’ll actually check it, it’s always wise to keep it polished and visually appealing. After all, you never know when it might come in handy.
+
+Comment:
+I haven’t really had a recruiter go through my GitHub. When I interviewed for my current internship, my interviewer had clearly just started to glance over my projects a few minutes before the phone call.
+
+Comment:
+The recruiter that recruited me did not have technical knowledge so he didn’t care about my GitHub, but when I actually interviewed with my now boss, he did ask me questions regarding projects on my GitHub account.
+
+Comment:
+Yes, source: I’m a recruiter. Or, the good ones do at least.
+
+Comment:
+Last week in my company due to employee shortage they asked me to help HR label some CVs they received from recruiters. Basically deciding whether they should be front end, data engineer, DevOps, etc., and the years of experience they had, and looking for certain skill sets.
+
+They gave me 100 CVs to check. At the beginning I was looking into every GitHub repo they had and giving a label to the ones I considered good, but after checking 20 of them I realized that it would take me maybe a day or more to actually look at every single one and they wanted them for that same day. So being on the other side, I can tell you that at least for the first round of selecting which candidates we would actually interview, we didn’t look at their GitHub repos.
+
+Comment:
+I graduated recently with two Big N internships and a Big N job lined up and have never had an interviewer ask me to do anything but explain my projects and the design decisions I had to make. Don’t get me wrong, projects matter immensely, but your ability to explain your design decisions is immensely more important if you are interviewing for backend roles.
+
+If it was a substantial backend project, it’s unlikely that an engineer would be able to get a ton out of reading through your code other than style without a lot of time.
+
+Comment:
+They might ask you to pick a good project and run it for them during the final stage interviews. So always keep at least one impressive project in there.
+
+Comment:
+To get to the interview, no. But later on in the interview process they’d take a peek to help with team matching, usually just for projects I had mentioned on my resume.
+
+Comment:
+Recruiters might not, but interviewing managers and developers definitely do. It gives us something to talk about, but I’ve never considered it to be required proof of coding ability.
+
+Comment:
+I’ve interviewed a guy who put his final project on GitHub but it was terrible and made no sense, so I was very skeptical during the interview. I thought to myself: this is what you think is acceptable?
+
+Comment:
+Probably not recruiters, but some interviewers have asked me for my GitHub link before, so they do look at those.
+
+Comment:
+At Apple your developer interviewers do sometimes.
+
+---
+
+Cleaning note:
+Deleted comments, bot comments, Reddit navigation text, repeated “more replies,” and unrelated recommended posts were omitted. This file keeps the original post and the comments most relevant to CS portfolio projects, GitHub links, recruiter behavior, interview preparation, documentation, and project credibility.

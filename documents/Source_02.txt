@@ -1,0 +1,91 @@
+Title: Using GitHub for Portfolios
+URL: https://github.com/orgs/community/discussions/169760
+
+---
+I’m curious how other developers here use GitHub when applying for jobs.
+
+Some companies check your GitHub profile before or after interviews, so I’m wondering:
+
+What kind of projects do you keep public for employers to see?
+
+Do you write detailed READMEs to explain your work?
+
+How much do recruiters actually value GitHub contributions compared to a traditional resume?
+
+Answered by Banabanaa
+on Aug 14, 2025
+I try to put effort into writing good README files — I treat them almost like a portfolio write-up. I include:
+
+What the project is
+What tools/technologies were used
+Setup instructions
+Screenshots or demo links
+A brief explanation of what I learned or solved
+As for how much GitHub matters compared to a resume:
+It really depends on the company. Tech-first or open source-friendly companies often take GitHub seriously — sometimes more than a resume. But for more traditional companies, it's just a bonus.
+
+Either way, a well-curated GitHub profile can absolutely help you stand out and back up your skills with real work.
+
+View full answer 
+Replies:5 comments
+
+ArmanAmreliya
+on Aug 14, 2025
+Hello!! @raceczn only keep public projects that you are proud to have your name on — things with clean code, interesting problems solved, or that show you can pick up new tech quickly. Sometimes that’s a side project, sometimes it’s a small utility or script that’s genuinely useful. You avoid cluttering your profile with half-finished experiments or “test” repos, because recruiters don’t need to wade through broken code to find the good stuff.
+
+0 replies
+
+PUSHPAK-JAISWAL
+on Aug 14, 2025
+Let's Consider this question as i asked the same question to one of my seniors and he gave me a pretty good idea about this.
+
+So he told me that he used to push all the code from development to every thing he made for practice to github.
+What he did differently was he created README.md file for each and every project he made.
+with the basic how to clone and contribute.
+
+He also started Documenting his growth on Readme file.
+
+example :- he made a todo application
+he used to put a tag named learning in that he would put everything new he learnt from that specific project.
+
+later as he got into open source and started building good projects he started to star them and pin them up.
+
+The projects he showcased in his resume where pinned and had a live working link.
+
+as later when his github was show the contribution graph and the projects showed his dedication towards innovation he received a 25lpa inr job offer. In india that is the most reputable job offer one can get as it comes in the higher spectrum of the paychecks.
+
+so,
+github contributions just show dedication and if your repositories are polished it will help in the long run.
+but it will only be checked if you get shortlisted on the basis of you resume.
+
+0 replies
+This comment was marked as off-topic.
+Show comment
+
+itsahmadawais
+on Aug 14, 2025
+💡 GitHub’s impact depends on the company – tech-focused or open-source–friendly organizations often review it carefully, while others may only glance at it.
+
+🚀 Treat GitHub as your public showcase for projects you can share. Keep them public, clean, and well-documented so they’re easy for recruiters or hiring managers to explore.
+
+📝 A good README can make a big difference. Include:
+
+🛠 Tech stack – languages, frameworks, and tools you used
+📜 Setup instructions – how to run the project locally
+🖼 Screenshots / GIFs – visual previews of your work
+🌐 Demo links – if it’s not live, host it for free on Vercel, Netlify, or GitHub Pages
+✏ Short description – what the project does, key features, and your role
+✨ Extra ways to stand out:
+
+🖥 Create a personal website – even a single-page portfolio linking to your best repos, LinkedIn, and resume
+📌 Pin your top repositories so they’re easy to find
+📂 Organize your repos – clear folder structures, clean commit history, and meaningful commit messages
+🎯 Show variety – personal projects, open-source contributions, and small experiments that demonstrate range
+📚 Share learnings – even unfinished work is valuable if you explain what you learned
+✅ While GitHub alone may not get you hired, combined with a solid resume and portfolio website, it can make you memorable and give employers real insight into your skills.
+
+0 replies
+
+Jagadeeshwaran-J
+on Aug 14, 2025
+Many developers keep a few polished public projects that highlight relevant skills, add clear READMEs to explain context and decisions, and use GitHub as a portfolio supplement, but most recruiters still weigh a traditional resume more heavily and see GitHub mainly as a bonus signal of practical coding ability.

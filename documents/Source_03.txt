@@ -1,0 +1,63 @@
+Title: Fine-Tuning GitHub for Portfolios
+URL: https://flatironschool.com/blog/github-profile-and-git-practices-for-job-seekers/
+
+---
+f you’re a software engineer or are in the process of becoming one, you will almost certainly use tools and services like Git and GitHub. Almost every single software program you use or will use is built by a team. Version control systems like Git and source code management services like GitHub allow teams to collaborate effectively and manage large-scale software projects with ease and clarity.
+
+Your GitHub repos (repositories) can act as your portfolio, especially if you’re at the beginning of your software engineering career journey. GitHub can help you stand out from the crowd by showing your repos and showing that you are familiar with industry-standard tools, workflows, and automation.
+
+In this post, we will focus on standard Git practices and offer advice on how to tailor your GitHub profile for a job search.
+
+Will a Recruiter Really Check a GitHub Profile?
+Software engineering interviews vary drastically from company to company. The number of interview rounds, types of interviews, and even the interview performance metrics vary from company to company. 
+
+However, the initial application process is fairly straightforward. You will likely apply through an online form, submit a resume, and link to your projects. Optimizing your resume and portfolio will improve your chances of securing interviews at companies you want to work for.
+
+So how will having a strong GitHub profile help you?
+
+Example Github profile
+Recruiters spend around 6 seconds per resume on the initial scan—and the initial scan might be all you get. For entry-level applicants, the Projects section on a resume is one of the most important, especially if the applicant does not have a formal computer science or software engineering degree. If a project sounds interesting, the recruiter will check out any linked demo, video, or documentation. A GitHub README doc is a great place to prominently display all the relevant demos, videos, live links, and features so recruiters can quickly make sense of the project.
+
+Some recruiters also look at an applicant’s GitHub profile activity. The activity is a somewhat solid indicator of how much the applicant practices coding, and it offers a glimpse into what kinds of projects the applicant is or has been involved in. Robust GitHub profile activity is helpful for candidates who don’t have CS coursework to demonstrate the necessary time spent on programming and building software.
+
+What to Expect in an Interview
+In the latter interview rounds, engineers and hiring managers may look through your projects in greater detail. This entails looking through the README and code on GitHub project repos. For certain interviews, candidates are asked to walk the interviewers through the project and justify design decisions. Interviewers may also check for best practices around project structure, app design, testing, commits, etc.
+
+Having a solid GitHub profile and creating good READMEs for projects helps candidates in the application stage and may also help them during the latter interview rounds. There’s no downside to spending some time sprucing up your GitHub profile and project overviews.
+
+Let’s look at some concrete ways to improve both your GitHub profile and your Git commits.
+
+GitHub Profile Best Practices
+The goal of your GitHub profile during a job search is to showcase your best projects, skills, and coding history to potential employers. Here are some guidelines that will help you create a unique profile that highlights the value you can bring to a team:
+
+Create a clean overview page
+Use a profile generator for easy to read layouts
+Add contact links (LinkedIn, email)
+Short description or bio
+Pin your best projects
+Write detailed documentation for each project
+Add images and walkthrough videos for each project (the examples below have walkthrough videos)
+Use a README generator to ensure consistent formatting
+Have a consistent commit history (we’ll cover Git best practices later in this post)
+I highly recommend looking at a few great GitHub profiles for inspiration. But don’t spend too much time on your profile overview page. The goal is to highlight your strongest skills and experiences so recruiters take immediate notice.
+
+You should instead spend more time on writing the READMEs and making short walkthrough videos for your projects. Check out a couple of examples READMEs from Flatiron School  grads:
+
+Moribus by Donat Pllana
+Money Box by Jackson Chen
+Git Best Practices
+Engineers and hiring managers may look at your Git commit history to get a better sense of what it would be like to work with you on a team. Git best practices ensure better collaboration by minimizing risk and facilitating faster review and automation workflows.
+
+The following are the most important practices you can follow to stand out with your Git commit history:
+
+Make frequent commits
+Mitigates the risk of losing work by saving it
+Facilitates collaboration since smaller commits are easier to review and merge
+Makes deployment easier since CI/CD pipelines usually run on new commits
+Encourages writing more modular code, which improves readability and maintainability
+Follow consistent commit structure (Conventional Commits Guidelines)
+You don’t necessarily have to follow a specific set of guidelines but whichever convention you decide to follow must be applied to all of your commits
+Write descriptive commit messages for bigger changes such as feature additions, large refactors, or infrastructure changes
+Conclusion
+If you follow these Git and GitHub guidelines and best practices, you will better your chances of standing out to both recruiters in pre-interview stages and engineers/hiring managers in interview stages. 
+

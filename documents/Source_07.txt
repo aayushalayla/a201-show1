@@ -1,0 +1,65 @@
+Title: How and When to Include Projects on Your Resume
+URL: https://career.pennwest.edu/blog/2022/08/10/how-and-when-to-include-projects-on-your-resume-plus-examples/
+
+---
+How—and When—to Include Projects on Your Resume (Plus Examples!)
+
+How—and When—to Include Projects on Your Resume (Plus Examples!) was originally published on The Muse, a great place to research companies and careers.
+
+If you’ve completed a project you’re especially proud of, it’s natural to want to show it off on your resume—and it might even help you land your next job. Projects that potentially belong on your resume can come from your past jobs, paid and unpaid side ventures, and—if you’re a recent grad—your academic coursework.
+Read on to see why, when, and how you should put projects on your resume.
+
+Why You Should List Projects on a Resume
+Like everything else on your resume, projects can help highlight experiences that qualify you for your next job. You may have used skills—hard or soft—in a certain project that are key for the role you want. And including a successful project is a great way to tie those skills directly to results, which employers want to see on every resume.
+
+When You Should List Projects on Your Resume
+Adding projects to your resume “can be a great way to highlight experience outside of your daily role, enhance a recent grad resume, or bridge the gap from what you’re doing to what you want to do” if you’re looking to change or pivot careers, says Muse career coach Tara Goodfellow, owner of Athena Consultants.
+
+Projects are an especially helpful addition to your resume when your experience section doesn’t already show that you have the background you need to get the job you want next, which is most common for two groups of job seekers:
+
+Recent graduates: Entry-level candidates by definition lack professional experience. But if you just finished college, a big project—whether you did it for a class, an honors or capstone program, an internship, or your own research—can show that you have a lot of valuable workplace skills such as leadership, collaboration, presentation, and public speaking, Goodfellow says. After your first-full time role, Goodfellow recommends removing school projects from your resume.
+Career changers or pivoters: When you’re looking to switch or pivot your career, you want to show any experience you have that relates to the role, field, or industry you want to go into. This might mean highlighting projects you did within a current or past job or adding a volunteer, side, or freelance project to your resume. What matters is that your project helps prove to employers you have relevant experience for the job you’re hoping to land.
+Which Projects You Should Include
+When you’re deciding which projects to add to your resume, “you want to be strategic,” Goodfellow says. “Don’t just dump every project you’ve been part of hoping something will catch the hiring manager’s attention.” Instead, carefully go over the job description for any role you’re interested in. Highlight any skills or qualifications the company is looking for that you have, as well as any job duties they list for the role that you’ve performed in the past. Then note any that can only be proven by including a certain project on your resume. If a project doesn’t meet this threshold, it probably doesn’t need to be called out.
+
+Even if you’re in a more project-based field, like engineering, IT, or consulting, consider whether all or any of your projects can emphasize your accomplishments in a way that general bullet points under each job entry can’t. With too many projects crowding your resume, recruiters might not find the most important details. For example, if you generally do consulting for larger clients, but once worked with a small business and got great results, listing details for that one project might help you land a job at a consultancy with a small-business focus. But if most of your clients are small businesses, mentioning a slew of individual projects rather than overall achievements will take up valuable resume space without necessarily adding to your qualifications.
+
+How to List Projects (Plus Examples)
+
+List your projects wherever they’re most relevant, Goodfellow says. For recent grads, this often means your education section. If the project was part of a past job, freelance work, or volunteer work, it likely belongs under that specific entry in your experience section. If you’re thinking of a personal or side project or you have multiple projects that you want to include on your resume, you might consider adding a dedicated “Related Projects” or similarly titled section.
+
+Regardless of where you list your project, you should follow these general tips:
+
+Include important details. You should add enough information about each project that it can be easily understood by anyone who reads your resume. Depending on the specific project, consider listing a project title, a project description, and project dates, as well as who you did the project for and with, what your role was, and what the results and impact were.
+Focus on your achievements. Whether your project description is contained to one bullet point or has several bullet points underneath it, employers want to see what results you’ve gotten with your skills so they can see how you might drive results for them. Use achievement-oriented, quantified bullet points to really put your accomplishments front and center.
+Tailor your project description for every job application. You should only include projects that are relevant to the specific job you’re applying for and, even more than that, you should make sure your description of a project highlights the pieces of it that are most relevant. So if a company is looking for someone with website design experience, focus on the design aspect of your side project, not how you attracted customers to your site. And try to use the same language and keywords as the job description.
+Include links to your work when possible. Almost everyone who reads your resume will do so for the first time on a computer, so links to work that’s live online are fair game. Just make sure you hyperlink an unimportant word like “Project” or even “Link” to avoid any applicant tracking system (ATS) issues.
+What does this all look like in practice? Here are a few examples based on where you’re listing a project.
+
+In an Education Section (good for a senior capstone)
+This is how an entry-level applicant looking to emphasize their research, writing, and presentation skills might include a capstone project on their resume.
+
+Bachelor of Arts in English | Colgate University | Hamilton, NY
+Expected Graduation: May 2024
+Capstone Project: “Voices Missing From the 19th-Century Literary Canon”
+
+Wrote a 40-page dissertation on three minority writers who are not commonly taught in U.S. K-12 schools or colleges, exploring literary devices and techniques used before other writers who are commonly taught
+Presented research findings at Nineteenth-Century Studies Association 2021 Conference as one of five undergrads selected to give a 10-minute talk
+Researched writers’ lives and work by analyzing newspaper archives (via LexisNexis), conducting interviews with literary scholars who focus on the 19th century, and traveling to review old correspondence and writings not widely reproduced
+Analyzed 12 total texts to compare literary devices and techniques between focal writers and their contemporaries
+Within a Dedicated Section (typical for current students and new graduates) 
+Here’s how an aspiring software engineer might describe a project they did in their free time to show off their coding chops to prospective employers.
+
+RELEVANT PROJECTS
+
+TheTradingPost.com | March 2020–September 2020 | Link
+
+Designed and coded a website (using CSS, Python, and JavaScript) where players of popular video games could arrange trades for virtual items, receiving an average of 1000 hits monthly
+Responded to user feedback and issues to improve site functionality and build additional features including a search function
+Within Your Experience Section
+Here’s how a marketer looking to pivot into project management might include a project under a past job immediately after the bullet points describing their overall duties and accomplishments.
+
+Key Project
+
+Led $200k digital marketing campaign from conception to launch, resulting in 120% of target signups in first two months of campaign
+Managed cross-functional team of seven marketing coordinators and analysts, content creators, and designers through market research, content creation, campaign launch, and analysis of results, setting deadlines, adjusting to changes in schedule, and resolving conflicts and miscommunications among teams

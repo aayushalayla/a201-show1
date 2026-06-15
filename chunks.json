@@ -1,0 +1,2026 @@
+[
+  {
+    "id": "Source_01_chunk_0",
+    "text": "Portfolio AI-assisted development is the new default for career changers and students. Everyone's portfolio has deployed apps now. The problem is that everyone's deployed apps look the same, because AI generates similar-looking projects from similar prompts. Standing out means showing your thinking, not just the output.\n\nHiring managers have caught on. They have seen dozens of \"AI-built SaaS dashboards\" and \"full-stack e-commerce stores\" this quarter alone. When every candidate's portfolio contains the same polished surfaces built with the same tools, the portfolio stops being a differentiator. It becomes background noise. The candidates who land interviews are the ones who can answer a question no screenshot can answer: what decisions did you make, and why?",
+    "metadata": {
+      "source_file": "Source_01.txt",
+      "title": "Building a Portfolio That Shows Your Skills, Not Just AI",
+      "url": "https://blog.vibecoder.me/building-a-portfolio-that-shows-your-skills-not-just-ai",
+      "chunk_index": 0,
+      "char_count": 768
+    }
+  },
+  {
+    "id": "Source_01_chunk_1",
+    "text": "the ones who can answer a question no screenshot can answer: what decisions did you make, and why?\n\nWhy Most AI-Built Portfolios Fall Flat\nThe typical AI-built portfolio follows a predictable pattern. Someone watches a tutorial, prompts an AI tool to build a project, deploys it, and adds it to their portfolio site. The result looks impressive at first glance. Clean UI, responsive layout, maybe even a dark mode toggle. But open the GitHub repo and you find a single commit message that says \"initial commit,\" no README, no documentation, and code that the person cannot explain in an interview.\n\nThis is the equivalent of submitting a painting to an art school that you traced from someone else's work. The technical execution might be fine, but it reveals nothing about your eye, your taste, or your ability to solve problems independently.",
+    "metadata": {
+      "source_file": "Source_01.txt",
+      "title": "Building a Portfolio That Shows Your Skills, Not Just AI",
+      "url": "https://blog.vibecoder.me/building-a-portfolio-that-shows-your-skills-not-just-ai",
+      "chunk_index": 1,
+      "char_count": 844
+    }
+  },
+  {
+    "id": "Source_01_chunk_2",
+    "text": "but it reveals nothing about your eye, your taste, or your ability to solve problems independently.\n\nKey Takeaway\nEmployers hiring junior developers and career changers are not looking for perfect code. They are looking for evidence that you can think through problems, make decisions under uncertainty, and learn from what goes wrong. Your portfolio needs to demonstrate those things explicitly, because AI-generated code alone cannot.\n\nThe real issue goes deeper than aesthetics. When you prompt AI to \"build a task manager\" and deploy whatever comes out, you have demonstrated one skill: the ability to use a tool. That is like listing \"can operate a microwave\" on a chef's resume. It is technically true and completely unhelpful. Employers want to see that you understand why certain decisions were made, that you can adapt when requirements change, and that you have opinions about tradeoffs.",
+    "metadata": {
+      "source_file": "Source_01.txt",
+      "title": "Building a Portfolio That Shows Your Skills, Not Just AI",
+      "url": "https://blog.vibecoder.me/building-a-portfolio-that-shows-your-skills-not-just-ai",
+      "chunk_index": 2,
+      "char_count": 897
+    }
+  },
+  {
+    "id": "Source_01_chunk_3",
+    "text": "were made, that you can adapt when requirements change, and that you have opinions about tradeoffs.\n\nWhat Makes a Portfolio Project Stand Out\nThink of your portfolio like curating an art exhibition, not dumping canvases in a warehouse. A great curator does not hang every painting they own on the wall. They select three or four pieces that tell a story together. Each piece is there for a reason. The selection itself reveals taste, judgment, and a point of view.",
+    "metadata": {
+      "source_file": "Source_01.txt",
+      "title": "Building a Portfolio That Shows Your Skills, Not Just AI",
+      "url": "https://blog.vibecoder.me/building-a-portfolio-that-shows-your-skills-not-just-ai",
+      "chunk_index": 3,
+      "char_count": 464
+    }
+  },
+  {
+    "id": "Source_01_chunk_4",
+    "text": "EXPLAINER DIAGRAM: A split comparison on a light background in teal and coral. Left side labeled BAD PORTFOLIO shows a chaotic wall with many overlapping rectangles labeled GENERIC APP repeated five times, with a label underneath reading EVERYTHING ON THE WALL. Right side labeled GOOD PORTFOLIO shows three carefully spaced frames on a clean wall, each labeled PROJECT 1, PROJECT 2, PROJECT 3, with small caption lines beneath each frame and a label underneath reading CURATED STORY. A horizontal divider separates the two sides.\nA strong portfolio is curated like an exhibition. Three intentional projects beat ten generic ones every time.\nA bad portfolio is the warehouse approach. Eight projects, most of them todo apps and weather dashboards, no narrative connecting them, no explanation of why any of them exist. A good portfolio has three projects that each demonstrate something different. To",
+    "metadata": {
+      "source_file": "Source_01.txt",
+      "title": "Building a Portfolio That Shows Your Skills, Not Just AI",
+      "url": "https://blog.vibecoder.me/building-a-portfolio-that-shows-your-skills-not-just-ai",
+      "chunk_index": 4,
+      "char_count": 900
+    }
+  },
+  {
+    "id": "Source_01_chunk_5",
+    "text": "any of them exist. A good portfolio has three projects that each demonstrate something different. Together they paint a picture of someone who identifies problems, builds solutions, and ships to real people.",
+    "metadata": {
+      "source_file": "Source_01.txt",
+      "title": "Building a Portfolio That Shows Your Skills, Not Just AI",
+      "url": "https://blog.vibecoder.me/building-a-portfolio-that-shows-your-skills-not-just-ai",
+      "chunk_index": 5,
+      "char_count": 207
+    }
+  },
+  {
+    "id": "Source_01_chunk_6",
+    "text": "The difference between these two approaches is not effort. It is intention. The warehouse portfolio might represent more hours of work. But the curated portfolio communicates more about who you are as a builder.\n\nThe Three Projects Every Career Changer Needs\nHere is the framework. You need exactly three projects, and each one serves a specific purpose in telling your story.",
+    "metadata": {
+      "source_file": "Source_01.txt",
+      "title": "Building a Portfolio That Shows Your Skills, Not Just AI",
+      "url": "https://blog.vibecoder.me/building-a-portfolio-that-shows-your-skills-not-just-ai",
+      "chunk_index": 6,
+      "char_count": 376
+    }
+  },
+  {
+    "id": "Source_01_chunk_7",
+    "text": "You need exactly three projects, and each one serves a specific purpose in telling your story.\n\nProject One: Something that solves YOUR specific problem. Not a generic app from a tutorial. Something you actually needed. Maybe you built a meal planning tool because you were tired of deciding what to cook every night. Maybe you built an invoice tracker because your freelance workflow was chaotic. The project itself can be simple. What matters is that you identified a real need from your own life and built something to address it. This proves you can spot problems worth solving, which is the single most valuable skill in product development.",
+    "metadata": {
+      "source_file": "Source_01.txt",
+      "title": "Building a Portfolio That Shows Your Skills, Not Just AI",
+      "url": "https://blog.vibecoder.me/building-a-portfolio-that-shows-your-skills-not-just-ai",
+      "chunk_index": 7,
+      "char_count": 646
+    }
+  },
+  {
+    "id": "Source_01_chunk_8",
+    "text": "can spot problems worth solving, which is the single most valuable skill in product development.\n\nProject Two: Something where you hit a wall and pushed through. Every builder encounters bugs, broken APIs, and architectural dead ends. This project is your evidence that you handle those moments with persistence instead of giving up. Pick a project where something went seriously wrong during development. Maybe the AI-generated auth system had a security flaw you had to research and fix. Maybe a third-party API changed and you had to rewrite your integration. Document the struggle. Employers love this project because it shows resilience and debugging ability.",
+    "metadata": {
+      "source_file": "Source_01.txt",
+      "title": "Building a Portfolio That Shows Your Skills, Not Just AI",
+      "url": "https://blog.vibecoder.me/building-a-portfolio-that-shows-your-skills-not-just-ai",
+      "chunk_index": 8,
+      "char_count": 664
+    }
+  },
+  {
+    "id": "Source_01_chunk_9",
+    "text": "the struggle. Employers love this project because it shows resilience and debugging ability.\n\nProject Three: Something with real users, even just five friends. Deploy something and get people to actually use it. It does not need to be a startup. It could be a shared grocery list app your roommates use, a study group scheduler for your classmates, or a simple tool you posted in a Discord community. The point is that you shipped something to real humans and dealt with real feedback. This separates you from 95% of portfolio builders who never get past the deploy step.\n\nBuilding Your First Portfolio Project?\nLearn the fundamentals that make AI tools work for you, not the other way around.",
+    "metadata": {
+      "source_file": "Source_01.txt",
+      "title": "Building a Portfolio That Shows Your Skills, Not Just AI",
+      "url": "https://blog.vibecoder.me/building-a-portfolio-that-shows-your-skills-not-just-ai",
+      "chunk_index": 9,
+      "char_count": 693
+    }
+  },
+  {
+    "id": "Source_01_chunk_10",
+    "text": "Project?\nLearn the fundamentals that make AI tools work for you, not the other way around.\n\nExplore the foundations\nFor each of these three projects, you need to document four things: what you built, why you built it, what broke along the way, and what you learned. That documentation is what transforms a deployed app into a portfolio piece.\n\nHow to Document Your Process, Not Just the Result\nDocumentation is where most people drop the ball. They have a live demo link and a GitHub repo with no README. That is like handing someone a novel with no title, no cover, and no table of contents. Maybe the writing inside is great, but nobody is going to find out.",
+    "metadata": {
+      "source_file": "Source_01.txt",
+      "title": "Building a Portfolio That Shows Your Skills, Not Just AI",
+      "url": "https://blog.vibecoder.me/building-a-portfolio-that-shows-your-skills-not-just-ai",
+      "chunk_index": 10,
+      "char_count": 660
+    }
+  },
+  {
+    "id": "Source_01_chunk_11",
+    "text": "and no table of contents. Maybe the writing inside is great, but nobody is going to find out.\n\nYour README is your first impression. It should answer five questions in under sixty seconds of reading. What does this project do? Why does it exist? What technology choices did you make and why? What challenges did you face? What would you do differently next time?\n\nHere is a structure that works. Start with a one-paragraph summary that explains the project like you are telling a friend about it. Then add a \"Why I Built This\" section with two or three sentences about the problem you were solving. Follow that with a \"Technical Decisions\" section where you explain your stack choices (not just list them). Then include a \"Challenges and Solutions\" section where you walk through one or two real problems you hit and how you solved them. End with a \"What I Learned\" section.",
+    "metadata": {
+      "source_file": "Source_01.txt",
+      "title": "Building a Portfolio That Shows Your Skills, Not Just AI",
+      "url": "https://blog.vibecoder.me/building-a-portfolio-that-shows-your-skills-not-just-ai",
+      "chunk_index": 11,
+      "char_count": 874
+    }
+  },
+  {
+    "id": "Source_01_chunk_12",
+    "text": "EXPLAINER DIAGRAM: A vertical flowchart on a white background in teal and dark gray. Five boxes stacked vertically connected by downward arrows. First box labeled SUMMARY with subtitle WHAT IT DOES in small text. Second box labeled MOTIVATION with subtitle WHY I BUILT THIS. Third box labeled DECISIONS with subtitle TECH CHOICES AND TRADEOFFS. Fourth box labeled CHALLENGES with subtitle WHAT BROKE AND HOW I FIXED IT. Fifth box labeled LESSONS with subtitle WHAT I WOULD DO DIFFERENTLY. A side label reads README TEMPLATE.\nA structured README turns a deployed app into a portfolio story. Follow these five sections for every project.\nBeyond the README, consider writing a short case study for your best project. A case study is a 500-word narrative that walks through the project from start to finish. Think of it as the wall placard next to a painting in a gallery. It gives the viewer context the",
+    "metadata": {
+      "source_file": "Source_01.txt",
+      "title": "Building a Portfolio That Shows Your Skills, Not Just AI",
+      "url": "https://blog.vibecoder.me/building-a-portfolio-that-shows-your-skills-not-just-ai",
+      "chunk_index": 12,
+      "char_count": 900
+    }
+  },
+  {
+    "id": "Source_01_chunk_13",
+    "text": "sh. Think of it as the wall placard next to a painting in a gallery. It gives the viewer context they cannot get from looking at the work alone.",
+    "metadata": {
+      "source_file": "Source_01.txt",
+      "title": "Building a Portfolio That Shows Your Skills, Not Just AI",
+      "url": "https://blog.vibecoder.me/building-a-portfolio-that-shows-your-skills-not-just-ai",
+      "chunk_index": 13,
+      "char_count": 144
+    }
+  },
+  {
+    "id": "Source_01_chunk_14",
+    "text": "The case study format is simple. Start with the problem (one paragraph). Then describe your approach (one paragraph). Walk through the biggest challenge you faced (two paragraphs). End with the outcome and what you learned (one paragraph). Post it on your portfolio site next to the project link.\n\nCommon Mistake\nDo not fabricate challenges or exaggerate problems for dramatic effect. Hiring managers who have built software can spot manufactured narratives instantly. Real problems are always more interesting than fake ones. If your biggest challenge was \"I could not figure out why the CSS was breaking on mobile,\" that is a perfectly valid story. Authenticity beats drama.",
+    "metadata": {
+      "source_file": "Source_01.txt",
+      "title": "Building a Portfolio That Shows Your Skills, Not Just AI",
+      "url": "https://blog.vibecoder.me/building-a-portfolio-that-shows-your-skills-not-just-ai",
+      "chunk_index": 14,
+      "char_count": 676
+    }
+  },
+  {
+    "id": "Source_01_chunk_15",
+    "text": "out why the CSS was breaking on mobile,\" that is a perfectly valid story. Authenticity beats drama.\n\nGitHub itself is a portfolio tool most people underuse. Your commit history tells a story. A repo with one commit that says \"initial commit\" tells a bad story. A repo with forty commits that show you building feature by feature, fixing bugs as you find them, and refactoring when things get messy tells a great story. When you are building portfolio projects, commit early and commit often. Write commit messages that explain what you did and why. \"Fix auth redirect loop by checking session before route guard\" tells an interviewer more about your skills than a hundred lines of AI-generated code.",
+    "metadata": {
+      "source_file": "Source_01.txt",
+      "title": "Building a Portfolio That Shows Your Skills, Not Just AI",
+      "url": "https://blog.vibecoder.me/building-a-portfolio-that-shows-your-skills-not-just-ai",
+      "chunk_index": 15,
+      "char_count": 699
+    }
+  },
+  {
+    "id": "Source_01_chunk_16",
+    "text": "route guard\" tells an interviewer more about your skills than a hundred lines of AI-generated code.\n\nYour GitHub profile README is another opportunity. Add a short paragraph about who you are, what you are building toward, and what technologies you are focused on. Pin your three portfolio projects. Make it easy for someone to understand your story in thirty seconds.\n\nWhat This Means For You\nYour portfolio is not a collection of apps. It is an argument. You are making the case that you can identify real problems, build solutions with AI tools, push through obstacles, and ship to actual users. Three intentional projects with strong documentation will always beat ten generic apps with no context.",
+    "metadata": {
+      "source_file": "Source_01.txt",
+      "title": "Building a Portfolio That Shows Your Skills, Not Just AI",
+      "url": "https://blog.vibecoder.me/building-a-portfolio-that-shows-your-skills-not-just-ai",
+      "chunk_index": 16,
+      "char_count": 702
+    }
+  },
+  {
+    "id": "Source_01_chunk_17",
+    "text": "intentional projects with strong documentation will always beat ten generic apps with no context.\n\nStart today. Pick the project you are most proud of and write a proper README for it. Add a \"Challenges\" section where you describe one real problem you solved. Push that update to GitHub. That single action puts you ahead of most candidates who are relying on their deployed apps to speak for themselves.\n\nThe curated exhibition always draws a bigger crowd than the warehouse. Your portfolio should tell a story, and that story should be about you, not the AI that helped you build it.",
+    "metadata": {
+      "source_file": "Source_01.txt",
+      "title": "Building a Portfolio That Shows Your Skills, Not Just AI",
+      "url": "https://blog.vibecoder.me/building-a-portfolio-that-shows-your-skills-not-just-ai",
+      "chunk_index": 17,
+      "char_count": 585
+    }
+  },
+  {
+    "id": "Source_02_chunk_0",
+    "text": "I’m curious how other developers here use GitHub when applying for jobs.\n\nSome companies check your GitHub profile before or after interviews, so I’m wondering:\n\nWhat kind of projects do you keep public for employers to see?\n\nDo you write detailed READMEs to explain your work?\n\nHow much do recruiters actually value GitHub contributions compared to a traditional resume?\n\nAnswered by Banabanaa\non Aug 14, 2025\nI try to put effort into writing good README files — I treat them almost like a portfolio write-up. I include:",
+    "metadata": {
+      "source_file": "Source_02.txt",
+      "title": "Using GitHub for Portfolios",
+      "url": "https://github.com/orgs/community/discussions/169760",
+      "chunk_index": 0,
+      "char_count": 521
+    }
+  },
+  {
+    "id": "Source_02_chunk_1",
+    "text": "effort into writing good README files — I treat them almost like a portfolio write-up. I include:\n\nWhat the project is\nWhat tools/technologies were used\nSetup instructions\nScreenshots or demo links\nA brief explanation of what I learned or solved\nAs for how much GitHub matters compared to a resume:\nIt really depends on the company. Tech-first or open source-friendly companies often take GitHub seriously — sometimes more than a resume. But for more traditional companies, it's just a bonus.\n\nEither way, a well-curated GitHub profile can absolutely help you stand out and back up your skills with real work.\n\nView full answer \nReplies:5 comments",
+    "metadata": {
+      "source_file": "Source_02.txt",
+      "title": "Using GitHub for Portfolios",
+      "url": "https://github.com/orgs/community/discussions/169760",
+      "chunk_index": 1,
+      "char_count": 647
+    }
+  },
+  {
+    "id": "Source_02_chunk_2",
+    "text": "help you stand out and back up your skills with real work.\n\nView full answer \nReplies:5 comments\n\nArmanAmreliya\non Aug 14, 2025\nHello!! @raceczn only keep public projects that you are proud to have your name on — things with clean code, interesting problems solved, or that show you can pick up new tech quickly. Sometimes that’s a side project, sometimes it’s a small utility or script that’s genuinely useful. You avoid cluttering your profile with half-finished experiments or “test” repos, because recruiters don’t need to wade through broken code to find the good stuff.\n\n0 replies\n\nPUSHPAK-JAISWAL\non Aug 14, 2025\nLet's Consider this question as i asked the same question to one of my seniors and he gave me a pretty good idea about this.",
+    "metadata": {
+      "source_file": "Source_02.txt",
+      "title": "Using GitHub for Portfolios",
+      "url": "https://github.com/orgs/community/discussions/169760",
+      "chunk_index": 2,
+      "char_count": 744
+    }
+  },
+  {
+    "id": "Source_02_chunk_3",
+    "text": "as i asked the same question to one of my seniors and he gave me a pretty good idea about this.\n\nSo he told me that he used to push all the code from development to every thing he made for practice to github.\nWhat he did differently was he created README.md file for each and every project he made.\nwith the basic how to clone and contribute.\n\nHe also started Documenting his growth on Readme file.\n\nexample :- he made a todo application\nhe used to put a tag named learning in that he would put everything new he learnt from that specific project.\n\nlater as he got into open source and started building good projects he started to star them and pin them up.\n\nThe projects he showcased in his resume where pinned and had a live working link.",
+    "metadata": {
+      "source_file": "Source_02.txt",
+      "title": "Using GitHub for Portfolios",
+      "url": "https://github.com/orgs/community/discussions/169760",
+      "chunk_index": 3,
+      "char_count": 740
+    }
+  },
+  {
+    "id": "Source_02_chunk_4",
+    "text": "and pin them up.\n\nThe projects he showcased in his resume where pinned and had a live working link.\n\nas later when his github was show the contribution graph and the projects showed his dedication towards innovation he received a 25lpa inr job offer. In india that is the most reputable job offer one can get as it comes in the higher spectrum of the paychecks.\n\nso,\ngithub contributions just show dedication and if your repositories are polished it will help in the long run.\nbut it will only be checked if you get shortlisted on the basis of you resume.\n\n0 replies\nThis comment was marked as off-topic.\nShow comment\n\nitsahmadawais\non Aug 14, 2025\n💡 GitHub’s impact depends on the company – tech-focused or open-source–friendly organizations often review it carefully, while others may only glance at it.",
+    "metadata": {
+      "source_file": "Source_02.txt",
+      "title": "Using GitHub for Portfolios",
+      "url": "https://github.com/orgs/community/discussions/169760",
+      "chunk_index": 4,
+      "char_count": 805
+    }
+  },
+  {
+    "id": "Source_02_chunk_5",
+    "text": "open-source–friendly organizations often review it carefully, while others may only glance at it.\n\n🚀 Treat GitHub as your public showcase for projects you can share. Keep them public, clean, and well-documented so they’re easy for recruiters or hiring managers to explore.\n\n📝 A good README can make a big difference. Include:\n\n🛠 Tech stack – languages, frameworks, and tools you used\n📜 Setup instructions – how to run the project locally\n🖼 Screenshots / GIFs – visual previews of your work\n🌐 Demo links – if it’s not live, host it for free on Vercel, Netlify, or GitHub Pages\n✏ Short description – what the project does, key features, and your role\n✨ Extra ways to stand out:",
+    "metadata": {
+      "source_file": "Source_02.txt",
+      "title": "Using GitHub for Portfolios",
+      "url": "https://github.com/orgs/community/discussions/169760",
+      "chunk_index": 5,
+      "char_count": 675
+    }
+  },
+  {
+    "id": "Source_02_chunk_6",
+    "text": "Short description – what the project does, key features, and your role\n✨ Extra ways to stand out:\n\n🖥 Create a personal website – even a single-page portfolio linking to your best repos, LinkedIn, and resume\n📌 Pin your top repositories so they’re easy to find\n📂 Organize your repos – clear folder structures, clean commit history, and meaningful commit messages\n🎯 Show variety – personal projects, open-source contributions, and small experiments that demonstrate range\n📚 Share learnings – even unfinished work is valuable if you explain what you learned\n✅ While GitHub alone may not get you hired, combined with a solid resume and portfolio website, it can make you memorable and give employers real insight into your skills.\n\n0 replies",
+    "metadata": {
+      "source_file": "Source_02.txt",
+      "title": "Using GitHub for Portfolios",
+      "url": "https://github.com/orgs/community/discussions/169760",
+      "chunk_index": 6,
+      "char_count": 736
+    }
+  },
+  {
+    "id": "Source_02_chunk_7",
+    "text": "website, it can make you memorable and give employers real insight into your skills.\n\n0 replies\n\nJagadeeshwaran-J\non Aug 14, 2025\nMany developers keep a few polished public projects that highlight relevant skills, add clear READMEs to explain context and decisions, and use GitHub as a portfolio supplement, but most recruiters still weigh a traditional resume more heavily and see GitHub mainly as a bonus signal of practical coding ability.",
+    "metadata": {
+      "source_file": "Source_02.txt",
+      "title": "Using GitHub for Portfolios",
+      "url": "https://github.com/orgs/community/discussions/169760",
+      "chunk_index": 7,
+      "char_count": 442
+    }
+  },
+  {
+    "id": "Source_03_chunk_0",
+    "text": "f you’re a software engineer or are in the process of becoming one, you will almost certainly use tools and services like Git and GitHub. Almost every single software program you use or will use is built by a team. Version control systems like Git and source code management services like GitHub allow teams to collaborate effectively and manage large-scale software projects with ease and clarity.\n\nYour GitHub repos (repositories) can act as your portfolio, especially if you’re at the beginning of your software engineering career journey. GitHub can help you stand out from the crowd by showing your repos and showing that you are familiar with industry-standard tools, workflows, and automation.\n\nIn this post, we will focus on standard Git practices and offer advice on how to tailor your GitHub profile for a job search.",
+    "metadata": {
+      "source_file": "Source_03.txt",
+      "title": "Fine-Tuning GitHub for Portfolios",
+      "url": "https://flatironschool.com/blog/github-profile-and-git-practices-for-job-seekers/",
+      "chunk_index": 0,
+      "char_count": 827
+    }
+  },
+  {
+    "id": "Source_03_chunk_1",
+    "text": "on standard Git practices and offer advice on how to tailor your GitHub profile for a job search.\n\nWill a Recruiter Really Check a GitHub Profile?\nSoftware engineering interviews vary drastically from company to company. The number of interview rounds, types of interviews, and even the interview performance metrics vary from company to company.\n\nHowever, the initial application process is fairly straightforward. You will likely apply through an online form, submit a resume, and link to your projects. Optimizing your resume and portfolio will improve your chances of securing interviews at companies you want to work for.\n\nSo how will having a strong GitHub profile help you?",
+    "metadata": {
+      "source_file": "Source_03.txt",
+      "title": "Fine-Tuning GitHub for Portfolios",
+      "url": "https://flatironschool.com/blog/github-profile-and-git-practices-for-job-seekers/",
+      "chunk_index": 1,
+      "char_count": 680
+    }
+  },
+  {
+    "id": "Source_03_chunk_2",
+    "text": "interviews at companies you want to work for.\n\nSo how will having a strong GitHub profile help you?\n\nExample Github profile\nRecruiters spend around 6 seconds per resume on the initial scan—and the initial scan might be all you get. For entry-level applicants, the Projects section on a resume is one of the most important, especially if the applicant does not have a formal computer science or software engineering degree. If a project sounds interesting, the recruiter will check out any linked demo, video, or documentation. A GitHub README doc is a great place to prominently display all the relevant demos, videos, live links, and features so recruiters can quickly make sense of the project.",
+    "metadata": {
+      "source_file": "Source_03.txt",
+      "title": "Fine-Tuning GitHub for Portfolios",
+      "url": "https://flatironschool.com/blog/github-profile-and-git-practices-for-job-seekers/",
+      "chunk_index": 2,
+      "char_count": 696
+    }
+  },
+  {
+    "id": "Source_03_chunk_3",
+    "text": "demos, videos, live links, and features so recruiters can quickly make sense of the project.\n\nSome recruiters also look at an applicant’s GitHub profile activity. The activity is a somewhat solid indicator of how much the applicant practices coding, and it offers a glimpse into what kinds of projects the applicant is or has been involved in. Robust GitHub profile activity is helpful for candidates who don’t have CS coursework to demonstrate the necessary time spent on programming and building software.",
+    "metadata": {
+      "source_file": "Source_03.txt",
+      "title": "Fine-Tuning GitHub for Portfolios",
+      "url": "https://flatironschool.com/blog/github-profile-and-git-practices-for-job-seekers/",
+      "chunk_index": 3,
+      "char_count": 507
+    }
+  },
+  {
+    "id": "Source_03_chunk_4",
+    "text": "have CS coursework to demonstrate the necessary time spent on programming and building software.\n\nWhat to Expect in an Interview\nIn the latter interview rounds, engineers and hiring managers may look through your projects in greater detail. This entails looking through the README and code on GitHub project repos. For certain interviews, candidates are asked to walk the interviewers through the project and justify design decisions. Interviewers may also check for best practices around project structure, app design, testing, commits, etc.\n\nHaving a solid GitHub profile and creating good READMEs for projects helps candidates in the application stage and may also help them during the latter interview rounds. There’s no downside to spending some time sprucing up your GitHub profile and project overviews.",
+    "metadata": {
+      "source_file": "Source_03.txt",
+      "title": "Fine-Tuning GitHub for Portfolios",
+      "url": "https://flatironschool.com/blog/github-profile-and-git-practices-for-job-seekers/",
+      "chunk_index": 4,
+      "char_count": 810
+    }
+  },
+  {
+    "id": "Source_03_chunk_5",
+    "text": "There’s no downside to spending some time sprucing up your GitHub profile and project overviews.\n\nLet’s look at some concrete ways to improve both your GitHub profile and your Git commits.\n\nGitHub Profile Best Practices\nThe goal of your GitHub profile during a job search is to showcase your best projects, skills, and coding history to potential employers. Here are some guidelines that will help you create a unique profile that highlights the value you can bring to a team:",
+    "metadata": {
+      "source_file": "Source_03.txt",
+      "title": "Fine-Tuning GitHub for Portfolios",
+      "url": "https://flatironschool.com/blog/github-profile-and-git-practices-for-job-seekers/",
+      "chunk_index": 5,
+      "char_count": 476
+    }
+  },
+  {
+    "id": "Source_03_chunk_6",
+    "text": "that will help you create a unique profile that highlights the value you can bring to a team:\n\nCreate a clean overview page\nUse a profile generator for easy to read layouts\nAdd contact links (LinkedIn, email)\nShort description or bio\nPin your best projects\nWrite detailed documentation for each project\nAdd images and walkthrough videos for each project (the examples below have walkthrough videos)\nUse a README generator to ensure consistent formatting\nHave a consistent commit history (we’ll cover Git best practices later in this post)\nI highly recommend looking at a few great GitHub profiles for inspiration. But don’t spend too much time on your profile overview page. The goal is to highlight your strongest skills and experiences so recruiters take immediate notice.",
+    "metadata": {
+      "source_file": "Source_03.txt",
+      "title": "Fine-Tuning GitHub for Portfolios",
+      "url": "https://flatironschool.com/blog/github-profile-and-git-practices-for-job-seekers/",
+      "chunk_index": 6,
+      "char_count": 774
+    }
+  },
+  {
+    "id": "Source_03_chunk_7",
+    "text": "The goal is to highlight your strongest skills and experiences so recruiters take immediate notice.\n\nYou should instead spend more time on writing the READMEs and making short walkthrough videos for your projects. Check out a couple of examples READMEs from Flatiron School grads:\n\nMoribus by Donat Pllana\nMoney Box by Jackson Chen\nGit Best Practices\nEngineers and hiring managers may look at your Git commit history to get a better sense of what it would be like to work with you on a team. Git best practices ensure better collaboration by minimizing risk and facilitating faster review and automation workflows.\n\nThe following are the most important practices you can follow to stand out with your Git commit history:",
+    "metadata": {
+      "source_file": "Source_03.txt",
+      "title": "Fine-Tuning GitHub for Portfolios",
+      "url": "https://flatironschool.com/blog/github-profile-and-git-practices-for-job-seekers/",
+      "chunk_index": 7,
+      "char_count": 720
+    }
+  },
+  {
+    "id": "Source_03_chunk_8",
+    "text": "Make frequent commits\nMitigates the risk of losing work by saving it\nFacilitates collaboration since smaller commits are easier to review and merge\nMakes deployment easier since CI/CD pipelines usually run on new commits\nEncourages writing more modular code, which improves readability and maintainability\nFollow consistent commit structure (Conventional Commits Guidelines)\nYou don’t necessarily have to follow a specific set of guidelines but whichever convention you decide to follow must be applied to all of your commits\nWrite descriptive commit messages for bigger changes such as feature additions, large refactors, or infrastructure changes\nConclusion\nIf you follow these Git and GitHub guidelines and best practices, you will better your chances of standing out to both recruiters in pre-interview stages and engineers/hiring managers in interview stages.",
+    "metadata": {
+      "source_file": "Source_03.txt",
+      "title": "Fine-Tuning GitHub for Portfolios",
+      "url": "https://flatironschool.com/blog/github-profile-and-git-practices-for-job-seekers/",
+      "chunk_index": 8,
+      "char_count": 864
+    }
+  },
+  {
+    "id": "Source_04_chunk_0",
+    "text": "Summary:\nLearn how to build an online portfolio to show off your software engineering skills with expert tips and great examples in this guide.\n\nUnlike more visual vocations like design, architecture, or film, the idea of a personal portfolio isn’t a requirement to get a job in software engineering.\n\nHowever, between picky employers and a dearth of new bootcamp developers and fresh grads to compete with, it can be a fantastic tool for helping you land that next role.\n\nBefore I dive into the ins and outs of how to make a software engineer portfolio and what should go into it, let’s first make sure have a shared understanding of what a software engineer is.\n\nSoftware Engineer vs Developer vs Programmer\nThis is a topic that can light a fire under many an otherwise laid-back developer. I have written on this topic before and enjoyed the comment section immensely!",
+    "metadata": {
+      "source_file": "Source_04.txt",
+      "title": "Range of Projects a Portfolio Can Include",
+      "url": "https://arc.dev/talent-blog/software-engineer-portfolio/",
+      "chunk_index": 0,
+      "char_count": 871
+    }
+  },
+  {
+    "id": "Source_04_chunk_1",
+    "text": "laid-back developer. I have written on this topic before and enjoyed the comment section immensely!\n\nWhile I don’t believe any one is better than the other I do think there are different modes of working that fit these names and we all move between them throughout our careers.\n\nLet’s take a look at each in turn so we can get a firm idea of what to put in a software engineer portfolio.\n\nProgramming\nThis is the act of writing code, the foundation we build our careers on, simply instructing a computer to complete a task. Programming could be a simple shell script or a self-contained Jira ticket as part of a larger feature. Leetcode and interview problems fall into this category nicely. Often this mode is the most fun as we are simply solving the problem in front of us.",
+    "metadata": {
+      "source_file": "Source_04.txt",
+      "title": "Range of Projects a Portfolio Can Include",
+      "url": "https://arc.dev/talent-blog/software-engineer-portfolio/",
+      "chunk_index": 1,
+      "char_count": 776
+    }
+  },
+  {
+    "id": "Source_04_chunk_2",
+    "text": "nicely. Often this mode is the most fun as we are simply solving the problem in front of us.\n\nSoftware development\nHere we are thinking about a larger problem space, perhaps linking multiple services together, operating through the full stack (web or native), or building a framework or library. There are external considerations to consider, interfaces to maintain, and API contracts to be mindful of.\n\nOur work likely impacts other parts of the system, and, if on a team, other people as well. The output of our work here is likely the most appreciated by a user and the easiest to show off and point to as “I made that.”",
+    "metadata": {
+      "source_file": "Source_04.txt",
+      "title": "Range of Projects a Portfolio Can Include",
+      "url": "https://arc.dev/talent-blog/software-engineer-portfolio/",
+      "chunk_index": 2,
+      "char_count": 623
+    }
+  },
+  {
+    "id": "Source_04_chunk_3",
+    "text": "is likely the most appreciated by a user and the easiest to show off and point to as “I made that.”\n\nWhile we’re mostly focused on the difference between programming, software development, and software engineering, I want to add that, with complex, full-stack projects like these, you may want to leverage software development outsourcing services. Outsourced dev teams bring specialized expertise to tackle the intricacies of large-scale development initiatives. By routing work to dedicated outsourced teams, the scope of what organizations can build expands greatly.",
+    "metadata": {
+      "source_file": "Source_04.txt",
+      "title": "Range of Projects a Portfolio Can Include",
+      "url": "https://arc.dev/talent-blog/software-engineer-portfolio/",
+      "chunk_index": 3,
+      "char_count": 569
+    }
+  },
+  {
+    "id": "Source_04_chunk_4",
+    "text": "work to dedicated outsourced teams, the scope of what organizations can build expands greatly.\n\nSoftware Engineering\nSoftware engineering is less about the code that is written and more about the design decisions taken, the technologies chosen, and the overall architecture of a system. When engineering a solution, you need to consider the broadest context that the system operates in, hardware requirements, scalability, design and architecture patterns, developer experience, maintainability, deliverability, and business requirements. You can consider elevating your digital presence with a SAAS design agency that understands the heartbeat of your vision.",
+    "metadata": {
+      "source_file": "Source_04.txt",
+      "title": "Range of Projects a Portfolio Can Include",
+      "url": "https://arc.dev/talent-blog/software-engineer-portfolio/",
+      "chunk_index": 4,
+      "char_count": 660
+    }
+  },
+  {
+    "id": "Source_04_chunk_5",
+    "text": "your digital presence with a SAAS design agency that understands the heartbeat of your vision.\n\nUnlike older disciplines such as civil, mechanical, or electrical engineering, software doesn’t have a universally agreed upon definition of its engineering standards, and so much of this is subjective. But ultimately, in my opinion, the engineering in software has little to do with the code you write and more to do with the whys behind the system you build.\n\nGiven the above, we can see that a software engineer is a developer, and a developer is also a programmer, but a programmer or developer is not necessarily a software engineer. It all depends on the context and scale of the work being undertaken.",
+    "metadata": {
+      "source_file": "Source_04.txt",
+      "title": "Range of Projects a Portfolio Can Include",
+      "url": "https://arc.dev/talent-blog/software-engineer-portfolio/",
+      "chunk_index": 5,
+      "char_count": 704
+    }
+  },
+  {
+    "id": "Source_04_chunk_6",
+    "text": "a software engineer. It all depends on the context and scale of the work being undertaken.\n\nRather than viewing these definitions as an evaluation of the person undertaking the work, view it more as an evaluation of the work and the mindset required to complete it.\nWhat is a Software Engineer Portfolio?\nAfter defining the above terms, how do we now determine what a software engineering portfolio is?\n\nIn the simplest terms, a software engineer portfolio is a summary of work you have completed that shows you are a capable software engineer. It is your landing page, your sales page used to score a job interview or find new clients.\n\nWith that in mind, we can start to understand what to include in a software engineer portfolio by considering the target audience. When applying for work there are two groups to consider:",
+    "metadata": {
+      "source_file": "Source_04.txt",
+      "title": "Range of Projects a Portfolio Can Include",
+      "url": "https://arc.dev/talent-blog/software-engineer-portfolio/",
+      "chunk_index": 6,
+      "char_count": 825
+    }
+  },
+  {
+    "id": "Source_04_chunk_7",
+    "text": "by considering the target audience. When applying for work there are two groups to consider:\n\nRecruiters (both internal and external) – non-technical\nHiring managers – technical\nIn all but the rarest of cases, recruiters are not technical. While they can pattern match requirements to skills with keywords such as Kubernetes or embedded, it’s unlikely they can explain the difference between UIKit and SwiftUI, beyond simply that one is newer than the other.\n\nOn the other hand, hiring managers care very deeply about the meaning behind the terms above. They are looking to fill a role with the most qualified and experienced candidate they can within the headcount and budget they have. If they are explicitly looking for software engineers, we can assume that they don’t just care about the “how” of the work you have done but also the “why” behind it.",
+    "metadata": {
+      "source_file": "Source_04.txt",
+      "title": "Range of Projects a Portfolio Can Include",
+      "url": "https://arc.dev/talent-blog/software-engineer-portfolio/",
+      "chunk_index": 7,
+      "char_count": 854
+    }
+  },
+  {
+    "id": "Source_04_chunk_8",
+    "text": "that they don’t just care about the “how” of the work you have done but also the “why” behind it.\n\nSo a good portfolio of software engineering work should convey all of the above to two different target demographics in an easy-to-understand and concise package that they can absorb in a couple of minutes!\n\nQuite the undertaking.\nThe Benefits of a Portfolio for Software Engineering Jobs\nThere are a lot of benefits to having a software engineer portfolio but a question I hear a lot is:\n\nIf I have a CV or resume, then why do I need a portfolio?\n\nThis makes it clear not everyone has bought into the idea of a portfolio, but let’s look at some benefits:",
+    "metadata": {
+      "source_file": "Source_04.txt",
+      "title": "Range of Projects a Portfolio Can Include",
+      "url": "https://arc.dev/talent-blog/software-engineer-portfolio/",
+      "chunk_index": 8,
+      "char_count": 654
+    }
+  },
+  {
+    "id": "Source_04_chunk_9",
+    "text": "it clear not everyone has bought into the idea of a portfolio, but let’s look at some benefits:\n\n1. Stand out from the crowd\nWhile demand for software engineers is at an all time high, it is still a challenge to land the most coveted positions that can take your career to the next level. Very few of us are fortunate enough to have FAANG (Facebook, Apple, Amazon, Netflix, and Google) experience or a Stanford, Oxford, or IIT degree on our resumes. So, we need to fill our quiver with as many digital arrows as possible, and a great online engineering portfolio can act as a quiver and arrow at the same time! While facing challenges like an Amazon background check denied, building a robust software engineer portfolio becomes crucial.",
+    "metadata": {
+      "source_file": "Source_04.txt",
+      "title": "Range of Projects a Portfolio Can Include",
+      "url": "https://arc.dev/talent-blog/software-engineer-portfolio/",
+      "chunk_index": 9,
+      "char_count": 737
+    }
+  },
+  {
+    "id": "Source_04_chunk_10",
+    "text": "an Amazon background check denied, building a robust software engineer portfolio becomes crucial.\n\n2. Single destination\nWith the myriad of places you can be online nowadays, from the stalwarts of LinkedIn and Twitter to the designer and engineer specific corners, such as Dribble and Github, it’s difficult to know where that one best place is to send prospective employers or collaborators.\n\nMany will say LinkedIn, but that’s a pretty poor way to show your developer skills. Others will say Github is the one true location for developers, but, referring back to the target audiences of your portfolio, a recruiter isn’t going to get much there. Your software engineer portfolio, ideally at your own domain, is the best place to showcase what makes you a uniquely qualified candidate.",
+    "metadata": {
+      "source_file": "Source_04.txt",
+      "title": "Range of Projects a Portfolio Can Include",
+      "url": "https://arc.dev/talent-blog/software-engineer-portfolio/",
+      "chunk_index": 10,
+      "char_count": 786
+    }
+  },
+  {
+    "id": "Source_04_chunk_11",
+    "text": "at your own domain, is the best place to showcase what makes you a uniquely qualified candidate.\n\n3. Progressive disclosure\nTo steal a term from UX, your own portfolio allows you to reveal information about yourself in the order and pace that you think is best. Unlike Github, that shows all your code immediately, or Twitter, which shows your most recent thoughts, you can design your own website to walk a visitor through your career, skills, and achievements in the order you see best.",
+    "metadata": {
+      "source_file": "Source_04.txt",
+      "title": "Range of Projects a Portfolio Can Include",
+      "url": "https://arc.dev/talent-blog/software-engineer-portfolio/",
+      "chunk_index": 11,
+      "char_count": 488
+    }
+  },
+  {
+    "id": "Source_04_chunk_12",
+    "text": "website to walk a visitor through your career, skills, and achievements in the order you see best.\n\nPerhaps the thing you want to show people first is a significant PR you submitted to a large open source project. Maybe it’s an app you developed in your spare time. Perhaps you are new to the field and your degree or bootcamp is the best starting point. Your portfolio, your choice.\n6 Powerful Elements for a Solid Software Engineer Portfolio\nNow, let’s look at what to put in your software engineer portfolio.\n\nAbout information\nYour portfolio is about you, so make sure to include an about section or about page that is easy to find. You don’t need to be too personal if you don’t want to, but avoid the typical stilted resume summary section blurb that is all adjectives and no substance.",
+    "metadata": {
+      "source_file": "Source_04.txt",
+      "title": "Range of Projects a Portfolio Can Include",
+      "url": "https://arc.dev/talent-blog/software-engineer-portfolio/",
+      "chunk_index": 12,
+      "char_count": 792
+    }
+  },
+  {
+    "id": "Source_04_chunk_13",
+    "text": "but avoid the typical stilted resume summary section blurb that is all adjectives and no substance.\n\nAn overview of the type of work you like, what makes you tick, and what you want from the next few years. Professionally friendly is the ideal tone of voice to use here.\n\nContact details\nThe number one reason to have a portfolio is to encourage people to contact you, so make that very easy for them. An obvious contact form or easy-to-find email is pretty important to a successful portfolio.\n\nSkills and abilities\nPeople will want to know what skills you have, so remember to highlight the things that you think make you a great software engineer. Are you a TDD wizard, a Design Pattern guru, or a scalability ninja? If so, then those are the kinds of things to make prominent.",
+    "metadata": {
+      "source_file": "Source_04.txt",
+      "title": "Range of Projects a Portfolio Can Include",
+      "url": "https://arc.dev/talent-blog/software-engineer-portfolio/",
+      "chunk_index": 13,
+      "char_count": 780
+    }
+  },
+  {
+    "id": "Source_04_chunk_14",
+    "text": "Pattern guru, or a scalability ninja? If so, then those are the kinds of things to make prominent.\n\nAvoid the percentages and bar charts of years gone by, they create visual noise. No one really knows what “75% Angular” means anyway!\nProjects\nThis is where the real meat of your portfolio should be, and, depending on the type of work you have done in your career, it could be quite challenging to populate. Many of us spend much of our careers working on proprietary systems that we can’t talk about.\n\nIf you’ve spent much of you time developing DevOps systems for a bank or embedded firmware for an appliance manufacturer, you might also be wondering what you can even do to demonstrate your skills. Well, never fear, I have dedicated a whole section below to this problem!",
+    "metadata": {
+      "source_file": "Source_04.txt",
+      "title": "Range of Projects a Portfolio Can Include",
+      "url": "https://arc.dev/talent-blog/software-engineer-portfolio/",
+      "chunk_index": 14,
+      "char_count": 775
+    }
+  },
+  {
+    "id": "Source_04_chunk_15",
+    "text": "demonstrate your skills. Well, never fear, I have dedicated a whole section below to this problem!\n\nBlog / Podcast\nIt’s unlikely you’ve made it this far in your career without developing a few opinions on best practices along the way. In fact, one of the reasons people want to hire you is for those opinions. An unopinionated experienced developer is more concerning than an inexperienced junior developer.\n\nTaking the time to write those opinions down and share them on your portfolio shows that you are experienced and able to effectively communicate your ideas. As we move to more asynchronous remote work, this is a vital skill that companies are going to actively seek out. If you prefer talking to writing, then a solo podcast is a great alternative, although you won’t get as much of an SEO benefit.",
+    "metadata": {
+      "source_file": "Source_04.txt",
+      "title": "Range of Projects a Portfolio Can Include",
+      "url": "https://arc.dev/talent-blog/software-engineer-portfolio/",
+      "chunk_index": 15,
+      "char_count": 807
+    }
+  },
+  {
+    "id": "Source_04_chunk_16",
+    "text": "then a solo podcast is a great alternative, although you won’t get as much of an SEO benefit.\n\nLinks\nYour software engineer portfolio is your little professional corner of the internet. It acts as a stepping off point for people to see more, so point people to the places you want them to go. This is where you link to your LinkedIn, Github, Dev.to blog, and anywhere else where you have a professional presence that showcases your software engineering credentials.\nProjects for a Software Engineering Portfolio Website\nPerhaps the hardest part of making a portfolio is what to include that showcases your skills.\n\nHere are three approaches, and at least one of them is guaranteed to work for your case. They have been listed from least effort to most effort.",
+    "metadata": {
+      "source_file": "Source_04.txt",
+      "title": "Range of Projects a Portfolio Can Include",
+      "url": "https://arc.dev/talent-blog/software-engineer-portfolio/",
+      "chunk_index": 16,
+      "char_count": 759
+    }
+  },
+  {
+    "id": "Source_04_chunk_17",
+    "text": "them is guaranteed to work for your case. They have been listed from least effort to most effort.\n\nShowcase public work\nIf you have worked on user-facing features for a website or app, or your code was used as part of an event that is referenced online, then there is a strong chance that you are able to write about that. Maybe you worked on the recommendation algorithm for Airbnb or the control software for a feature film or a big fireworks display. If so, the output of that is public already.",
+    "metadata": {
+      "source_file": "Source_04.txt",
+      "title": "Range of Projects a Portfolio Can Include",
+      "url": "https://arc.dev/talent-blog/software-engineer-portfolio/",
+      "chunk_index": 17,
+      "char_count": 498
+    }
+  },
+  {
+    "id": "Source_04_chunk_18",
+    "text": "for a feature film or a big fireworks display. If so, the output of that is public already.\n\nInclude a few screenshots or video, a summary of your contribution, the how and the why behind the process and design that you influenced, and a list of technologies involved. Obviously you need to be cognizant of the types of information you can share — perhaps don’t detail security protocols for Volvo’s keyless unlock system if you worked on that! — but talking about implementing CI/CD best practices and migrating from legacy code to a safer modern language should be fine. When in doubt, speak to management if you can, or simply stick to information that is already public.",
+    "metadata": {
+      "source_file": "Source_04.txt",
+      "title": "Range of Projects a Portfolio Can Include",
+      "url": "https://arc.dev/talent-blog/software-engineer-portfolio/",
+      "chunk_index": 18,
+      "char_count": 674
+    }
+  },
+  {
+    "id": "Source_04_chunk_19",
+    "text": "in doubt, speak to management if you can, or simply stick to information that is already public.\n\nOpen source contributions\nIf you really can’t talk about the work you have done, then it’s time to turn to open source. Open source projects of any decent size are generally crying out for contributors, and, if your employer is already leveraging open source technologies, you might be able to make some contributions on work time by selling the “giving back to the community” line.\n\nFind an area of a large project that needs improving, and, over the course of a few days or weeks, make an impact worthy of a place on your software engineering portfolio. Don’t take this as an opportunity to learn something new. You have a specific end goal here: to create evidence you are a top-notch software engineer.",
+    "metadata": {
+      "source_file": "Source_04.txt",
+      "title": "Range of Projects a Portfolio Can Include",
+      "url": "https://arc.dev/talent-blog/software-engineer-portfolio/",
+      "chunk_index": 19,
+      "char_count": 804
+    }
+  },
+  {
+    "id": "Source_04_chunk_20",
+    "text": "new. You have a specific end goal here: to create evidence you are a top-notch software engineer.\n\nFind something in your wheelhouse, perhaps closely related to work you have done before, and engineer a solution that you would be proud to put your name to. Make sure the project actively takes contributions, as some projects let PRs hang for years before pulling in.",
+    "metadata": {
+      "source_file": "Source_04.txt",
+      "title": "Range of Projects a Portfolio Can Include",
+      "url": "https://arc.dev/talent-blog/software-engineer-portfolio/",
+      "chunk_index": 20,
+      "char_count": 367
+    }
+  },
+  {
+    "id": "Source_04_chunk_21",
+    "text": "project actively takes contributions, as some projects let PRs hang for years before pulling in.\n\nMake something from scratch\nIf you want to be in control of your own destiny, then it’s best to make a project from scratch. Embark on the exciting journey of game development by learning how to make a clicker game on Scratch. Enhance your coding portfolio and showcase your creative programming skills. Usually I would now tell you my three tenets of an effective portfolio project: small, complete, and functional. However, that advice is targeted at earlier stage developers who simply need to show they can produce functioning code that solves a problem.",
+    "metadata": {
+      "source_file": "Source_04.txt",
+      "title": "Range of Projects a Portfolio Can Include",
+      "url": "https://arc.dev/talent-blog/software-engineer-portfolio/",
+      "chunk_index": 21,
+      "char_count": 656
+    }
+  },
+  {
+    "id": "Source_04_chunk_22",
+    "text": "stage developers who simply need to show they can produce functioning code that solves a problem.\n\nYour job is a bit different here. You need to show not only that you can make something, but that you can do it in a way that upholds and adheres to your industry’s best practices. It needs to be open source, so hosting your code on GitHub is a must. Beyond that, though, it really comes down to the expectations and standards of your industry.\n\nAgain, the aim isn’t to learn something new or solve some unique problem. You’re not making a startup here, you are demonstrating that you have the skills to deliver value and raise the level of engineer practice in a team or company. If you’ve never worked on the UI aspect of software, then that’s fine, make a library, an API, or an automated deployment pipeline.",
+    "metadata": {
+      "source_file": "Source_04.txt",
+      "title": "Range of Projects a Portfolio Can Include",
+      "url": "https://arc.dev/talent-blog/software-engineer-portfolio/",
+      "chunk_index": 22,
+      "char_count": 811
+    }
+  },
+  {
+    "id": "Source_04_chunk_23",
+    "text": "aspect of software, then that’s fine, make a library, an API, or an automated deployment pipeline.\n\nOne of these three tactics will help you create or find work that you can talk about. Whichever approach or approaches you go with, you need to display the information in an easy to understand and digestible way. Remember the progressive disclosure that we talked about before. Screenshots, videos, or interactive drop-ins help get non-technical people interested. Then, architecture diagrams, Swagger documentation, and a link to GitHub cements that interest with technical visitors.\n\nQuick Tips to Make a Great Software Engineering Portfolio\n1. Usual web rules apply\nUnless you happen to be a UI/UX expert, stick to the tried and true.",
+    "metadata": {
+      "source_file": "Source_04.txt",
+      "title": "Range of Projects a Portfolio Can Include",
+      "url": "https://arc.dev/talent-blog/software-engineer-portfolio/",
+      "chunk_index": 23,
+      "char_count": 737
+    }
+  },
+  {
+    "id": "Source_04_chunk_24",
+    "text": "Usual web rules apply\nUnless you happen to be a UI/UX expert, stick to the tried and true.\n\n2. Don’t make it yourself\nMany people spend months making and remaking their portfolio. Oftentimes, they treat their software engineer portfolio website as one of their projects. But, unless you have the design chops to stand out on Dribbble, you are far better off buying a theme from ThemeForest for WordPress or using Squarespace.\n\nYour time is more effectively spent creating evidence you are an amazing software engineer than wrangling CSS. Remember: artists don’t make their own frames!",
+    "metadata": {
+      "source_file": "Source_04.txt",
+      "title": "Range of Projects a Portfolio Can Include",
+      "url": "https://arc.dev/talent-blog/software-engineer-portfolio/",
+      "chunk_index": 24,
+      "char_count": 584
+    }
+  },
+  {
+    "id": "Source_04_chunk_25",
+    "text": "are an amazing software engineer than wrangling CSS. Remember: artists don’t make their own frames!\n\n3. Include your personality\nYou don’t need to reveal more than you want, but people like people, and this is your place to give them insight into who you are. If you like bright colors, then make sure your site reflects that. If you like writing, then highlight your blog. And, if you’re into Web 3.0, then showing off your NFTs is obviously the way to go.\n\n4. Avoid contentious subjects\nYou might not agree with Covid policy or your current government’s stance on the environment, but your software engineer portfolio isn’t the place to express that. No one ever got a job by just stating their political leanings, but plenty have “regretfully not progressed to the next stage” from them. This doesn’t mean you can’t express yourself online, but, as with all things, there is a time and a place.",
+    "metadata": {
+      "source_file": "Source_04.txt",
+      "title": "Range of Projects a Portfolio Can Include",
+      "url": "https://arc.dev/talent-blog/software-engineer-portfolio/",
+      "chunk_index": 25,
+      "char_count": 897
+    }
+  },
+  {
+    "id": "Source_04_chunk_26",
+    "text": "mean you can’t express yourself online, but, as with all things, there is a time and a place.\n\n5. Make contacting you easy\nDon’t make contacting you feel like Mission Impossible. The whole point of your software engineer portfolio is to impress people so they want to hire you or work with you. To do that, they will need to make contact!\n\n6. Be clear with your intentions\nIf you want to work in Web 3.0, embedded firmware, or high-availability cloud infrastructure, then make that clear in your summary and the types of thing you emphasize. If you are making a career direction change, address that, and make sure your project write-ups focus on the transferable aspects that will come across with you.",
+    "metadata": {
+      "source_file": "Source_04.txt",
+      "title": "Range of Projects a Portfolio Can Include",
+      "url": "https://arc.dev/talent-blog/software-engineer-portfolio/",
+      "chunk_index": 26,
+      "char_count": 703
+    }
+  },
+  {
+    "id": "Source_04_chunk_27",
+    "text": "make sure your project write-ups focus on the transferable aspects that will come across with you.\n\n7. Be concise\nWhen you are passionate about something, it’s easy to write reams of text that, sadly, will never get read. A picture speaks a thousand words, a video speaks thousands per second, and a working demo tells a whole story. Any of these coupled with a short summary paragraph and some key bullet points will keep the reader’s attention and funnel them to that all-important contact form.\n\n4 Great Software Engineer Portfolio Examples\nExample Portfolio #1\nlee robinson software engineer portfolio example website\nLee Robinson, Head of Developer Relations at Vercel",
+    "metadata": {
+      "source_file": "Source_04.txt",
+      "title": "Range of Projects a Portfolio Can Include",
+      "url": "https://arc.dev/talent-blog/software-engineer-portfolio/",
+      "chunk_index": 27,
+      "char_count": 673
+    }
+  },
+  {
+    "id": "Source_04_chunk_28",
+    "text": "software engineer portfolio example website\nLee Robinson, Head of Developer Relations at Vercel\n\nThis is just a really nice site. And, while Rob isn’t presenting himself as a software engineer, he is showing a diverse range of skills beyond simply coding. His blog provides insights into his teaching, communications, and technical system design skills. It has a friendly style and shows some of his personality and what’s important to him, including a travel map, his achievements, and his music tastes!\n\nFor a travel software development company looking to highlight candidates’ well-roundedness, Rob’s site does a great job showcasing his various talents beyond pure coding proficiency.\n\nExample Portfolio #2\nbrittany chiang sample software engineering personal website\nBrittany Chiang, Front-End Software Engineer",
+    "metadata": {
+      "source_file": "Source_04.txt",
+      "title": "Range of Projects a Portfolio Can Include",
+      "url": "https://arc.dev/talent-blog/software-engineer-portfolio/",
+      "chunk_index": 28,
+      "char_count": 817
+    }
+  },
+  {
+    "id": "Source_04_chunk_29",
+    "text": "chiang sample software engineering personal website\nBrittany Chiang, Front-End Software Engineer\n\nBrittany’s site is clear and to the point. Her site simply says that she is a great software engineer with a specific focus. She shares her origin story, walks you through her impressive career history, directs you to a course that she has made, and then she finishes up with an easy way to get in touch. She has her social links, email address, and a PDF version of her resume accessible at all times, which all really reduces the friction required to find out more about her.\n\nExample Portfolio #3\nyevgeniy brikman online portfolio for software engineer job sample\nYevgeniy Brikman, Cofounder of Gruntwork, Author of Hello, Startup and Terraform: Up & Running",
+    "metadata": {
+      "source_file": "Source_04.txt",
+      "title": "Range of Projects a Portfolio Can Include",
+      "url": "https://arc.dev/talent-blog/software-engineer-portfolio/",
+      "chunk_index": 29,
+      "char_count": 759
+    }
+  },
+  {
+    "id": "Source_04_chunk_30",
+    "text": "Brikman, Cofounder of Gruntwork, Author of Hello, Startup and Terraform: Up & Running\n\nYevgeniy’s page is simple, straightforward, and makes it easy to see his achievements and what he is currently working on. The way to contact him is immediately obvious, and the about section has a nice touch of personality.\n\nExample Portfolio #4\nbruno simon sample software engineer portfolio\nBruno Simon, Freelance Web Developer\n\nSometimes you are talented enough to break all the rules!\n\nSample Portfolio #5\nOluwakemi Adeleke software developer portfolio example\nOluwakemi Adeleke is a UI/UX designer and front-end developer, and her software development portfolio example is simple, clean, and easy on the eyes.\n\nShe offers a bit of info on services she offers, some insight into her workflow, and case studies and sample projects she’s worked on in the past.",
+    "metadata": {
+      "source_file": "Source_04.txt",
+      "title": "Range of Projects a Portfolio Can Include",
+      "url": "https://arc.dev/talent-blog/software-engineer-portfolio/",
+      "chunk_index": 30,
+      "char_count": 850
+    }
+  },
+  {
+    "id": "Source_04_chunk_31",
+    "text": "some insight into her workflow, and case studies and sample projects she’s worked on in the past.\n\nWell, we hope you found this guide on how to build a software engineer portfolio helpful!\n\nIf you have any questions, feedback, or other tips for creating a professional website for software engineering jobs, let us know below in the comments.\n\nThanks for reading, and good luck on your job hunt!",
+    "metadata": {
+      "source_file": "Source_04.txt",
+      "title": "Range of Projects a Portfolio Can Include",
+      "url": "https://arc.dev/talent-blog/software-engineer-portfolio/",
+      "chunk_index": 31,
+      "char_count": 395
+    }
+  },
+  {
+    "id": "Source_05_chunk_0",
+    "text": "Creating a junior developer portfolio is your ticket to standing out in the competitive world of tech, and an essential step in establishing your online presence. Whether you are just starting out or polishing your portfolio, this guide will walk you through the essential elements that should be included in every junior web developer portfolio. We'll cover everything from the best tech stacks to use, how to structure your portfolio, and how to optimize it for job opportunities.\n\nWhy a Junior Developer Portfolio is Important\nAs a junior developer, your portfolio is more than just a collection of projects—it's a reflection of your skills, passion, and ability to learn. A great junior developer portfolio showcases not only your technical abilities but also your problem-solving skills, creativity, and attention to detail. Here’s why a portfolio is crucial:",
+    "metadata": {
+      "source_file": "Source_05.txt",
+      "title": "Junior Developer Portfolio Best Practices",
+      "url": "https://dev.to/jtrevdev/junior-developer-portfolio-best-practices-4bj2",
+      "chunk_index": 0,
+      "char_count": 864
+    }
+  },
+  {
+    "id": "Source_05_chunk_1",
+    "text": "It highlights your strengths: Your portfolio allows you to showcase your best work, demonstrating your knowledge and capabilities.\nIt stands out to employers: Recruiters and hiring managers often want to see evidence of your skills before considering you for a role. Your portfolio achieves this by showcasing your projects and infusing them with a touch of your personality in the design.\nIt shows you are serious about your career: A well-crafted portfolio signals that you’re dedicated to growing as a developer. For example, adding elements like an active blog demonstrates that you are continously learning. This proactive approach makes a strong impression on potential employers.\nBuilding a Strong Junior Developer Portfolio with GitHub\nIf you don't have a dedicated portfolio website, your GitHub account can serve as a powerful alternative-provided your projects are high-quality and well-or",
+    "metadata": {
+      "source_file": "Source_05.txt",
+      "title": "Junior Developer Portfolio Best Practices",
+      "url": "https://dev.to/jtrevdev/junior-developer-portfolio-best-practices-4bj2",
+      "chunk_index": 1,
+      "char_count": 900
+    }
+  },
+  {
+    "id": "Source_05_chunk_2",
+    "text": "tHub account can serve as a powerful alternative-provided your projects are high-quality and well-organized. Here's how to make GitHub make it work for you:",
+    "metadata": {
+      "source_file": "Source_05.txt",
+      "title": "Junior Developer Portfolio Best Practices",
+      "url": "https://dev.to/jtrevdev/junior-developer-portfolio-best-practices-4bj2",
+      "chunk_index": 2,
+      "char_count": 156
+    }
+  },
+  {
+    "id": "Source_05_chunk_3",
+    "text": "Ensure Your Repositories Public: Hiring managers want to see how you approach challenges and structure your work.\nPrioritize Quality Over Quantity: Having a few well executed projects with clean, functional code and clear documentation can leave a lasting impression.\nAdd READMEs: well-written READMEs provide clarity and context to your repositories.\nConsider hosting your portfolio using GitHub Pages. It's a free, straightforward way to host your portfolio website. Check out our guide on How to Create a GitHub Pages Portfolio where we cover how to create launch and host a basic website on GitHub Pages.\n\nHow to Structure Your Junior Developer Portfolio for Maximum Impact\nAn organized, easy-to-navigate portfolio will allow visitors to focus on your work and skills, rather than getting lost in a confusing lost. Consider including these key pages and elements:",
+    "metadata": {
+      "source_file": "Source_05.txt",
+      "title": "Junior Developer Portfolio Best Practices",
+      "url": "https://dev.to/jtrevdev/junior-developer-portfolio-best-practices-4bj2",
+      "chunk_index": 3,
+      "char_count": 867
+    }
+  },
+  {
+    "id": "Source_05_chunk_4",
+    "text": "rather than getting lost in a confusing lost. Consider including these key pages and elements:\n\nHome Page\nYour home page is the first point of contact for visitors, giving them an immediate sense of who you are and what you do as a junior web developer. Include things like a brief introductory, statement that highlights your area of expertise and call to action, such as link to your projects or contact form.\n\nProjects Page\nFeature 3-5 of your top projects, each with detailed descriptions of the problem it solves and what technologies you used to build it. Make sure to include links to your GitHub repository and live demo pages if possible.",
+    "metadata": {
+      "source_file": "Source_05.txt",
+      "title": "Junior Developer Portfolio Best Practices",
+      "url": "https://dev.to/jtrevdev/junior-developer-portfolio-best-practices-4bj2",
+      "chunk_index": 4,
+      "char_count": 647
+    }
+  },
+  {
+    "id": "Source_05_chunk_5",
+    "text": "to build it. Make sure to include links to your GitHub repository and live demo pages if possible.\n\nAbout Page\nProvide visitors with more context about your journey as a developer. This is a chance to share your background, and your motivations for pursuing web development. Don't be afraid to add some personality to this section but don't overdo it. Make sure to keep it concise and create an engaging narrative that keeps readers interested.\n\nContact Page\nEnsure it's easy for potential employers or collaborators to get in touch. Include a simple contact form or provide your email address as well as links to your social media profiles or professional platforms. Make sure this page is accessible from all pages of your portfolio.\n\nNeed help adding a contact page to your junior developer portfolio? Check out our guide Add a Simple Portfolio Contact Page",
+    "metadata": {
+      "source_file": "Source_05.txt",
+      "title": "Junior Developer Portfolio Best Practices",
+      "url": "https://dev.to/jtrevdev/junior-developer-portfolio-best-practices-4bj2",
+      "chunk_index": 5,
+      "char_count": 860
+    }
+  },
+  {
+    "id": "Source_05_chunk_6",
+    "text": "page to your junior developer portfolio? Check out our guide Add a Simple Portfolio Contact Page\n\nTips for Showcasing Open Source Contributions\nOpen-source contributions are a powerful way to show potential employers that you're proactive, collaborative, and commited to continuous learning. Highlighting these projects can set you apart from other junior developers.",
+    "metadata": {
+      "source_file": "Source_05.txt",
+      "title": "Junior Developer Portfolio Best Practices",
+      "url": "https://dev.to/jtrevdev/junior-developer-portfolio-best-practices-4bj2",
+      "chunk_index": 6,
+      "char_count": 367
+    }
+  },
+  {
+    "id": "Source_05_chunk_7",
+    "text": "to continuous learning. Highlighting these projects can set you apart from other junior developers.\n\nShowcase Your Contributions: Include a dedicated section in your portfolio where you highlight your most impactful open-source contributions. Share the project name, a brief description and your role in the contribution.\nExplain Your Impact: Detail the challenges you encountered and how you helped solve them. This can be through bug fixes, feature additions, or collaborating with others on code reviews.\nLink to Your Work: Make sure to include direct links to the repositories, allowing recruiters to see your code and engagement firsthand.\nHow to Optimize Your Junior Developer Portfolio for SEO\nAn SEO-optimized portfolio ensures that hiring managers and recruiters can find you when they search for junior developers. Follow these tips to boost your portfolio's visibility and appeal:",
+    "metadata": {
+      "source_file": "Source_05.txt",
+      "title": "Junior Developer Portfolio Best Practices",
+      "url": "https://dev.to/jtrevdev/junior-developer-portfolio-best-practices-4bj2",
+      "chunk_index": 7,
+      "char_count": 891
+    }
+  },
+  {
+    "id": "Source_05_chunk_8",
+    "text": "Use relevant keywords: Include keywords like \"junior developer portfolio,\" \"entry-level developer portfolio,\" and \"best junior developer projects.\" throughout your site content, titles, and meta descriptions\nOptimize your images: Compress images and use descriptive alt text to improve load times and accessibility enhancing the user experience.\nCreate a blog or case studies: Share insights into how you approach problems or explain complex concepts to position yourself as a knowledgeable developer.\nEnsure your portfolio is mobile-responsive: Make sure your portfolio is fully responsive and looks great on any device. Not only does this improve user experience but also helps with search engine rankings as mobile-friendliness is a rank factor for SEO.\nSEO Example\nThis code block demonstrates how to setup essential SEO meta tags for a junior developer portfolio webpage.",
+    "metadata": {
+      "source_file": "Source_05.txt",
+      "title": "Junior Developer Portfolio Best Practices",
+      "url": "https://dev.to/jtrevdev/junior-developer-portfolio-best-practices-4bj2",
+      "chunk_index": 8,
+      "char_count": 876
+    }
+  },
+  {
+    "id": "Source_05_chunk_9",
+    "text": "block demonstrates how to setup essential SEO meta tags for a junior developer portfolio webpage.\n\nJohn Doe's Junior Developer Portfolio \n \n \n \nJunior Developer Portfolio Mistakes to Avoid\nHere are common mistakes to avoid when building your portfolio:",
+    "metadata": {
+      "source_file": "Source_05.txt",
+      "title": "Junior Developer Portfolio Best Practices",
+      "url": "https://dev.to/jtrevdev/junior-developer-portfolio-best-practices-4bj2",
+      "chunk_index": 9,
+      "char_count": 252
+    }
+  },
+  {
+    "id": "Source_05_chunk_10",
+    "text": "Lack of structure: A cluttered, hard-to-navigate portfolio can discourage potential employers. Ensure your portfolio is organized and easy to navigate.\nNo real projects: While tutorials can be great as a foundational learning tool, relying solely on them will failing to showcase your true potential recruiters. Highlight projects that demonstrate your creativity and ability to build complete, functional applications that solve real problems. For ideas, check out our guide on Creating Unique Project Ideas\nNot showcasing your learning process: Employers appreciate developers who continuously improve. Highlight how you've learned new skills or solved tough problems.\nConclusion: Build a Portfolio That Will Get You Hired\nYour junior developer portfolio is more than just a project showcase—it's your key to landing your first job in tech. By following the tips and structuring your portfolio effe",
+    "metadata": {
+      "source_file": "Source_05.txt",
+      "title": "Junior Developer Portfolio Best Practices",
+      "url": "https://dev.to/jtrevdev/junior-developer-portfolio-best-practices-4bj2",
+      "chunk_index": 10,
+      "char_count": 900
+    }
+  },
+  {
+    "id": "Source_05_chunk_11",
+    "text": "our key to landing your first job in tech. By following the tips and structuring your portfolio effectively, you’ll increase your chances of impressing hiring managers and getting noticed in the competitive world of web development.",
+    "metadata": {
+      "source_file": "Source_05.txt",
+      "title": "Junior Developer Portfolio Best Practices",
+      "url": "https://dev.to/jtrevdev/junior-developer-portfolio-best-practices-4bj2",
+      "chunk_index": 11,
+      "char_count": 232
+    }
+  },
+  {
+    "id": "Source_06_chunk_0",
+    "text": "So I'm not a very creative person. When I think of projects to build to add to my personal portfolio, all that comes to mind is stuff like a calculator or BMI calculator but that's pretty boring and probably not that impressive.\n\nSo for working devs who've landed well paying roles at awesome companies, what are the projects that got you hired?\n\nThanks!",
+    "metadata": {
+      "source_file": "Source_06.txt",
+      "title": "What Projects Got You Hired?",
+      "url": "https://www.reddit.com/r/learnprogramming/comments/skov60/what_are_the_projects_that_got_you_hired/",
+      "chunk_index": 0,
+      "char_count": 354
+    }
+  },
+  {
+    "id": "Source_06_chunk_1",
+    "text": "Comment:\n\nI had a discord bot I built over a weekend that ended up in quite a few servers with active members. Got asked about it every single interview.",
+    "metadata": {
+      "source_file": "Source_06.txt",
+      "title": "What Projects Got You Hired?",
+      "url": "https://www.reddit.com/r/learnprogramming/comments/skov60/what_are_the_projects_that_got_you_hired/",
+      "chunk_index": 1,
+      "char_count": 153
+    }
+  },
+  {
+    "id": "Source_06_chunk_2",
+    "text": "Comment:\n\nWAIT DISCORD BOTS HOLD ACTUAL VALUE? im 15 and have made some decently big discord bots and custom bots that have managed over 200k people in just one server",
+    "metadata": {
+      "source_file": "Source_06.txt",
+      "title": "What Projects Got You Hired?",
+      "url": "https://www.reddit.com/r/learnprogramming/comments/skov60/what_are_the_projects_that_got_you_hired/",
+      "chunk_index": 2,
+      "char_count": 167
+    }
+  },
+  {
+    "id": "Source_06_chunk_3",
+    "text": "I got my current programming job because I made a NES emulator. Most of the interview was just me playing games and showing off some cool features.",
+    "metadata": {
+      "source_file": "Source_06.txt",
+      "title": "What Projects Got You Hired?",
+      "url": "https://www.reddit.com/r/learnprogramming/comments/skov60/what_are_the_projects_that_got_you_hired/",
+      "chunk_index": 3,
+      "char_count": 147
+    }
+  },
+  {
+    "id": "Source_06_chunk_4",
+    "text": "That is how a good interview goes. I had a designer come in with a laptop with all of his work and walked through the process to produce it all.\n\nIt was easy to see that he understood process and could work with a team.\n\nI trusted him to do his job and he ended up doing it very well.\n\nWhen I ask someone to draw on a whiteboard, I want to see them go through the design process, whether they have the right ideas or not.",
+    "metadata": {
+      "source_file": "Source_06.txt",
+      "title": "What Projects Got You Hired?",
+      "url": "https://www.reddit.com/r/learnprogramming/comments/skov60/what_are_the_projects_that_got_you_hired/",
+      "chunk_index": 4,
+      "char_count": 421
+    }
+  },
+  {
+    "id": "Source_06_chunk_5",
+    "text": "I made it in C++ with SDL. I referenced various 6502 instruction sets while making the CPU and the nesdev wiki for everything else. Once in a while I got stuck and looked at other people's NES emulators on GitHub. I also used Blargg's APU library because I wasn't motivated enough to implement audio myself.",
+    "metadata": {
+      "source_file": "Source_06.txt",
+      "title": "What Projects Got You Hired?",
+      "url": "https://www.reddit.com/r/learnprogramming/comments/skov60/what_are_the_projects_that_got_you_hired/",
+      "chunk_index": 5,
+      "char_count": 307
+    }
+  },
+  {
+    "id": "Source_06_chunk_6",
+    "text": "I once got hired for a Go programming job because I'd recently pushed an open-source Go program onto my GitHub account.\n\nA CEO asked their admin assistant to search GitHub for recent projects with a set of parameters and return some candidates, and I was among them.\n\nThe actual project itself may not matter, but I'd avoid calculators, blogs, etc. -- anything that \"everyone\" does when they're learning. If you have something you actually use, or even better, that others actually use, that would be awesome.\n\nOtherwise, you've got to just hope that your project is relevant to the company you're interviewing with.\n\nOr, you could try to create a software product and go into business for yourself.",
+    "metadata": {
+      "source_file": "Source_06.txt",
+      "title": "What Projects Got You Hired?",
+      "url": "https://www.reddit.com/r/learnprogramming/comments/skov60/what_are_the_projects_that_got_you_hired/",
+      "chunk_index": 6,
+      "char_count": 699
+    }
+  },
+  {
+    "id": "Source_06_chunk_7",
+    "text": "I read another post on this sub that basically said that instead of creating a closed source software that's filled with bugs, create something useful and make it open source so that multiple people can collab and perfect it. This is much better because it shows you can work with others and have created something that multiple people find useful.",
+    "metadata": {
+      "source_file": "Source_06.txt",
+      "title": "What Projects Got You Hired?",
+      "url": "https://www.reddit.com/r/learnprogramming/comments/skov60/what_are_the_projects_that_got_you_hired/",
+      "chunk_index": 7,
+      "char_count": 348
+    }
+  },
+  {
+    "id": "Source_06_chunk_8",
+    "text": "As a recruiter sourcing for a client where Go is fundamental to the stack, this advice won't translate to Python, Java, or the C family, to say nothing of frontend stuff. Go is in this weird space where if someone needs it, they really need it, and not a ton of people relatively speaking have used it before.\n\nBut real talk, I've been able to get interviews for people by saying \"Look, they've got a few tiny projects in Go on their GitHub and they've worked in Kubernetes in some capacity at one of their previous gigs.\"",
+    "metadata": {
+      "source_file": "Source_06.txt",
+      "title": "What Projects Got You Hired?",
+      "url": "https://www.reddit.com/r/learnprogramming/comments/skov60/what_are_the_projects_that_got_you_hired/",
+      "chunk_index": 8,
+      "char_count": 522
+    }
+  },
+  {
+    "id": "Source_06_chunk_9",
+    "text": "I did a scientific calculator. I feel like it landed me an internship. Though it did parsing, auto fill, and had extra functions plus error catching.",
+    "metadata": {
+      "source_file": "Source_06.txt",
+      "title": "What Projects Got You Hired?",
+      "url": "https://www.reddit.com/r/learnprogramming/comments/skov60/what_are_the_projects_that_got_you_hired/",
+      "chunk_index": 9,
+      "char_count": 149
+    }
+  },
+  {
+    "id": "Source_06_chunk_10",
+    "text": "I uploaded my HackerRank, LeetCode, Codeforces, etc. solutions to GitHub.\n\nWhen asked how the repo was organized, they said they divided solutions by platform and put each solution in its own script file. Their naming convention included the platform, problem number, problem name, and algorithm or data structure used. They also used subfolders for language, difficulty, problem number, and unsolved problems when needed.",
+    "metadata": {
+      "source_file": "Source_06.txt",
+      "title": "What Projects Got You Hired?",
+      "url": "https://www.reddit.com/r/learnprogramming/comments/skov60/what_are_the_projects_that_got_you_hired/",
+      "chunk_index": 10,
+      "char_count": 422
+    }
+  },
+  {
+    "id": "Source_06_chunk_11",
+    "text": "also used subfolders for language, difficulty, problem number, and unsolved problems when needed.\n\nThey later explained that they did not put the repo on their resume. Before a user interview, the interviewer opened their GitHub, found the repo, browsed it, picked three random problems, and asked them to reiterate their thought process to confirm they had solved them. The interviewer barely asked about their projects and only asked them to summarize those projects, possibly because they were generic projects that everyone has made. For that entry-level role, the interviewer cared more about coding skills because the company expected to train them from scratch.",
+    "metadata": {
+      "source_file": "Source_06.txt",
+      "title": "What Projects Got You Hired?",
+      "url": "https://www.reddit.com/r/learnprogramming/comments/skov60/what_are_the_projects_that_got_you_hired/",
+      "chunk_index": 11,
+      "char_count": 668
+    }
+  },
+  {
+    "id": "Source_06_chunk_12",
+    "text": "Out of the things in my GitHub account there were two projects that caught the main interest of interviewers:\n\n1. A full service written for a capillary electrophoresis device from a chemistry lab. The project required studying the data flow from the device, building a desktop application for scientists to receive and display the data stream, saving experiment results to a database, and viewing test results later in a web application. The desktop application was written in Java with JavaFX and Swing. The REST API was built with Java and Spring Boot. The database was PostgreSQL. The project was being used by scientists and lab assistants in a university chemistry building, so people were actually using what was built.\n\n2. A web UI for remotely maintaining a web server. It could control the server over the Internet, get metrics, and send commands. It was built in Java with Spring Boot.",
+    "metadata": {
+      "source_file": "Source_06.txt",
+      "title": "What Projects Got You Hired?",
+      "url": "https://www.reddit.com/r/learnprogramming/comments/skov60/what_are_the_projects_that_got_you_hired/",
+      "chunk_index": 12,
+      "char_count": 896
+    }
+  },
+  {
+    "id": "Source_06_chunk_13",
+    "text": "server over the Internet, get metrics, and send commands. It was built in Java with Spring Boot.\n\nA third project also interested interviewers: a modded router turned into an IoT device. The router was modified to work as a router, web server, and Arduino-like board by extending pins so sensors could connect to it. The IoT project was interesting, but companies focused more on the first two projects when the role did not involve embedded programming.",
+    "metadata": {
+      "source_file": "Source_06.txt",
+      "title": "What Projects Got You Hired?",
+      "url": "https://www.reddit.com/r/learnprogramming/comments/skov60/what_are_the_projects_that_got_you_hired/",
+      "chunk_index": 13,
+      "char_count": 454
+    }
+  },
+  {
+    "id": "Source_06_chunk_14",
+    "text": "None of them came with ease. The first project took about 4-5 months. I had to learn new technologies, new theory, and talk with the chemist for feedback. The second project took about two weeks, but not from zero because I had already learned Spring Boot separately. The third project took 1-2 months.\n\nIt is only you, your time and willingness to learn and practice more. Some want to limit themselves with simple projects and if a thing takes long, they will get bored. But I want to keep improving myself more. Projects that I did taught me many different things that I'm happy over.\n\nAlso this kind of projects give me much more variety in choosing a job. Limiting yourself only with websites lets you work only as a web developer.",
+    "metadata": {
+      "source_file": "Source_06.txt",
+      "title": "What Projects Got You Hired?",
+      "url": "https://www.reddit.com/r/learnprogramming/comments/skov60/what_are_the_projects_that_got_you_hired/",
+      "chunk_index": 14,
+      "char_count": 736
+    }
+  },
+  {
+    "id": "Source_06_chunk_15",
+    "text": "I had made clones of Netflix, Slack, Discord, Amazon, Facebook and Product Hunt with the front end built very closely to the original, mostly in React. The backend was mostly using a backend-as-a-service or Node. The interviewer appreciated that I had put in quite a bit of work, and I got the job as well.",
+    "metadata": {
+      "source_file": "Source_06.txt",
+      "title": "What Projects Got You Hired?",
+      "url": "https://www.reddit.com/r/learnprogramming/comments/skov60/what_are_the_projects_that_got_you_hired/",
+      "chunk_index": 15,
+      "char_count": 306
+    }
+  },
+  {
+    "id": "Source_06_chunk_16",
+    "text": "These projects that I presented to the interviewer were not done in a matter of days. The first project took 4-5 months, the second took two weeks, and the third took 1-2 months. It was worth it because the projects taught me many new things.\n\nWhat matters is that you know your stuff and can tell the interviewer about it. Some people just copy-paste tutorial projects and present them as theirs. But when the interviewer asks questions or asks for modifications, these people get stuck.\n\nThe projects I made were out of my own interest. I did not really try to produce stuff for interviews. Even now, as an employed developer, I still have some projects ongoing because I like to do stuff and learn new things.",
+    "metadata": {
+      "source_file": "Source_06.txt",
+      "title": "What Projects Got You Hired?",
+      "url": "https://www.reddit.com/r/learnprogramming/comments/skov60/what_are_the_projects_that_got_you_hired/",
+      "chunk_index": 16,
+      "char_count": 712
+    }
+  },
+  {
+    "id": "Source_06_chunk_17",
+    "text": "The key is not some awesome project, the key is networking and good soft skills. Projects that landed me my first job were in Java: Tetris in the terminal without any GUI and a tool that could zip files, also without a GUI. The point is to show that you have some programming skills.\n\nWhat lands you the actual job is setting up a good LinkedIn profile and contacting as many recruiters as you can.\n\nDuring the job interview, you should leave the impression of a highly motivated person who is willing to learn and is not afraid to ask questions. The company doesn't care what you can do; they know that you will spend a lot of time on the job learning, and they need to know that they can shape you to their tech stack.",
+    "metadata": {
+      "source_file": "Source_06.txt",
+      "title": "What Projects Got You Hired?",
+      "url": "https://www.reddit.com/r/learnprogramming/comments/skov60/what_are_the_projects_that_got_you_hired/",
+      "chunk_index": 17,
+      "char_count": 720
+    }
+  },
+  {
+    "id": "Source_06_chunk_18",
+    "text": "Any project that employs all four pillars of object-oriented programming, can employ multi-threading or multi-processing, reasonably defends against race conditions, livelock, and deadlock, and also interacts with a database or other processes/systems is a fairly well-rounded project.\n\nIt is also good to have it available for review on GitHub, well documented, and with thoughtful requirements. It doesn't hurt if the documentation can demonstrate a strong UML understanding either.\n\nDemonstrating that you can write code that works is one thing. Demonstrating that you can write code that works and is readable, maintainable, adaptable, reusable, and extensible by others will put you over the top.\n\nWriting code is easy. Outlining a problem, researching evidence-based solutions, and forming new solutions is what separates a software engineer from a coder.",
+    "metadata": {
+      "source_file": "Source_06.txt",
+      "title": "What Projects Got You Hired?",
+      "url": "https://www.reddit.com/r/learnprogramming/comments/skov60/what_are_the_projects_that_got_you_hired/",
+      "chunk_index": 18,
+      "char_count": 861
+    }
+  },
+  {
+    "id": "Source_06_chunk_19",
+    "text": "Program that pulls data from SQL database. Displays data of SQL database. Allows user to manipulate data in SQL database. Stores data in SQL database.\n\nBonus: references and uses a few common libraries.\n\nThe end.",
+    "metadata": {
+      "source_file": "Source_06.txt",
+      "title": "What Projects Got You Hired?",
+      "url": "https://www.reddit.com/r/learnprogramming/comments/skov60/what_are_the_projects_that_got_you_hired/",
+      "chunk_index": 19,
+      "char_count": 212
+    }
+  },
+  {
+    "id": "Source_06_chunk_20",
+    "text": "BMI calculator sounds pretty cool, it's probably enough to get you hired.\n\nWhat you make matters significantly less than how you make it. And making something is better than nothing. Does it look cool? Does it serve a useful function? Is it well architected?\n\nI'd just find something that you want to have in your life, and build it. For me, I have a task tracking website. Yes, everyone has done one of those. But this one is mine. I can customize it however I want.\n\nAlso, if you have a degree I don't think portfolio matters at all. I honestly don't think most interviewers look at the portfolio, unfortunately. Even without the degree.\n\nJust having and being able to talk intelligently about a project is good enough, even if it is a calculator. How do you tokenize and parse the input? What libraries did you use?",
+    "metadata": {
+      "source_file": "Source_06.txt",
+      "title": "What Projects Got You Hired?",
+      "url": "https://www.reddit.com/r/learnprogramming/comments/skov60/what_are_the_projects_that_got_you_hired/",
+      "chunk_index": 20,
+      "char_count": 818
+    }
+  },
+  {
+    "id": "Source_06_chunk_21",
+    "text": "A BMI calculator wouldn't get you hired anywhere. A BMI calculator is far simpler to make than an actual calculator that lets you add, subtract, divide, etc. And a regular calculator isn't very hard to make either, so that's really saying something.",
+    "metadata": {
+      "source_file": "Source_06.txt",
+      "title": "What Projects Got You Hired?",
+      "url": "https://www.reddit.com/r/learnprogramming/comments/skov60/what_are_the_projects_that_got_you_hired/",
+      "chunk_index": 21,
+      "char_count": 249
+    }
+  },
+  {
+    "id": "Source_06_chunk_22",
+    "text": "What is the most interesting thing to you personally? Make a bad version of that.\n\nThey explained that they made rough versions of things they wanted to understand: modern JavaScript frameworks, video games, and aircraft computer systems. Each project took hundreds of hours and helped them talk about real problem-solving in interviews despite no formal education or career history. Those projects still helped them get interviews and jobs and became useful presentations at work.",
+    "metadata": {
+      "source_file": "Source_06.txt",
+      "title": "What Projects Got You Hired?",
+      "url": "https://www.reddit.com/r/learnprogramming/comments/skov60/what_are_the_projects_that_got_you_hired/",
+      "chunk_index": 22,
+      "char_count": 481
+    }
+  },
+  {
+    "id": "Source_06_chunk_23",
+    "text": "A desk job without communication is a huge misconception. Writing software is usually a team effort, and developers also talk to stakeholders about requirements.",
+    "metadata": {
+      "source_file": "Source_06.txt",
+      "title": "What Projects Got You Hired?",
+      "url": "https://www.reddit.com/r/learnprogramming/comments/skov60/what_are_the_projects_that_got_you_hired/",
+      "chunk_index": 23,
+      "char_count": 161
+    }
+  },
+  {
+    "id": "Source_06_chunk_24",
+    "text": "As someone who had a Bachelor's in CS but no internships or experience, I made an Android app that stores words and definitions that the user inputs. I included user authentication, and the words are stored on a containerized backend using Spring Boot and Postgres DB, hosted on an Azure VM.\n\nMy advice is, rather than having a super creative idea, take your idea and extend it as much as you can to learn about and show capability with a variety of modern tools that you will likely come across in your career.\n\nAlso, write a good design or technical document outlining the project. It doesn't have to be super long, but I think it sets you apart from those who only have code to show. Writing docs like that is a big part of the job as well.",
+    "metadata": {
+      "source_file": "Source_06.txt",
+      "title": "What Projects Got You Hired?",
+      "url": "https://www.reddit.com/r/learnprogramming/comments/skov60/what_are_the_projects_that_got_you_hired/",
+      "chunk_index": 24,
+      "char_count": 743
+    }
+  },
+  {
+    "id": "Source_06_chunk_25",
+    "text": "I think two types of projects are beneficial, and I think you need both.\n\nA project that interests you personally shows you actually have an interest in programming beyond a paycheck. It gives you an easy topic in an interview where you can show genuine excitement or enthusiasm.\n\nA project that highlights your skills in a certain technology or area of expertise can be simple and to the point. If you know something like Spring Boot, Firebase, or NoSQL, actually show that. It does not have to be complete or fully fleshed out; just have the basic structure so technical interviews can see what level you're at.",
+    "metadata": {
+      "source_file": "Source_06.txt",
+      "title": "What Projects Got You Hired?",
+      "url": "https://www.reddit.com/r/learnprogramming/comments/skov60/what_are_the_projects_that_got_you_hired/",
+      "chunk_index": 25,
+      "char_count": 613
+    }
+  },
+  {
+    "id": "Source_06_chunk_26",
+    "text": "Traveling salesman problem visualizer in the browser, with source code and a demo.",
+    "metadata": {
+      "source_file": "Source_06.txt",
+      "title": "What Projects Got You Hired?",
+      "url": "https://www.reddit.com/r/learnprogramming/comments/skov60/what_are_the_projects_that_got_you_hired/",
+      "chunk_index": 26,
+      "char_count": 82
+    }
+  },
+  {
+    "id": "Source_06_chunk_27",
+    "text": "I had played League of Legends forever, so I decided to build a copy of websites like u.gg or op.gg. I changed the styling and interfaces but the concept was the same. I described it more like a statistical analysis tool than a video game website, and got a lot of credit for understanding and having experience in the pieces that went into it: UI development, frontend, scripting, backend, databases, etc.\n\nBy having experience with the big picture, I looked more attractive in any of those individual areas. I now work as a full-time software engineer.\n\nWork on something you're passionate about. It will make the work easier and motivate you to dive in deeper than you would otherwise. Then find a way to make the time spent look valuable. Don't describe it as a worthless pastime, because it isn't.",
+    "metadata": {
+      "source_file": "Source_06.txt",
+      "title": "What Projects Got You Hired?",
+      "url": "https://www.reddit.com/r/learnprogramming/comments/skov60/what_are_the_projects_that_got_you_hired/",
+      "chunk_index": 27,
+      "char_count": 802
+    }
+  },
+  {
+    "id": "Source_06_chunk_28",
+    "text": "An analytics dashboard for runners. The app linked with Strava to gather user data and provide insights about aerobic capacity, training zones, and fatigue. The app also generated a running program based on past activities.",
+    "metadata": {
+      "source_file": "Source_06.txt",
+      "title": "What Projects Got You Hired?",
+      "url": "https://www.reddit.com/r/learnprogramming/comments/skov60/what_are_the_projects_that_got_you_hired/",
+      "chunk_index": 28,
+      "char_count": 223
+    }
+  },
+  {
+    "id": "Source_06_chunk_29",
+    "text": "Not as impressive as some of the others listed here, but I made a React weather app for travel. You enter a bunch of cities in a calendar-like UI and it gives you the weather forecast for that location on those particular days.",
+    "metadata": {
+      "source_file": "Source_06.txt",
+      "title": "What Projects Got You Hired?",
+      "url": "https://www.reddit.com/r/learnprogramming/comments/skov60/what_are_the_projects_that_got_you_hired/",
+      "chunk_index": 29,
+      "char_count": 227
+    }
+  },
+  {
+    "id": "Source_06_chunk_30",
+    "text": "Depends on what you want to do. I wanted a full stack job, so I built two strong full CRUD websites. I would focus on two projects that are more in-depth rather than many small ones. You want one project that is fun and one that solves a business problem.\n\nDon't do things like a beer pong game. Make things that HR people can see and instantly imagine how it applies to their business.",
+    "metadata": {
+      "source_file": "Source_06.txt",
+      "title": "What Projects Got You Hired?",
+      "url": "https://www.reddit.com/r/learnprogramming/comments/skov60/what_are_the_projects_that_got_you_hired/",
+      "chunk_index": 30,
+      "char_count": 386
+    }
+  },
+  {
+    "id": "Source_06_chunk_31",
+    "text": "None. I stood out because of internship experience and a previous job related to automation and IT. The company happened to be hiring an entry-level automation engineer, and I had experience with Linux and various distributions.",
+    "metadata": {
+      "source_file": "Source_06.txt",
+      "title": "What Projects Got You Hired?",
+      "url": "https://www.reddit.com/r/learnprogramming/comments/skov60/what_are_the_projects_that_got_you_hired/",
+      "chunk_index": 31,
+      "char_count": 228
+    }
+  },
+  {
+    "id": "Source_06_chunk_32",
+    "text": "A contractor/client portal that assigned work to subcontractors. Clients could check scheduling, contractors had due dates, locations, and times, and the general contractor could start and manage projects. It had multiple access levels for viewing and editing per project. It showed how to handle admins and users safely. The commenter got hired into a company with a more complex version of the same software.",
+    "metadata": {
+      "source_file": "Source_06.txt",
+      "title": "What Projects Got You Hired?",
+      "url": "https://www.reddit.com/r/learnprogramming/comments/skov60/what_are_the_projects_that_got_you_hired/",
+      "chunk_index": 32,
+      "char_count": 410
+    }
+  },
+  {
+    "id": "Source_06_chunk_33",
+    "text": "I've only had to show work once. I made a brute force Sudoku solver, which was not that big or impressive, but I focused on doing it in a professional way: linters, tests, a README explaining how to run the code and tests, docstrings for every method, type hints, and requirements.txt.\n\nIn the end, I think I landed the job because of agile experience, but the code was good enough to show I knew what I was doing.\n\nI still think you're better off making something small but very well done, over a very large project which no one is going to fully read anyway.",
+    "metadata": {
+      "source_file": "Source_06.txt",
+      "title": "What Projects Got You Hired?",
+      "url": "https://www.reddit.com/r/learnprogramming/comments/skov60/what_are_the_projects_that_got_you_hired/",
+      "chunk_index": 33,
+      "char_count": 560
+    }
+  },
+  {
+    "id": "Source_06_chunk_34",
+    "text": "I made a financial portfolio website. I echo other people's suggestion: do something that requires networking, distributed systems, and multi-threading or multi-processing.",
+    "metadata": {
+      "source_file": "Source_06.txt",
+      "title": "What Projects Got You Hired?",
+      "url": "https://www.reddit.com/r/learnprogramming/comments/skov60/what_are_the_projects_that_got_you_hired/",
+      "chunk_index": 34,
+      "char_count": 172
+    }
+  },
+  {
+    "id": "Source_06_chunk_35",
+    "text": "My side projects rarely came up as a major thing in my interviews since professional experience is more important. But the side projects gave me the skills to excel at my jobs and build skills I would not have otherwise had early in my career, like project management and running a business.\n\nOne side project that I turned into a business did come up in one interview as putting me over the top, more because it was a ridiculous good idea that had traction and dealt with tons of data.",
+    "metadata": {
+      "source_file": "Source_06.txt",
+      "title": "What Projects Got You Hired?",
+      "url": "https://www.reddit.com/r/learnprogramming/comments/skov60/what_are_the_projects_that_got_you_hired/",
+      "chunk_index": 35,
+      "char_count": 486
+    }
+  },
+  {
+    "id": "Source_06_chunk_36",
+    "text": "An LED strip controller with a React app to change light colors and sequences, using MQTT to communicate between Raspberry Pis. I used design patterns, and it was interesting to talk about because I actually use it to control LEDs at my house. I would do something actually useful to you.",
+    "metadata": {
+      "source_file": "Source_06.txt",
+      "title": "What Projects Got You Hired?",
+      "url": "https://www.reddit.com/r/learnprogramming/comments/skov60/what_are_the_projects_that_got_you_hired/",
+      "chunk_index": 36,
+      "char_count": 288
+    }
+  },
+  {
+    "id": "Source_06_chunk_37",
+    "text": "I made a few projects, all stuff I thought was fun: snake clone, Tetris clone, Turing machine simulator, algorithm visualizer, and multiplayer skribbl.io clone. All were JavaScript projects. I am a web developer.",
+    "metadata": {
+      "source_file": "Source_06.txt",
+      "title": "What Projects Got You Hired?",
+      "url": "https://www.reddit.com/r/learnprogramming/comments/skov60/what_are_the_projects_that_got_you_hired/",
+      "chunk_index": 37,
+      "char_count": 212
+    }
+  },
+  {
+    "id": "Source_06_chunk_38",
+    "text": "I built a full CRUD movie finder app that fetches movie data from TheMovieDB API. It is a minimalist version of IMDb. The frontend was in React using Bootstrap for styling and responsive design. The backend had a database and custom REST APIs to add favorite movies to a watchlist and rate movies. It implemented user authentication via JWT for extra points.\n\nThe point isn't to reinvent the wheel or make something super unique and complex. The point is to demonstrate that you can put together a web application and understand how all the components work together.",
+    "metadata": {
+      "source_file": "Source_06.txt",
+      "title": "What Projects Got You Hired?",
+      "url": "https://www.reddit.com/r/learnprogramming/comments/skov60/what_are_the_projects_that_got_you_hired/",
+      "chunk_index": 38,
+      "char_count": 566
+    }
+  },
+  {
+    "id": "Source_06_chunk_39",
+    "text": "I wrote a bunch of World of Warcraft addons. To this day I feel like they are what landed me a job at GitHub.",
+    "metadata": {
+      "source_file": "Source_06.txt",
+      "title": "What Projects Got You Hired?",
+      "url": "https://www.reddit.com/r/learnprogramming/comments/skov60/what_are_the_projects_that_got_you_hired/",
+      "chunk_index": 39,
+      "char_count": 109
+    }
+  },
+  {
+    "id": "Source_06_chunk_40",
+    "text": "I didn't have a portfolio of any sort when I got my first dev job. I had plenty of experience as a QA tester, so I was familiar with working as a team and the software development life cycle. I was able to speak about programming competently when interviewed and did a good job on the homework assignment. It has never been a big deal in subsequent jobs.\n\nI hire people now and never expect a portfolio.",
+    "metadata": {
+      "source_file": "Source_06.txt",
+      "title": "What Projects Got You Hired?",
+      "url": "https://www.reddit.com/r/learnprogramming/comments/skov60/what_are_the_projects_that_got_you_hired/",
+      "chunk_index": 40,
+      "char_count": 403
+    }
+  },
+  {
+    "id": "Source_07_chunk_0",
+    "text": "How—and When—to Include Projects on Your Resume (Plus Examples!)\n\nHow—and When—to Include Projects on Your Resume (Plus Examples!) was originally published on The Muse, a great place to research companies and careers.\n\nIf you’ve completed a project you’re especially proud of, it’s natural to want to show it off on your resume—and it might even help you land your next job. Projects that potentially belong on your resume can come from your past jobs, paid and unpaid side ventures, and—if you’re a recent grad—your academic coursework.\nRead on to see why, when, and how you should put projects on your resume.",
+    "metadata": {
+      "source_file": "Source_07.txt",
+      "title": "How and When to Include Projects on Your Resume",
+      "url": "https://career.pennwest.edu/blog/2022/08/10/how-and-when-to-include-projects-on-your-resume-plus-examples/",
+      "chunk_index": 0,
+      "char_count": 611
+    }
+  },
+  {
+    "id": "Source_07_chunk_1",
+    "text": "academic coursework.\nRead on to see why, when, and how you should put projects on your resume.\n\nWhy You Should List Projects on a Resume\nLike everything else on your resume, projects can help highlight experiences that qualify you for your next job. You may have used skills—hard or soft—in a certain project that are key for the role you want. And including a successful project is a great way to tie those skills directly to results, which employers want to see on every resume.\n\nWhen You Should List Projects on Your Resume\nAdding projects to your resume “can be a great way to highlight experience outside of your daily role, enhance a recent grad resume, or bridge the gap from what you’re doing to what you want to do” if you’re looking to change or pivot careers, says Muse career coach Tara Goodfellow, owner of Athena Consultants.",
+    "metadata": {
+      "source_file": "Source_07.txt",
+      "title": "How and When to Include Projects on Your Resume",
+      "url": "https://career.pennwest.edu/blog/2022/08/10/how-and-when-to-include-projects-on-your-resume-plus-examples/",
+      "chunk_index": 1,
+      "char_count": 839
+    }
+  },
+  {
+    "id": "Source_07_chunk_2",
+    "text": "to change or pivot careers, says Muse career coach Tara Goodfellow, owner of Athena Consultants.\n\nProjects are an especially helpful addition to your resume when your experience section doesn’t already show that you have the background you need to get the job you want next, which is most common for two groups of job seekers:",
+    "metadata": {
+      "source_file": "Source_07.txt",
+      "title": "How and When to Include Projects on Your Resume",
+      "url": "https://career.pennwest.edu/blog/2022/08/10/how-and-when-to-include-projects-on-your-resume-plus-examples/",
+      "chunk_index": 2,
+      "char_count": 326
+    }
+  },
+  {
+    "id": "Source_07_chunk_3",
+    "text": "Recent graduates: Entry-level candidates by definition lack professional experience. But if you just finished college, a big project—whether you did it for a class, an honors or capstone program, an internship, or your own research—can show that you have a lot of valuable workplace skills such as leadership, collaboration, presentation, and public speaking, Goodfellow says. After your first-full time role, Goodfellow recommends removing school projects from your resume.\nCareer changers or pivoters: When you’re looking to switch or pivot your career, you want to show any experience you have that relates to the role, field, or industry you want to go into. This might mean highlighting projects you did within a current or past job or adding a volunteer, side, or freelance project to your resume. What matters is that your project helps prove to employers you have relevant experience for the",
+    "metadata": {
+      "source_file": "Source_07.txt",
+      "title": "How and When to Include Projects on Your Resume",
+      "url": "https://career.pennwest.edu/blog/2022/08/10/how-and-when-to-include-projects-on-your-resume-plus-examples/",
+      "chunk_index": 3,
+      "char_count": 899
+    }
+  },
+  {
+    "id": "Source_07_chunk_4",
+    "text": "me. What matters is that your project helps prove to employers you have relevant experience for the job you’re hoping to land.\nWhich Projects You Should Include\nWhen you’re deciding which projects to add to your resume, “you want to be strategic,” Goodfellow says. “Don’t just dump every project you’ve been part of hoping something will catch the hiring manager’s attention.” Instead, carefully go over the job description for any role you’re interested in. Highlight any skills or qualifications the company is looking for that you have, as well as any job duties they list for the role that you’ve performed in the past. Then note any that can only be proven by including a certain project on your resume. If a project doesn’t meet this threshold, it probably doesn’t need to be called out.",
+    "metadata": {
+      "source_file": "Source_07.txt",
+      "title": "How and When to Include Projects on Your Resume",
+      "url": "https://career.pennwest.edu/blog/2022/08/10/how-and-when-to-include-projects-on-your-resume-plus-examples/",
+      "chunk_index": 4,
+      "char_count": 793
+    }
+  },
+  {
+    "id": "Source_07_chunk_5",
+    "text": "Even if you’re in a more project-based field, like engineering, IT, or consulting, consider whether all or any of your projects can emphasize your accomplishments in a way that general bullet points under each job entry can’t. With too many projects crowding your resume, recruiters might not find the most important details. For example, if you generally do consulting for larger clients, but once worked with a small business and got great results, listing details for that one project might help you land a job at a consultancy with a small-business focus. But if most of your clients are small businesses, mentioning a slew of individual projects rather than overall achievements will take up valuable resume space without necessarily adding to your qualifications.\n\nHow to List Projects (Plus Examples)",
+    "metadata": {
+      "source_file": "Source_07.txt",
+      "title": "How and When to Include Projects on Your Resume",
+      "url": "https://career.pennwest.edu/blog/2022/08/10/how-and-when-to-include-projects-on-your-resume-plus-examples/",
+      "chunk_index": 5,
+      "char_count": 807
+    }
+  },
+  {
+    "id": "Source_07_chunk_6",
+    "text": "space without necessarily adding to your qualifications.\n\nHow to List Projects (Plus Examples)\n\nList your projects wherever they’re most relevant, Goodfellow says. For recent grads, this often means your education section. If the project was part of a past job, freelance work, or volunteer work, it likely belongs under that specific entry in your experience section. If you’re thinking of a personal or side project or you have multiple projects that you want to include on your resume, you might consider adding a dedicated “Related Projects” or similarly titled section.\n\nRegardless of where you list your project, you should follow these general tips:",
+    "metadata": {
+      "source_file": "Source_07.txt",
+      "title": "How and When to Include Projects on Your Resume",
+      "url": "https://career.pennwest.edu/blog/2022/08/10/how-and-when-to-include-projects-on-your-resume-plus-examples/",
+      "chunk_index": 6,
+      "char_count": 656
+    }
+  },
+  {
+    "id": "Source_07_chunk_7",
+    "text": "Include important details. You should add enough information about each project that it can be easily understood by anyone who reads your resume. Depending on the specific project, consider listing a project title, a project description, and project dates, as well as who you did the project for and with, what your role was, and what the results and impact were.\nFocus on your achievements. Whether your project description is contained to one bullet point or has several bullet points underneath it, employers want to see what results you’ve gotten with your skills so they can see how you might drive results for them. Use achievement-oriented, quantified bullet points to really put your accomplishments front and center.\nTailor your project description for every job application. You should only include projects that are relevant to the specific job you’re applying for and, even more than that",
+    "metadata": {
+      "source_file": "Source_07.txt",
+      "title": "How and When to Include Projects on Your Resume",
+      "url": "https://career.pennwest.edu/blog/2022/08/10/how-and-when-to-include-projects-on-your-resume-plus-examples/",
+      "chunk_index": 7,
+      "char_count": 900
+    }
+  },
+  {
+    "id": "Source_07_chunk_8",
+    "text": "include projects that are relevant to the specific job you’re applying for and, even more than that, you should make sure your description of a project highlights the pieces of it that are most relevant. So if a company is looking for someone with website design experience, focus on the design aspect of your side project, not how you attracted customers to your site. And try to use the same language and keywords as the job description.\nInclude links to your work when possible. Almost everyone who reads your resume will do so for the first time on a computer, so links to work that’s live online are fair game. Just make sure you hyperlink an unimportant word like “Project” or even “Link” to avoid any applicant tracking system (ATS) issues.\nWhat does this all look like in practice? Here are a few examples based on where you’re listing a project.",
+    "metadata": {
+      "source_file": "Source_07.txt",
+      "title": "How and When to Include Projects on Your Resume",
+      "url": "https://career.pennwest.edu/blog/2022/08/10/how-and-when-to-include-projects-on-your-resume-plus-examples/",
+      "chunk_index": 8,
+      "char_count": 854
+    }
+  },
+  {
+    "id": "Source_07_chunk_9",
+    "text": "In an Education Section (good for a senior capstone)\nThis is how an entry-level applicant looking to emphasize their research, writing, and presentation skills might include a capstone project on their resume.\n\nBachelor of Arts in English | Colgate University | Hamilton, NY\nExpected Graduation: May 2024\nCapstone Project: “Voices Missing From the 19th-Century Literary Canon”",
+    "metadata": {
+      "source_file": "Source_07.txt",
+      "title": "How and When to Include Projects on Your Resume",
+      "url": "https://career.pennwest.edu/blog/2022/08/10/how-and-when-to-include-projects-on-your-resume-plus-examples/",
+      "chunk_index": 9,
+      "char_count": 376
+    }
+  },
+  {
+    "id": "Source_07_chunk_10",
+    "text": "Wrote a 40-page dissertation on three minority writers who are not commonly taught in U.S. K-12 schools or colleges, exploring literary devices and techniques used before other writers who are commonly taught\nPresented research findings at Nineteenth-Century Studies Association 2021 Conference as one of five undergrads selected to give a 10-minute talk\nResearched writers’ lives and work by analyzing newspaper archives (via LexisNexis), conducting interviews with literary scholars who focus on the 19th century, and traveling to review old correspondence and writings not widely reproduced\nAnalyzed 12 total texts to compare literary devices and techniques between focal writers and their contemporaries\nWithin a Dedicated Section (typical for current students and new graduates) \nHere’s how an aspiring software engineer might describe a project they did in their free time to show off their cod",
+    "metadata": {
+      "source_file": "Source_07.txt",
+      "title": "How and When to Include Projects on Your Resume",
+      "url": "https://career.pennwest.edu/blog/2022/08/10/how-and-when-to-include-projects-on-your-resume-plus-examples/",
+      "chunk_index": 10,
+      "char_count": 900
+    }
+  },
+  {
+    "id": "Source_07_chunk_11",
+    "text": "spiring software engineer might describe a project they did in their free time to show off their coding chops to prospective employers.",
+    "metadata": {
+      "source_file": "Source_07.txt",
+      "title": "How and When to Include Projects on Your Resume",
+      "url": "https://career.pennwest.edu/blog/2022/08/10/how-and-when-to-include-projects-on-your-resume-plus-examples/",
+      "chunk_index": 11,
+      "char_count": 135
+    }
+  },
+  {
+    "id": "Source_07_chunk_12",
+    "text": "RELEVANT PROJECTS\n\nTheTradingPost.com | March 2020–September 2020 | Link\n\nDesigned and coded a website (using CSS, Python, and JavaScript) where players of popular video games could arrange trades for virtual items, receiving an average of 1000 hits monthly\nResponded to user feedback and issues to improve site functionality and build additional features including a search function\nWithin Your Experience Section\nHere’s how a marketer looking to pivot into project management might include a project under a past job immediately after the bullet points describing their overall duties and accomplishments.\n\nKey Project",
+    "metadata": {
+      "source_file": "Source_07.txt",
+      "title": "How and When to Include Projects on Your Resume",
+      "url": "https://career.pennwest.edu/blog/2022/08/10/how-and-when-to-include-projects-on-your-resume-plus-examples/",
+      "chunk_index": 12,
+      "char_count": 620
+    }
+  },
+  {
+    "id": "Source_07_chunk_13",
+    "text": "after the bullet points describing their overall duties and accomplishments.\n\nKey Project\n\nLed $200k digital marketing campaign from conception to launch, resulting in 120% of target signups in first two months of campaign\nManaged cross-functional team of seven marketing coordinators and analysts, content creators, and designers through market research, content creation, campaign launch, and analysis of results, setting deadlines, adjusting to changes in schedule, and resolving conflicts and miscommunications among teams",
+    "metadata": {
+      "source_file": "Source_07.txt",
+      "title": "How and When to Include Projects on Your Resume",
+      "url": "https://career.pennwest.edu/blog/2022/08/10/how-and-when-to-include-projects-on-your-resume-plus-examples/",
+      "chunk_index": 13,
+      "char_count": 526
+    }
+  },
+  {
+    "id": "Source_08_chunk_0",
+    "text": "I was talking to a friend and he said he put his projects on his resume, but didn’t even link his GitHub, and he’s had big N interviews. I find this incredibly strange. Do recruiters actually look through your GitHub and launch your projects/programs?",
+    "metadata": {
+      "source_file": "Source_08.txt",
+      "title": "Do Recruiters Look Through GitHub Projects?",
+      "url": "https://www.reddit.com/r/csMajors/comments/ol42hl/do_recruiters_actually_go_through_your_github/",
+      "chunk_index": 0,
+      "char_count": 251
+    }
+  },
+  {
+    "id": "Source_08_chunk_1",
+    "text": "There are interviews where they ask you about your projects, and they MAY ask you to demo an implementation. It's good to have github links/youtube links of your project handy.\n\nReply:\nAgree. Almost always they pick some random thing or two on your resume for you to talk about both technically and if possible, how you fit on the team that did it.\n\nThat’s also why its always a good rule to only mention the things YOU did on a group project, not what WE did. Sure, we built the app together, but don’t talk about how we built up a backend from scratch on the resume when YOU only worked on the frontend.\n\nComment:\nI once had an interview where they asked me in depth about the project — I had the git repo open because I was reviewing my own code and showed them that at first, and then they took it further and asked me to run it and we went through a debugging session together.",
+    "metadata": {
+      "source_file": "Source_08.txt",
+      "title": "Do Recruiters Look Through GitHub Projects?",
+      "url": "https://www.reddit.com/r/csMajors/comments/ol42hl/do_recruiters_actually_go_through_your_github/",
+      "chunk_index": 1,
+      "char_count": 882
+    }
+  },
+  {
+    "id": "Source_08_chunk_2",
+    "text": "then they took it further and asked me to run it and we went through a debugging session together.\n\nComment:\nThat’s why interviews depend so heavily on algorithmic questions. From just your resume, how would anyone be able to tell what you really contributed and whether any of those projects are real or as impressive as described?\n\nComment:\nMost big companies don’t care about your personal projects.\n\nReply:\nYou can lie but these projects do not carry a lot of weight anyway.\n\nComment:\nI’ve had hiring managers look at my GitHub. Even if it’s to peek to see that your garden is green.\n\nComment:\nI’m not a recruiter but I do interviews for my company when we’re hiring. I’ll almost always try and find a GitHub or GitLab, but if I can’t find one it doesn’t reflect negatively on candidates. If you’re still a strong candidate, I’ll hire you with or without a public GitHub or GitLab.",
+    "metadata": {
+      "source_file": "Source_08.txt",
+      "title": "Do Recruiters Look Through GitHub Projects?",
+      "url": "https://www.reddit.com/r/csMajors/comments/ol42hl/do_recruiters_actually_go_through_your_github/",
+      "chunk_index": 2,
+      "char_count": 885
+    }
+  },
+  {
+    "id": "Source_08_chunk_3",
+    "text": "If you’re still a strong candidate, I’ll hire you with or without a public GitHub or GitLab.\n\nComment:\nMost recruiters don’t know any code. Make sure to include screenshots in the repo or have your application hosted somewhere like Heroku in case they do decide to take a look.\n\nReply:\nYup, I have a couple projects running on Heroku at all times. Costs me like a dollar a month.\n\nComment:\nIf you have one they may. A Google recruiter reached out to me and I got an interview there because of my GitHub projects. I ended up getting a job at Microsoft, and during my onsite interview, one of my interviewers had a project from my GitHub up on his computer and was asking me questions about my code.",
+    "metadata": {
+      "source_file": "Source_08.txt",
+      "title": "Do Recruiters Look Through GitHub Projects?",
+      "url": "https://www.reddit.com/r/csMajors/comments/ol42hl/do_recruiters_actually_go_through_your_github/",
+      "chunk_index": 3,
+      "char_count": 697
+    }
+  },
+  {
+    "id": "Source_08_chunk_4",
+    "text": "had a project from my GitHub up on his computer and was asking me questions about my code.\n\nCould be circumstantial. This was me getting my first job in tech and I don’t have a degree, so my portfolio was pretty much all the proof they had to go on that I could do anything. Now that I do have a couple years experience, I’m sure that my personal projects won’t be as huge a deal and as time goes on, my resume will be able to speak for itself. But in my experience, for someone with little to no experience, recruiters look and it may well also come up in interviews.\n\nReply:\nThe majority of my projects are from doing a tutorial to learn some new tech, but then I take it further and keep finding new things to add to it. As I learn new things, I go back and find ways to implement it in old projects or update them.",
+    "metadata": {
+      "source_file": "Source_08.txt",
+      "title": "Do Recruiters Look Through GitHub Projects?",
+      "url": "https://www.reddit.com/r/csMajors/comments/ol42hl/do_recruiters_actually_go_through_your_github/",
+      "chunk_index": 4,
+      "char_count": 818
+    }
+  },
+  {
+    "id": "Source_08_chunk_5",
+    "text": "it. As I learn new things, I go back and find ways to implement it in old projects or update them.\n\nMy biggest project is one I thought up myself and started when learning React. Then I went back and added Redux. It uses a couple different APIs, SCSS, and a few other things. In the GitHub README, I document all the changes I’ve made along the way, as well as future plans like login, profiles, favorite lists, etc.\n\nI implemented CI/CD in all my projects, and they are all deployed so someone can see them in action. If the project has an admin or user account, someone can either sign up or use the demo user/password.\n\nWhen I talk about my projects, I start with what it was if I started with a tutorial, then discuss how I kept adding new features and improving it as I learned new tech, plus whatever new thing I’m interested in learning and plan to add.",
+    "metadata": {
+      "source_file": "Source_08.txt",
+      "title": "Do Recruiters Look Through GitHub Projects?",
+      "url": "https://www.reddit.com/r/csMajors/comments/ol42hl/do_recruiters_actually_go_through_your_github/",
+      "chunk_index": 5,
+      "char_count": 860
+    }
+  },
+  {
+    "id": "Source_08_chunk_6",
+    "text": "it as I learned new tech, plus whatever new thing I’m interested in learning and plan to add.\n\nI’m able to talk with excitement over my projects, talk in depth about what I can do, what issues I had and how I fixed them. There are a ton of things in my projects that interviewers have talked with me about that I can do better, which is useful because I can take that into the next interview and talk about what I learned, how I handle criticism and suggestions, and that I’m still open to learning new things.\n\nComment:\nI’ve never linked my GitHub and got plenty of interviews as a freshman last year. The people that lie about projects on their resume are going to have a real fun time explaining how they built a project they have no idea works to an engineering manager at a top company.",
+    "metadata": {
+      "source_file": "Source_08.txt",
+      "title": "Do Recruiters Look Through GitHub Projects?",
+      "url": "https://www.reddit.com/r/csMajors/comments/ol42hl/do_recruiters_actually_go_through_your_github/",
+      "chunk_index": 6,
+      "char_count": 791
+    }
+  },
+  {
+    "id": "Source_08_chunk_7",
+    "text": "how they built a project they have no idea works to an engineering manager at a top company.\n\nReply:\nHonestly, mainly because I beefed my LinkedIn as much as possible right before recruiting season started. I did a data science camp through my college which had a bunch of professional development workshops and access to opportunities. All of the interviews I got essentially came from LinkedIn DMs and opportunities I found through networking.\n\nComment:\nNo, ain’t nobody got time for that.\n\nReply:\nAs someone who regularly interviews and hires devs, absolutely no one has time for that.\n\nComment:\nIt depends. A few of my callback emails, including a few from Top N companies, included references to my specific projects. Also, in later interview stages, I was asked for 3 to 4 GitHub project links beforehand.",
+    "metadata": {
+      "source_file": "Source_08.txt",
+      "title": "Do Recruiters Look Through GitHub Projects?",
+      "url": "https://www.reddit.com/r/csMajors/comments/ol42hl/do_recruiters_actually_go_through_your_github/",
+      "chunk_index": 7,
+      "char_count": 811
+    }
+  },
+  {
+    "id": "Source_08_chunk_8",
+    "text": "projects. Also, in later interview stages, I was asked for 3 to 4 GitHub project links beforehand.\n\nThough most people said here that they spend less time on each applicant — which is true — and going through projects is not common, I would suggest having a clean repo. At least the front page, README, and some part of the main code should be properly uploaded.\n\nReply:\nI’m an AI graduate, so I tried to cover a wide range of projects including standard machine learning, prediction, classification using decision trees and XGBoost, NLP such as sentiment analysis and similarity testing, computer vision applications of semantic and instance segmentation, and a few from multi-robot controls. My courses were based on these topics and had a project in each of them, which are in my repo.",
+    "metadata": {
+      "source_file": "Source_08.txt",
+      "title": "Do Recruiters Look Through GitHub Projects?",
+      "url": "https://www.reddit.com/r/csMajors/comments/ol42hl/do_recruiters_actually_go_through_your_github/",
+      "chunk_index": 8,
+      "char_count": 788
+    }
+  },
+  {
+    "id": "Source_08_chunk_9",
+    "text": "My courses were based on these topics and had a project in each of them, which are in my repo.\n\nRegarding ideas, I think you should check for the key projects or research areas in your domain. Even if it is a simple project, it is fine to upload. What matters is your work at the very minute scale. In my case, a simple sentiment analysis with decision tree got me a call.\n\nComment:\nI’m not a dedicated recruiter, but I have spent a good deal of time recruiting over the years. The only time I actually look at projects on a resume is to prepare for the interview.\n\nHaving the projects on there is great to get the first screening/interview, but I have 900 resumes to go through after a single day of a career fair — I’m not going to your GitHub, unfortunately.",
+    "metadata": {
+      "source_file": "Source_08.txt",
+      "title": "Do Recruiters Look Through GitHub Projects?",
+      "url": "https://www.reddit.com/r/csMajors/comments/ol42hl/do_recruiters_actually_go_through_your_github/",
+      "chunk_index": 9,
+      "char_count": 761
+    }
+  },
+  {
+    "id": "Source_08_chunk_10",
+    "text": "to go through after a single day of a career fair — I’m not going to your GitHub, unfortunately.\n\nHaving said that, I WILL look before the interview to use for the purpose of questions. So if you embellished or lie about what you’ve done, I will find out and I won’t be happy about it. Expect the hardest questions I feel like tossing out that day and very little leniency. I do not appreciate lying.\n\nReply:\nI don’t actually pay attention to commits. It’s more a problem if they say “oh I wrote this amazing thing” and I open up the GitHub and it’s literally a bunch of skeleton code that doesn’t work.\n\nThe other side is a group project. I expect you to be able to speak to the work you did at depth and have some understanding of the rest.\n\nSo when I say “lying” or “embellishing,” I mean don’t put anything on the resume you aren’t ready to speak to with confidence.",
+    "metadata": {
+      "source_file": "Source_08.txt",
+      "title": "Do Recruiters Look Through GitHub Projects?",
+      "url": "https://www.reddit.com/r/csMajors/comments/ol42hl/do_recruiters_actually_go_through_your_github/",
+      "chunk_index": 10,
+      "char_count": 870
+    }
+  },
+  {
+    "id": "Source_08_chunk_11",
+    "text": "I mean don’t put anything on the resume you aren’t ready to speak to with confidence.\n\nComment:\nAn interviewer from NASA asked for my GitHub today. First person ever to do so.\n\nComment:\nRecruiters unlikely, but the few applications who then end up on my table I definitely check out. But only skim the code if it looks reasonable. I don’t run anything.\n\nAlso had people just send over code samples. I don’t care if it’s on GitHub if I somehow get something to look at. I think most of my colleagues don’t have anything up on GitHub or not even an account. I am just skeptical if a dev doesn’t know what GitHub is.\n\nComment:\nI’m in PM. Whenever I’m speaking with a candidate, I go through their GitHub. I doubt this happens at the recruiter level, but by the time you make a loop interview we’re seeing a lot fewer candidates.",
+    "metadata": {
+      "source_file": "Source_08.txt",
+      "title": "Do Recruiters Look Through GitHub Projects?",
+      "url": "https://www.reddit.com/r/csMajors/comments/ol42hl/do_recruiters_actually_go_through_your_github/",
+      "chunk_index": 11,
+      "char_count": 825
+    }
+  },
+  {
+    "id": "Source_08_chunk_12",
+    "text": "the recruiter level, but by the time you make a loop interview we’re seeing a lot fewer candidates.\n\nComment:\nRecruiters? No. But companies that may have taken an interest in your resume? Sometimes yes.\n\nComment:\nI am interning for a lab currently, and my interviewer at least glanced at all of my projects. Given it’s a smaller applicant pool, he was able to do this, but I doubt a FAANG company would, at least not at the first stages.\n\nComment:\nVery unlikely. That being said, I had an interviewer who did. I had to tell the truth about how it was a bit unfinished, though I didn’t mention that in my resume, but they liked it anyway and gave me an offer.",
+    "metadata": {
+      "source_file": "Source_08.txt",
+      "title": "Do Recruiters Look Through GitHub Projects?",
+      "url": "https://www.reddit.com/r/csMajors/comments/ol42hl/do_recruiters_actually_go_through_your_github/",
+      "chunk_index": 12,
+      "char_count": 658
+    }
+  },
+  {
+    "id": "Source_08_chunk_13",
+    "text": "though I didn’t mention that in my resume, but they liked it anyway and gave me an offer.\n\nComment:\nThe short answer is yes, sometimes. Obviously they don’t look at your GitHub unless you get basically to the end of the interview process. But I have checked people’s GitHub for plagiarism before and I’ve turned people away for having poor code. In short, it does matter.\n\nComment:\nI’ve used it for borderline folks before, if I’m not sure if they should be hired and I want to check up on things. Usually I’ll just look at the resume though.\n\nComment:\nRecruiters? No. The tech team that is going to interview you once your resume makes it past the recruiter? Yes.\n\nComment:\nNo, but some of the engineers who interviewed me have looked through them.",
+    "metadata": {
+      "source_file": "Source_08.txt",
+      "title": "Do Recruiters Look Through GitHub Projects?",
+      "url": "https://www.reddit.com/r/csMajors/comments/ol42hl/do_recruiters_actually_go_through_your_github/",
+      "chunk_index": 13,
+      "char_count": 749
+    }
+  },
+  {
+    "id": "Source_08_chunk_14",
+    "text": "Yes.\n\nComment:\nNo, but some of the engineers who interviewed me have looked through them.\n\nComment:\nI don’t have my GitHub on my resume, but I’m still able to get Big N interviews. I agree with a lot of people in this thread: you shouldn’t lie on your resume because it can come back to haunt you; being able to describe your project in a way that makes recruiters want to give you an interview is better than making space for a GitHub link; recruiters only take a few seconds to review your resume. I don’t keep track of my GitHub; I use it here and there, but it has not been a hindrance on any interviews I’ve had.",
+    "metadata": {
+      "source_file": "Source_08.txt",
+      "title": "Do Recruiters Look Through GitHub Projects?",
+      "url": "https://www.reddit.com/r/csMajors/comments/ol42hl/do_recruiters_actually_go_through_your_github/",
+      "chunk_index": 14,
+      "char_count": 617
+    }
+  },
+  {
+    "id": "Source_08_chunk_15",
+    "text": "of my GitHub; I use it here and there, but it has not been a hindrance on any interviews I’ve had.\n\nComment:\nYes. I have been involved in hiring software developers for over 5 years. I have held around 50 interviews in that time. If I get a resume for someone I’m interviewing and they have a GitHub account, I spend about 5 to 10 minutes scrolling around to get an idea of the level and quality of their code.\n\nI also work at a company that has a couple of very specialized code bases. When we need to hire engineers in those spaces, we typically look for developers who have contributed to the open source projects we use.\n\nComment:\nRecruiters sometimes inquire about your GitHub account, and while you may not be certain if they’ll actually check it, it’s always wise to keep it polished and visually appealing. After all, you never know when it might come in handy.",
+    "metadata": {
+      "source_file": "Source_08.txt",
+      "title": "Do Recruiters Look Through GitHub Projects?",
+      "url": "https://www.reddit.com/r/csMajors/comments/ol42hl/do_recruiters_actually_go_through_your_github/",
+      "chunk_index": 15,
+      "char_count": 869
+    }
+  },
+  {
+    "id": "Source_08_chunk_16",
+    "text": "to keep it polished and visually appealing. After all, you never know when it might come in handy.\n\nComment:\nI haven’t really had a recruiter go through my GitHub. When I interviewed for my current internship, my interviewer had clearly just started to glance over my projects a few minutes before the phone call.\n\nComment:\nThe recruiter that recruited me did not have technical knowledge so he didn’t care about my GitHub, but when I actually interviewed with my now boss, he did ask me questions regarding projects on my GitHub account.\n\nComment:\nYes, source: I’m a recruiter. Or, the good ones do at least.\n\nComment:\nLast week in my company due to employee shortage they asked me to help HR label some CVs they received from recruiters. Basically deciding whether they should be front end, data engineer, DevOps, etc., and the years of experience they had, and looking for certain skill sets.",
+    "metadata": {
+      "source_file": "Source_08.txt",
+      "title": "Do Recruiters Look Through GitHub Projects?",
+      "url": "https://www.reddit.com/r/csMajors/comments/ol42hl/do_recruiters_actually_go_through_your_github/",
+      "chunk_index": 16,
+      "char_count": 895
+    }
+  },
+  {
+    "id": "Source_08_chunk_17",
+    "text": "engineer, DevOps, etc., and the years of experience they had, and looking for certain skill sets.\n\nThey gave me 100 CVs to check. At the beginning I was looking into every GitHub repo they had and giving a label to the ones I considered good, but after checking 20 of them I realized that it would take me maybe a day or more to actually look at every single one and they wanted them for that same day. So being on the other side, I can tell you that at least for the first round of selecting which candidates we would actually interview, we didn’t look at their GitHub repos.",
+    "metadata": {
+      "source_file": "Source_08.txt",
+      "title": "Do Recruiters Look Through GitHub Projects?",
+      "url": "https://www.reddit.com/r/csMajors/comments/ol42hl/do_recruiters_actually_go_through_your_github/",
+      "chunk_index": 17,
+      "char_count": 576
+    }
+  },
+  {
+    "id": "Source_08_chunk_18",
+    "text": "of selecting which candidates we would actually interview, we didn’t look at their GitHub repos.\n\nComment:\nI graduated recently with two Big N internships and a Big N job lined up and have never had an interviewer ask me to do anything but explain my projects and the design decisions I had to make. Don’t get me wrong, projects matter immensely, but your ability to explain your design decisions is immensely more important if you are interviewing for backend roles.\n\nIf it was a substantial backend project, it’s unlikely that an engineer would be able to get a ton out of reading through your code other than style without a lot of time.\n\nComment:\nThey might ask you to pick a good project and run it for them during the final stage interviews. So always keep at least one impressive project in there.",
+    "metadata": {
+      "source_file": "Source_08.txt",
+      "title": "Do Recruiters Look Through GitHub Projects?",
+      "url": "https://www.reddit.com/r/csMajors/comments/ol42hl/do_recruiters_actually_go_through_your_github/",
+      "chunk_index": 18,
+      "char_count": 804
+    }
+  },
+  {
+    "id": "Source_08_chunk_19",
+    "text": "them during the final stage interviews. So always keep at least one impressive project in there.\n\nComment:\nTo get to the interview, no. But later on in the interview process they’d take a peek to help with team matching, usually just for projects I had mentioned on my resume.\n\nComment:\nRecruiters might not, but interviewing managers and developers definitely do. It gives us something to talk about, but I’ve never considered it to be required proof of coding ability.\n\nComment:\nI’ve interviewed a guy who put his final project on GitHub but it was terrible and made no sense, so I was very skeptical during the interview. I thought to myself: this is what you think is acceptable?\n\nComment:\nProbably not recruiters, but some interviewers have asked me for my GitHub link before, so they do look at those.\n\nComment:\nAt Apple your developer interviewers do sometimes.",
+    "metadata": {
+      "source_file": "Source_08.txt",
+      "title": "Do Recruiters Look Through GitHub Projects?",
+      "url": "https://www.reddit.com/r/csMajors/comments/ol42hl/do_recruiters_actually_go_through_your_github/",
+      "chunk_index": 19,
+      "char_count": 868
+    }
+  },
+  {
+    "id": "Source_08_chunk_20",
+    "text": "Cleaning note:\nDeleted comments, bot comments, Reddit navigation text, repeated “more replies,” and unrelated recommended posts were omitted. This file keeps the original post and the comments most relevant to CS portfolio projects, GitHub links, recruiter behavior, interview preparation, documentation, and project credibility.",
+    "metadata": {
+      "source_file": "Source_08.txt",
+      "title": "Do Recruiters Look Through GitHub Projects?",
+      "url": "https://www.reddit.com/r/csMajors/comments/ol42hl/do_recruiters_actually_go_through_your_github/",
+      "chunk_index": 20,
+      "char_count": 329
+    }
+  },
+  {
+    "id": "Source_09_chunk_0",
+    "text": "Building a coding portfolio: 12 projects to impress interviewers\nMeta has thousands of job openings every year and each opening receives hundreds —sometimes thousands — of applications. That’s a lot to sift through. Take it from me, I’ve been on the other side as an interviewer at Meta and beyond, and reviewing countless resumes gets mind-numbing.\n\nIn fact, at some point, I don't care what libraries or keywords I see on your resume. I go straight to your coding portfolio to see the hard proof of what you can actually DO with your skills.\n\nIn a crowd of candidates with similar qualifications, your portfolio is a demonstration of your problem-solving skills, initiatives, and interests.",
+    "metadata": {
+      "source_file": "Source_09.txt",
+      "title": "Building a Coding Portfolio",
+      "url": "https://www.educative.io/blog/building-a-coding-portfolio",
+      "chunk_index": 0,
+      "char_count": 692
+    }
+  },
+  {
+    "id": "Source_09_chunk_1",
+    "text": "your portfolio is a demonstration of your problem-solving skills, initiatives, and interests.\n\nIn this guide, I’ll walk you through how to craft a coding portfolio that isn't just seen — it's top of mind. Whether you're an experienced engineer or just getting started, these tip will help you stand out and land the job you're aiming for.\n\nWhy a coding portfolio matters\nA coding portfolio is one of your biggest assets as a candidate.\n\nHere's why:\n\nShowing instead of telling: Demonstrate how you can apply your knowledge to real-world problems.\n\nHighlights your best work: Allows you to showcase your most impressive projects.\n\nShows commitment: Demonstrates your dedication and passion for coding.\n\nDifferentiates you from others: Helps you stand out in a pool of candidates with similar qualifications.",
+    "metadata": {
+      "source_file": "Source_09.txt",
+      "title": "Building a Coding Portfolio",
+      "url": "https://www.educative.io/blog/building-a-coding-portfolio",
+      "chunk_index": 1,
+      "char_count": 806
+    }
+  },
+  {
+    "id": "Source_09_chunk_2",
+    "text": "you from others: Helps you stand out in a pool of candidates with similar qualifications.\n\nKey components of a strong coding portfolio\nWhen I evaluate a candidate's portfolio, I look for 6 qualifiers:\n\nDiverse project selection: Include a variety of projects to demonstrate a broad skill set.\n\nQuality over quantity: Focus on the quality and completeness of each project.\n\nDetailed documentation: Provide clear documentation and explanations for each project.\n\nSource code accessibility: Make your code available on platforms like GitHub.\n\nUser interface and user experience: Ensure your projects are user-friendly and visually appealing.\n\nProblem-solving projects: Highlight projects that solve specific problems or improve existing solutions.",
+    "metadata": {
+      "source_file": "Source_09.txt",
+      "title": "Building a Coding Portfolio",
+      "url": "https://www.educative.io/blog/building-a-coding-portfolio",
+      "chunk_index": 2,
+      "char_count": 744
+    }
+  },
+  {
+    "id": "Source_09_chunk_3",
+    "text": "projects: Highlight projects that solve specific problems or improve existing solutions.\n\n12 essential projects for your coding portfolio\nCreating a diverse and comprehensive portfolio requires selecting projects that demonstrate a variety of skills and expertise. Here are some essential types of projects that will make a significant impact on potential employers.\n\n1. Personal website\nA personal website functions as both a digital resume and a comprehensive portfolio. Through a website, you can effectively showcase your technical skills, creativity, and ability to integrate various web technologies into a user-friendly experience.\n\nKey features to include:\n\nAbout me: Add a brief introduction to who you are, your interests, and your professional journey.",
+    "metadata": {
+      "source_file": "Source_09.txt",
+      "title": "Building a Coding Portfolio",
+      "url": "https://www.educative.io/blog/building-a-coding-portfolio",
+      "chunk_index": 3,
+      "char_count": 763
+    }
+  },
+  {
+    "id": "Source_09_chunk_4",
+    "text": "me: Add a brief introduction to who you are, your interests, and your professional journey.\n\nProjects: A dedicated section for your projects, detailing what you built, the tech stack, and links to live demos or GitHub repositories.\n\nBlog: Showcase your knowledge and ability to communicate complex ideas clearly.\n\nContact information: Make it easy for employers to contact you.\n\n2. Open-source contributions\nContributing to open-source projects showcases your collaboration skills, commitment to coding standards, and ability to make meaningful contributions. It reflects your commitment to community-driven development and ability to handle code reviews and feedback. This experience enhances your technical skills and builds your reputation within the developer community, making you a more attractive candidate to employers.\n\nHow to get started:",
+    "metadata": {
+      "source_file": "Source_09.txt",
+      "title": "Building a Coding Portfolio",
+      "url": "https://www.educative.io/blog/building-a-coding-portfolio",
+      "chunk_index": 4,
+      "char_count": 848
+    }
+  },
+  {
+    "id": "Source_09_chunk_5",
+    "text": "the developer community, making you a more attractive candidate to employers.\n\nHow to get started:\n\nFind projects: Look for projects that align with your interests on platforms like GitHub or GitLab.\n\nStart small: Begin with smaller issues or documentation improvements to get familiar with the project.\n\nEngage with the community: Participate in discussions, attend virtual meetups, and seek feedback on your contributions.\n\nContribution flow on GitHub\n\nContribution flow on GitHub\n3. Full-stack applications\nFull-stack applications demonstrate your ability to handle both front-end and back-end development. They show that you can build complete and functional applications from scratch.\n\nProject ideas:\n\nE-commerce platform: Build a fully functional online store with product listings, a shopping cart, and payment integration.",
+    "metadata": {
+      "source_file": "Source_09.txt",
+      "title": "Building a Coding Portfolio",
+      "url": "https://www.educative.io/blog/building-a-coding-portfolio",
+      "chunk_index": 5,
+      "char_count": 830
+    }
+  },
+  {
+    "id": "Source_09_chunk_6",
+    "text": "a fully functional online store with product listings, a shopping cart, and payment integration.\n\nSocial media app: Create a social networking site with user profiles, friend connections, and real-time messaging.\n\nProject management tool: Develop a tool for managing tasks, teams, and projects.\n\n4. Data science projects\nIf you're interested in data-heavy roles, you'll need some demonstrative data science projects to show you can analyze, model, and visualize data.\n\nProject ideas:\n\nSentiment analysis: Analyze social media posts to determine the sentiment of users towards a particular topic or brand.\n\nPredictive modeling: Build models to predict outcomes such as housing prices, stock market trends, or customer retention.\n\nData visualization: Create interactive dashboards to visualize complex datasets using tools like Tableau or D3.js.",
+    "metadata": {
+      "source_file": "Source_09.txt",
+      "title": "Building a Coding Portfolio",
+      "url": "https://www.educative.io/blog/building-a-coding-portfolio",
+      "chunk_index": 6,
+      "char_count": 843
+    }
+  },
+  {
+    "id": "Source_09_chunk_7",
+    "text": "Create interactive dashboards to visualize complex datasets using tools like Tableau or D3.js.\n\nEducative Projects includes various guided data science projects, such as:\n\nSentiment Analysis Using Multinomial Logistic Regression\n\nStock Market Data Visualization Using Python\n\n5. Technical writing and tutorials\nTechnical writing is your ability to communicate complex technical concepts clearly and effectively — and is one of the most overlooked skills among developers.\n\nProject ideas:\n\nWrite blog posts: Share tutorials, coding tips, and insights on platforms like Medium or your own blog.\n\nCreate video tutorials: Record screen-capture videos explaining how to solve specific problems or build projects.\n\nPublish eBooks: Write and publish eBooks on topics you're passionate about, such as a guide to a programming language or framework.",
+    "metadata": {
+      "source_file": "Source_09.txt",
+      "title": "Building a Coding Portfolio",
+      "url": "https://www.educative.io/blog/building-a-coding-portfolio",
+      "chunk_index": 7,
+      "char_count": 840
+    }
+  },
+  {
+    "id": "Source_09_chunk_8",
+    "text": "eBooks on topics you're passionate about, such as a guide to a programming language or framework.\n\n6. Algorithm and data structure implementations\nImplementing algorithms and data structures from scratch shows your understanding of fundamental computer science concepts. It also demonstrates problem-solving skills and the ability to optimize code.\n\nDifferent data structures visualization\n\nDifferent data structures visualization\nProject ideas:\n\nSorting algorithms: Implement and compare different sorting algorithms, such as quicksort, mergesort, and heapsort.\n\nData structures: Build implementations of data structures like linked lists, trees, graphs, and hash tables.\n\nCompetitive programming: Solve problems from competitive programming platforms and share your solutions.",
+    "metadata": {
+      "source_file": "Source_09.txt",
+      "title": "Building a Coding Portfolio",
+      "url": "https://www.educative.io/blog/building-a-coding-portfolio",
+      "chunk_index": 8,
+      "char_count": 778
+    }
+  },
+  {
+    "id": "Source_09_chunk_9",
+    "text": "programming: Solve problems from competitive programming platforms and share your solutions.\n\n7. Mobile applications\nMobile applications show your ability to develop software that runs on mobile devices, highlighting your skills in mobile-specific frameworks and design principles.\n\nProject ideas:\n\nFitness tracker: Develop an app that tracks workouts, monitors progress, and provides fitness tips.\n\nRecipe app: Create an app that helps users find, save, and share recipes.\n\nExpense tracker: Build an app that helps users manage their expenses and budget effectively.\n\n8. Game development\nGame development projects showcase creativity, problem-solving skills, and the ability to work with complex logic and graphics.\n\nProject ideas:\n\nPuzzle game: Develop a challenging and engaging puzzle.\n\nPlatformer game: Create a 2D platformer game with levels, enemies, and power-ups.",
+    "metadata": {
+      "source_file": "Source_09.txt",
+      "title": "Building a Coding Portfolio",
+      "url": "https://www.educative.io/blog/building-a-coding-portfolio",
+      "chunk_index": 9,
+      "char_count": 872
+    }
+  },
+  {
+    "id": "Source_09_chunk_10",
+    "text": "engaging puzzle.\n\nPlatformer game: Create a 2D platformer game with levels, enemies, and power-ups.\n\nMultiplayer game: Build a simple multiplayer game that allows users to compete or cooperate online.\n\nEducative Projects includes a walkthrough on a puzzle game.\n\n9. Internet of Things (IoT) projects\nIoT projects demonstrate your ability to work with hardware and software, integrating physical devices with software solutions.\n\nProject ideas:\n\nSmart home system: Develop a system that allows users to control home appliances remotely.\n\nEnvironmental monitoring: Create a project that monitors environmental parameters like temperature, humidity, and air quality.\n\nWearable technology: Build a wearable device that tracks health metrics or provides notifications.",
+    "metadata": {
+      "source_file": "Source_09.txt",
+      "title": "Building a Coding Portfolio",
+      "url": "https://www.educative.io/blog/building-a-coding-portfolio",
+      "chunk_index": 10,
+      "char_count": 763
+    }
+  },
+  {
+    "id": "Source_09_chunk_11",
+    "text": "technology: Build a wearable device that tracks health metrics or provides notifications.\n\n10. Chatbots\nChatbot projects show your ability to create interactive applications using natural language processing and machine learning.\n\nProject ideas:\n\nCustomer support bot: Develop a chatbot that provides customer support and answers frequently asked questions.\n\nPersonal assistant bot: Create a bot that helps users manage tasks, set reminders, and answer general queries.\n\nEducational bot: Build a chatbot that teaches users about a specific topic or helps them learn a new language.\n\nRelevant Educative Projects include:\n\nCreate a Conversational Assistant Using Rasa\n\nDevelop a Chatbot Using Python, NLTK, and TensorFlow\n\n11. Blockchain projects\nBlockchain projects demonstrate your understanding of decentralized systems, cryptography, and smart contracts.\n\nProject ideas:",
+    "metadata": {
+      "source_file": "Source_09.txt",
+      "title": "Building a Coding Portfolio",
+      "url": "https://www.educative.io/blog/building-a-coding-portfolio",
+      "chunk_index": 11,
+      "char_count": 872
+    }
+  },
+  {
+    "id": "Source_09_chunk_12",
+    "text": "your understanding of decentralized systems, cryptography, and smart contracts.\n\nProject ideas:\n\nCryptocurrency wallet: Develop a secure wallet for storing and managing cryptocurrencies.\n\nDecentralized application (dApp): Create a dApp that utilizes smart contracts for various use cases.\n\nBlockchain voting system: Build a secure voting system using blockchain technology.\n\n12. Cloud computing projects\nCloud computing projects show your ability to work with cloud platforms, manage scalable applications, and utilize cloud services.\n\nProject ideas:\n\nServerless application: Develop an application using serverless architecture on platforms like AWS Lambda or Azure Functions.\n\nCloud-based file storage: Create a secure file storage system using cloud storage services like Amazon S3 or Google Cloud Storage.",
+    "metadata": {
+      "source_file": "Source_09.txt",
+      "title": "Building a Coding Portfolio",
+      "url": "https://www.educative.io/blog/building-a-coding-portfolio",
+      "chunk_index": 12,
+      "char_count": 809
+    }
+  },
+  {
+    "id": "Source_09_chunk_13",
+    "text": "a secure file storage system using cloud storage services like Amazon S3 or Google Cloud Storage.\n\nDistributed computing: Build a distributed application that performs parallel processing across multiple cloud instances.\n\n5 tips for presenting your portfolio\nTo make your portfolio truly stand out, consider these tips:\n\nClean and organized layout: Ensure your portfolio is easy to navigate and visually appealing. Use a clean, responsive design that works well on desktop and mobile devices.\n\nDetailed project descriptions: For each project, include a detailed description of technologies used, challenges faced, and how you overcame them. Provide links to live demos and GitHub repositories.\n\nCode quality: Make sure your code is clean, well-documented, and follows best practices. Include README files with instructions on how to set up and run your projects.",
+    "metadata": {
+      "source_file": "Source_09.txt",
+      "title": "Building a Coding Portfolio",
+      "url": "https://www.educative.io/blog/building-a-coding-portfolio",
+      "chunk_index": 13,
+      "char_count": 862
+    }
+  },
+  {
+    "id": "Source_09_chunk_14",
+    "text": "best practices. Include README files with instructions on how to set up and run your projects.\n\nContinuous updates: Regularly update your portfolio with new projects, blog posts, and contributions. This shows that you are actively learning and growing as a developer.\n\nShowcase real-world impact: Highlight projects that have real-world applications or have been used by others. Include testimonials or feedback if available.\n\nAdditional considerations include:\n\nShow your work process: Include your thought process, design decisions, and problem-solving strategies.\n\nSeek feedback: Get reviews from peers, mentors, or online communities.\n\nMake it accessible: Ensure your portfolio is easy to navigate and visually appealing.\n\nInclude testimonials: Add endorsements from colleagues, professors, or clients if available.",
+    "metadata": {
+      "source_file": "Source_09.txt",
+      "title": "Building a Coding Portfolio",
+      "url": "https://www.educative.io/blog/building-a-coding-portfolio",
+      "chunk_index": 14,
+      "char_count": 819
+    }
+  },
+  {
+    "id": "Source_09_chunk_15",
+    "text": "testimonials: Add endorsements from colleagues, professors, or clients if available.\n\nHow to structure your portfolio\nYou can use the below structure to create a clear and compelling portfolio layout:\n\nHome page: This includes your brief introduction, background, and a summary of your skills.\n\nProjects page: This page includes detailed descriptions of each project, including:\n\nProject title and description\n\nTechnologies used\n\nKey features\n\nScreenshots or demos\n\nLinks to source code and live demos\n\nAbout me page: This page includes your personal bio, resume, and contact information.\n\nBlog: Write about your learning journey, challenges faced, and solutions found.",
+    "metadata": {
+      "source_file": "Source_09.txt",
+      "title": "Building a Coding Portfolio",
+      "url": "https://www.educative.io/blog/building-a-coding-portfolio",
+      "chunk_index": 15,
+      "char_count": 669
+    }
+  },
+  {
+    "id": "Source_09_chunk_16",
+    "text": "information.\n\nBlog: Write about your learning journey, challenges faced, and solutions found.\n\nA portfolio for your dream job\nA well-crafted coding portfolio can be your greatest asset in the hiring process. To stand out in the competitive job market. be sure you build your portfolio with well-chosen projects, a clean presentation, and keep it well-documented.\n\nRemember, a great portfolio should evolve with your skills and experiences. Whether you’re contributing to open-source, building personal projects, or writing technical tutorials, keep pushing yourself toward growth and improving upon feedback.\n\nWith a strong portfolio, you’ll be well on your way to landing your dream job in tech. Keep coding, keep learning, and let your portfolio reflect your journey and achievements.",
+    "metadata": {
+      "source_file": "Source_09.txt",
+      "title": "Building a Coding Portfolio",
+      "url": "https://www.educative.io/blog/building-a-coding-portfolio",
+      "chunk_index": 16,
+      "char_count": 786
+    }
+  },
+  {
+    "id": "Source_09_chunk_17",
+    "text": "in tech. Keep coding, keep learning, and let your portfolio reflect your journey and achievements.\n\nThere are various guided walkthroughs that help you build projects for your portfolio — you can find hundreds of projects across various topics and interests at Educative Projects.\n\nHappy learning!",
+    "metadata": {
+      "source_file": "Source_09.txt",
+      "title": "Building a Coding Portfolio",
+      "url": "https://www.educative.io/blog/building-a-coding-portfolio",
+      "chunk_index": 17,
+      "char_count": 297
+    }
+  },
+  {
+    "id": "Source_10_chunk_0",
+    "text": "Hiring the right developer is rarely about resumes alone. Portfolios have become the most important signal of real-world capability, especially in a global market where remote work and outsourcing are common. If you’re looking to hire developers in India or anywhere else, knowing how to properly evaluate a portfolio can save you from costly hiring mistakes.\n\nBut here’s the catch: most portfolios are designed to impress, not to inform. They highlight strengths, hide weaknesses, and sometimes exaggerate contributions. So your job isn’t just to look, it’s to analyze, question, and verify.\n\nThis guide breaks down exactly how to do that.\n\nWhy Portfolios Matter More Than Resumes\nResumes tell you what a developer claims to have done. Portfolios show you what they’ve actually built.\n\nA strong portfolio helps you:",
+    "metadata": {
+      "source_file": "Source_10.txt",
+      "title": "How Hiring Evaluates Developer Portfolios",
+      "url": "https://medium.com/predict/how-to-evaluate-developer-portfolios-before-hiring-af2908025a09",
+      "chunk_index": 0,
+      "char_count": 816
+    }
+  },
+  {
+    "id": "Source_10_chunk_1",
+    "text": "to have done. Portfolios show you what they’ve actually built.\n\nA strong portfolio helps you:\n\nSee real code and projects\nUnderstand problem-solving ability\nEvaluate design and architecture decisions\nAssess consistency and growth\nHowever, a flashy portfolio doesn’t always mean a capable developer. That’s why evaluation needs structure.\n\nStep 1: Look Beyond Visual Appeal\nThe first mistake many hiring managers make is judging portfolios based on design.\n\nYes, a clean UI is nice — but it’s not the priority unless you’re hiring a frontend or UI-focused developer.\n\nInstead, ask:\n\nWhat problems does this project solve?\nIs it functional or just a demo?\nIs there depth behind the visuals?\nA portfolio filled with beautiful landing pages but no real functionality is a red flag.\n\nStep 2: Evaluate Real-World Problem Solving\nStrong developers build solutions, not just features.",
+    "metadata": {
+      "source_file": "Source_10.txt",
+      "title": "How Hiring Evaluates Developer Portfolios",
+      "url": "https://medium.com/predict/how-to-evaluate-developer-portfolios-before-hiring-af2908025a09",
+      "chunk_index": 1,
+      "char_count": 876
+    }
+  },
+  {
+    "id": "Source_10_chunk_2",
+    "text": "2: Evaluate Real-World Problem Solving\nStrong developers build solutions, not just features.\n\nWhen reviewing a project:\n\nWhat was the goal?\nWhat challenges were involved?\nHow were those challenges solved?\nLook for case studies or explanations. If a developer explains why they made certain decisions, it shows maturity.\n\nWeak portfolios often:\n\nLack context\nShow only the final output\nAvoid discussing challenges\nStep 3: Check Code Quality (If Available)\nNot all portfolios include code, but when they do, it’s a goldmine.\n\nLook for:\n\nClean, readable structure\nMeaningful variable and function names\nComments where necessary (not excessive)\nProper file organization\nAlso check:\n\nIs the code modular or messy?\nAre best practices followed?\nIs there consistency across projects?\nIf you’re not technical, you can still ask another developer or use tools to review repositories.",
+    "metadata": {
+      "source_file": "Source_10.txt",
+      "title": "How Hiring Evaluates Developer Portfolios",
+      "url": "https://medium.com/predict/how-to-evaluate-developer-portfolios-before-hiring-af2908025a09",
+      "chunk_index": 2,
+      "char_count": 873
+    }
+  },
+  {
+    "id": "Source_10_chunk_3",
+    "text": "you’re not technical, you can still ask another developer or use tools to review repositories.\n\nStep 4: Review GitHub Activity Thoughtfully\nMany hiring managers overvalue GitHub activity graphs. A green contribution chart doesn’t always mean quality work.\n\nInstead, focus on:\n\nTypes of projects\nComplexity of work\nCommit messages (clear vs vague)\nFrequency of meaningful contributions\nWatch out for:\n\nRepositories with little substance\nForked projects with no changes\nTutorial-based clones presented as original work\nStep 5: Assess Project Complexity\nNot all projects are equal.\n\nCompare:\n\nBasic CRUD apps vs scalable systems\nStatic websites vs dynamic applications\nIndividual features vs complete products\nAsk:",
+    "metadata": {
+      "source_file": "Source_10.txt",
+      "title": "How Hiring Evaluates Developer Portfolios",
+      "url": "https://medium.com/predict/how-to-evaluate-developer-portfolios-before-hiring-af2908025a09",
+      "chunk_index": 3,
+      "char_count": 711
+    }
+  },
+  {
+    "id": "Source_10_chunk_4",
+    "text": "systems\nStatic websites vs dynamic applications\nIndividual features vs complete products\nAsk:\n\nDoes the developer handle authentication, APIs, and databases?\nHave they worked with real users or just mock data?\nAre there performance considerations?\nIf you want to hire developers in India for serious projects, make sure they’ve handled complexity similar to your needs.\n\nStep 6: Look for Consistency, Not One-Off Brilliance\nAnyone can build an impressive project. The real question is consistency.\n\nCheck:\n\nAre multiple projects strong, or just one?\nIs there growth over time?\nDo newer projects show improvement?\nA consistent developer is far more valuable than a one-hit wonder.\n\nStep 7: Evaluate Technology Choices\nGood developers don’t just use tools — they choose them intentionally.\n\nLook at:\n\nTech stack used\nRelevance to the project\nJustification (if provided)\nRed flags:",
+    "metadata": {
+      "source_file": "Source_10.txt",
+      "title": "How Hiring Evaluates Developer Portfolios",
+      "url": "https://medium.com/predict/how-to-evaluate-developer-portfolios-before-hiring-af2908025a09",
+      "chunk_index": 4,
+      "char_count": 878
+    }
+  },
+  {
+    "id": "Source_10_chunk_5",
+    "text": "at:\n\nTech stack used\nRelevance to the project\nJustification (if provided)\nRed flags:\n\nOveruse of trendy technologies without need\nSame stack used for every project\nNo explanation for decisions\nStrong developers can explain:\n\n“Why this tool was better than alternatives.”\n\nStep 8: Check for Real Deployments\nA live project says more than screenshots.\n\nGet Megha Verma’s stories in your inbox\nJoin Medium for free to get updates from this writer.\n\nEnter your email\nSubscribe\n\nRemember me for faster sign in\n\nTest:\n\nIs the project deployed?\nDoes it work smoothly?\nAre there bugs or broken links?\nIf a developer claims experience but has no live projects, that’s worth questioning.\n\nStep 9: Look for Documentation and Communication\nTechnical skill alone isn’t enough. Developers need to communicate clearly.\n\nGood portfolios include:",
+    "metadata": {
+      "source_file": "Source_10.txt",
+      "title": "How Hiring Evaluates Developer Portfolios",
+      "url": "https://medium.com/predict/how-to-evaluate-developer-portfolios-before-hiring-af2908025a09",
+      "chunk_index": 5,
+      "char_count": 829
+    }
+  },
+  {
+    "id": "Source_10_chunk_6",
+    "text": "skill alone isn’t enough. Developers need to communicate clearly.\n\nGood portfolios include:\n\nProject descriptions\nSetup instructions\nProblem explanations\nThought processes\nPoor communication in a portfolio often translates to poor communication in a team.\n\nStep 10: Identify Ownership and Contribution\nThis is critical when reviewing team projects.\n\nAsk:\n\nWhat exactly did the developer build?\nWere they leading or just contributing?\nCan they explain their role clearly?\nWatch for vague statements like:“Worked on a team project”\n\nInstead, you want:\n\n“Built the authentication system and optimized database queries.”\n\nStep 11: Spot Red Flags Early\nHere are common warning signs:",
+    "metadata": {
+      "source_file": "Source_10.txt",
+      "title": "How Hiring Evaluates Developer Portfolios",
+      "url": "https://medium.com/predict/how-to-evaluate-developer-portfolios-before-hiring-af2908025a09",
+      "chunk_index": 6,
+      "char_count": 678
+    }
+  },
+  {
+    "id": "Source_10_chunk_7",
+    "text": "and optimized database queries.”\n\nStep 11: Spot Red Flags Early\nHere are common warning signs:\n\nToo many tutorial-based projects\nNo explanation of the work\nBroken or outdated links\nIdentical project structures\nOverly generic descriptions\nLack of recent activity\nThese don’t always mean rejection — but they do require deeper questioning.\n\nStep 12: Match Portfolio to Your Needs\nNot every great developer is right for your project.\n\nFor example:\n\nA strong frontend developer may not handle backend systems well\nA startup may need generalists, not specialists\nEnterprise systems require a different experience than small apps\nSo when you plan to hire developers from India or globally, align:\n\nPortfolio projects\nTech stack\nProblem domain\nWith your actual requirements.\n\nStep 13: Ask Follow-Up Questions\nA portfolio is just the starting point. The real evaluation happens when you ask questions like:",
+    "metadata": {
+      "source_file": "Source_10.txt",
+      "title": "How Hiring Evaluates Developer Portfolios",
+      "url": "https://medium.com/predict/how-to-evaluate-developer-portfolios-before-hiring-af2908025a09",
+      "chunk_index": 7,
+      "char_count": 898
+    }
+  },
+  {
+    "id": "Source_10_chunk_8",
+    "text": "portfolio is just the starting point. The real evaluation happens when you ask questions like:\n\n“What was the hardest part of this project?”\n“What would you improve if you rebuilt it?”\n“Why did you choose this architecture?”\n“What went wrong during development?”\nStrong developers give clear, thoughtful answers. Weak ones struggle or stay vague.\n\nStep 14: Test Their Thinking, Not Memory\nInstead of focusing only on past work, test how they think.\n\nYou can:\n\nGive a small real-world problem\nAsk them to review a piece of code\nDiscuss how they would scale a system\nThis helps validate whether their portfolio reflects real ability.\n\nStep 15: Consider Cultural and Work Fit\nEspecially when working with remote teams, alignment matters.\n\nLook for:",
+    "metadata": {
+      "source_file": "Source_10.txt",
+      "title": "How Hiring Evaluates Developer Portfolios",
+      "url": "https://medium.com/predict/how-to-evaluate-developer-portfolios-before-hiring-af2908025a09",
+      "chunk_index": 8,
+      "char_count": 745
+    }
+  },
+  {
+    "id": "Source_10_chunk_9",
+    "text": "Cultural and Work Fit\nEspecially when working with remote teams, alignment matters.\n\nLook for:\n\nCommunication style\nResponsiveness\nClarity in explanations\nProfessionalism in presentation\nA technically strong developer who cannot communicate effectively can slow down your entire team.\n\nCommon Mistakes to Avoid\nWhen evaluating portfolios, avoid these pitfalls:\n\n1. Overvaluing Design\nA beautiful portfolio doesn’t guarantee strong coding skills.\n\n2. Ignoring Context\nProjects without explanations are hard to evaluate accurately.\n\n3. Rushing the Process\nQuick decisions often lead to poor hires.\n\n4. Comparing Apples to Oranges\nDifferent developers have different strengths — compare fairly.\n\nFinal Thoughts\nA developer portfolio is one of the most powerful hiring tools — but only if you know how to read it properly.\n\nThe goal isn’t to find perfection. It’s to find:",
+    "metadata": {
+      "source_file": "Source_10.txt",
+      "title": "How Hiring Evaluates Developer Portfolios",
+      "url": "https://medium.com/predict/how-to-evaluate-developer-portfolios-before-hiring-af2908025a09",
+      "chunk_index": 9,
+      "char_count": 868
+    }
+  },
+  {
+    "id": "Source_10_chunk_10",
+    "text": "— but only if you know how to read it properly.\n\nThe goal isn’t to find perfection. It’s to find:\n\nProblem solvers\nClear thinkers\nConsistent performers\nWhether you’re planning to hire developers in India or build a global team, a structured evaluation approach will help you identify real talent and avoid costly mistakes.\n\nTake your time, ask the right questions, and always look beyond the surface.",
+    "metadata": {
+      "source_file": "Source_10.txt",
+      "title": "How Hiring Evaluates Developer Portfolios",
+      "url": "https://medium.com/predict/how-to-evaluate-developer-portfolios-before-hiring-af2908025a09",
+      "chunk_index": 10,
+      "char_count": 400
+    }
+  }
+]
